@@ -1,0 +1,224 @@
+{
+  "month": 9,
+  "days": {
+    "1": [
+      {"year":1994,"title":"Matt Fitzpatrick born","text":"Englishman Matt Fitzpatrick, the 2013 U.S. Amateur champion who won the 2022 U.S. Open at The Country Club in Brookline, was born on this day in Sheffield.","category":"birth","player_slug":"matt-fitzpatrick"},
+      {"year":1957,"title":"Gil Morgan; optometrist on tour","text":"American golfer Gil Morgan, an optometrist who won seven PGA Tour titles and many Senior events, was one of the steadiest players of the 1970s and 1980s.","category":"milestone","player_slug":null},
+      {"year":1996,"title":"Steve Jones wins U.S. Open at Oakland Hills","text":"Steve Jones, a qualifier, edged Tom Lehman and Davis Love III by one stroke at Oakland Hills to capture the 1996 U.S. Open.","category":"championship","player_slug":"steve-jones"},
+      {"year":2002,"title":"Craig Parry wins NEC Invitational","text":"Australian Craig Parry holed out from the fairway in a playoff with Robert Allenby and Fred Funk to win the WGC-NEC Invitational at Sahalee.","category":"championship","player_slug":null},
+      {"year":2013,"title":"Adam Scott wins The Barclays","text":"Adam Scott birdied the 72nd hole at Liberty National to beat Justin Rose, Tiger Woods and Gary Woodland by one and win The Barclays FedEx Cup playoff opener.","category":"championship","player_slug":"adam-scott"},
+      {"year":2019,"title":"Patrick Reed wins The Northern Trust","text":"Patrick Reed closed with a 69 at Liberty National to win The Northern Trust by one stroke over Abraham Ancer for the FedEx Cup playoff opener.","category":"championship","player_slug":"patrick-reed"}
+    ],
+    "2": [
+      {"year":1925,"title":"Bobby Locke; the master putter","text":"South Africa's Bobby Locke, a four-time Open Championship winner renowned for his putting and intentional hook, became one of the finest players of the post-war era.","category":"milestone","player_slug":"bobby-locke"},
+      {"year":1951,"title":"Mark Hayes; Turnberry record","text":"American golfer Mark Hayes shot a then-Open-record round of 63 at Turnberry in 1977 during a PGA Tour career that included two victories.","category":"milestone","player_slug":null},
+      {"year":2007,"title":"Steve Stricker wins inaugural Barclays","text":"Steve Stricker shot a closing 65 to win The Barclays at Westchester, the first event of the new FedEx Cup playoff system.","category":"championship","player_slug":null},
+      {"year":2012,"title":"Nick Watney wins The Barclays","text":"Nick Watney closed with a 66 at Bethpage Black to win The Barclays by three strokes over Brandt Snedeker and Sergio Garcia.","category":"championship","player_slug":null},
+      {"year":2018,"title":"Bryson DeChambeau wins Dell Technologies Championship","text":"Bryson DeChambeau won the Dell Technologies Championship at TPC Boston, the second of his back-to-back FedEx Cup playoff victories that took him to the top of the standings.","category":"championship","player_slug":"bryson-dechambeau"}
+    ],
+    "3": [
+      {"year":1943,"title":"Dave Eichelberger born","text":"American golfer Dave Eichelberger, a four-time PGA Tour winner who later won the 1999 U.S. Senior Open, was born on this day in Waco, Texas.","category":"birth","player_slug":null},
+      {"year":1928,"title":"Gene Sarazen era; the Squire","text":"Gene Sarazen, a seven-time major champion and the first to complete the career Grand Slam, helped popularize the modern sand wedge during golf's golden age.","category":"milestone","player_slug":"gene-sarazen"},
+      {"year":1972,"title":"Shigeki Maruyama; Japanese star era","text":"Japanese golfer Shigeki Maruyama, a three-time PGA Tour winner who once shot 58 in U.S. Open qualifying, became one of his country's most successful exports.","category":"milestone","player_slug":null},
+      {"year":2006,"title":"Tiger Woods wins WGC-Bridgestone era dominance","text":"During his dominant 2006 season, Tiger Woods reeled off a string of victories after the Open Championship, reasserting his hold on World No. 1.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2017,"title":"Dustin Johnson and the FedEx playoffs","text":"In the early-September FedEx Cup playoffs, the world's best gathered for The Northern Trust and Dell Technologies Championship in the race to East Lake.","category":"milestone","player_slug":"dustin-johnson"},
+      {"year":1939,"title":"Patty Berg; women's golf grows","text":"Patty Berg, a founding member and first president of the LPGA, was already a dominant amateur in the late 1930s before building the women's professional tour.","category":"milestone","player_slug":null}
+    ],
+    "4": [
+      {"year":1949,"title":"Tom Watson born","text":"Tom Watson, winner of eight majors including five Open Championships and famed for his chip-in to win the 1982 U.S. Open at Pebble Beach, was born on this day in Kansas City, Missouri.","category":"birth","player_slug":"tom-watson"},
+      {"year":1942,"title":"Raymond Floyd born","text":"Raymond Floyd, a World Golf Hall of Famer with four major titles including the 1976 Masters and 1986 U.S. Open, was born on this day in Fort Bragg, North Carolina.","category":"birth","player_slug":"raymond-floyd"},
+      {"year":2006,"title":"Vijay Singh wins Deutsche Bank Championship","text":"Vijay Singh shot a final-round 65 at TPC Boston to win the Deutsche Bank Championship, a Labor Day weekend FedEx Cup playoff event.","category":"championship","player_slug":"vijay-singh"},
+      {"year":2017,"title":"Justin Thomas wins Dell Technologies Championship","text":"Justin Thomas won the Dell Technologies Championship at TPC Boston, a key victory in his FedEx Cup-winning and PGA Championship-winning 2017 season.","category":"championship","player_slug":"justin-thomas"},
+      {"year":1995,"title":"Greg Norman wins NEC World Series of Golf","text":"Greg Norman won the NEC World Series of Golf at Firestone during a dominant stretch atop the world rankings in the mid-1990s.","category":"championship","player_slug":"greg-norman"}
+    ],
+    "5": [
+      {"year":1959,"title":"Tom Pernice Jr. born","text":"American golfer Tom Pernice Jr., a two-time PGA Tour winner and multiple PGA Tour Champions winner, was born on this day in Albany, California.","category":"birth","player_slug":null},
+      {"year":1897,"title":"Alexa Stirling born","text":"Alexa Stirling, who won three straight U.S. Women's Amateur titles from 1916 to 1920 and was Bobby Jones's childhood golf companion in Atlanta, was born on this day.","category":"birth","player_slug":null},
+      {"year":1976,"title":"Padraig Harrington era; future major champ","text":"Ireland's Padraig Harrington went on to win three majors in 2007 and 2008, including back-to-back Open Championships, a high point for Irish golf.","category":"milestone","player_slug":"padraig-harrington"},
+      {"year":2005,"title":"Olin Browne wins Deutsche Bank Championship","text":"Olin Browne won the Deutsche Bank Championship at TPC Boston over the Labor Day weekend, holding off a strong field.","category":"championship","player_slug":null},
+      {"year":2011,"title":"Webb Simpson wins Deutsche Bank Championship","text":"Webb Simpson birdied the last two holes to win the Deutsche Bank Championship at TPC Boston by one over Chez Reavie for his second win in three weeks.","category":"championship","player_slug":"webb-simpson"}
+    ],
+    "6": [
+      {"year":1929,"title":"Dow Finsterwald born","text":"Dow Finsterwald, the 1958 PGA Championship winner with 12 PGA Tour titles and four Ryder Cup appearances, was born on this day in Athens, Ohio.","category":"birth","player_slug":"dow-finsterwald"},
+      {"year":1915,"title":"Ed 'Porky' Oliver born","text":"American golfer Ed 'Porky' Oliver, an eight-time PGA Tour winner who was runner-up at the Masters, U.S. Open and PGA Championship, was born on this day in Wilmington, Delaware.","category":"birth","player_slug":null},
+      {"year":1987,"title":"Curtis Strange era; back-to-back U.S. Opens","text":"Curtis Strange dominated the late 1980s, winning consecutive U.S. Opens in 1988 and 1989 and topping the PGA Tour money list three times.","category":"milestone","player_slug":"curtis-strange"},
+      {"year":2004,"title":"Vijay Singh wins Deutsche Bank, nears No. 1","text":"Vijay Singh won the Deutsche Bank Championship at TPC Boston during his sensational 2004 season, in which he ended Tiger Woods's long reign at World No. 1.","category":"championship","player_slug":"vijay-singh"},
+      {"year":2010,"title":"Charley Hoffman wins Deutsche Bank Championship","text":"Charley Hoffman closed with a 62 at TPC Boston to come from behind and win the Deutsche Bank Championship on Labor Day.","category":"championship","player_slug":null},
+      {"year":2021,"title":"Europe wins Solheim Cup at Inverness","text":"Finland's Matilda Castren holed the clinching putt as Europe beat the United States 15-13 at Inverness Club in Toledo to retain the Solheim Cup.","category":"championship","player_slug":null}
+    ],
+    "7": [
+      {"year":1876,"title":"Bernard Darwin born","text":"Bernard Darwin, the influential golf writer for The Times and a top amateur who was inducted into the World Golf Hall of Fame, was born on this day in Downe, England.","category":"birth","player_slug":null},
+      {"year":1923,"title":"Louise Suggs; LPGA founder era","text":"Louise Suggs, one of the 13 founders of the LPGA and winner of 11 major championships, was among the greatest women players of the mid-20th century.","category":"milestone","player_slug":null},
+      {"year":1963,"title":"Eduardo Romero; Argentine star era","text":"Argentine golfer Eduardo 'El Gato' Romero won eight European Tour titles and the 2008 U.S. Senior Open during a long international career.","category":"milestone","player_slug":null},
+      {"year":2009,"title":"Steve Stricker wins Deutsche Bank Championship","text":"Steve Stricker won the Deutsche Bank Championship at TPC Boston, holding off a strong field over the Labor Day weekend FedEx Cup playoff event.","category":"championship","player_slug":null},
+      {"year":2015,"title":"Rickie Fowler wins Deutsche Bank Championship","text":"Rickie Fowler closed strong at TPC Boston to win the Deutsche Bank Championship by one stroke over Henrik Stenson on Labor Day.","category":"championship","player_slug":null}
+    ],
+    "8": [
+      {"year":1922,"title":"Tommy Bolt; Thunder Bolt era","text":"Tommy 'Thunder' Bolt, famed for his temper and his win at the 1958 U.S. Open, was one of the most colorful players of golf's post-war years.","category":"milestone","player_slug":"tommy-bolt"},
+      {"year":1968,"title":"Loren Roberts; 'Boss of the Moss'","text":"American golfer Loren Roberts, nicknamed the 'Boss of the Moss' for his putting, won eight PGA Tour titles and many Champions Tour events.","category":"milestone","player_slug":null},
+      {"year":1996,"title":"Phil Mickelson wins NEC World Series of Golf","text":"Phil Mickelson won the NEC World Series of Golf at Firestone, one of four PGA Tour titles he captured in his breakout 1996 season.","category":"championship","player_slug":"phil-mickelson"},
+      {"year":2008,"title":"Vijay Singh wins BMW Championship","text":"Vijay Singh won the BMW Championship at Bellerive, a victory that helped him secure the FedEx Cup points lead heading into the finale.","category":"championship","player_slug":"vijay-singh"},
+      {"year":1935,"title":"Patty Berg era; women's golf rises","text":"Through the 1930s amateur championships and exhibitions built women's competitive golf toward the founding of the LPGA Tour in 1950.","category":"milestone","player_slug":null},
+      {"year":2019,"title":"Rory McIlroy wins Tour Championship","text":"Rory McIlroy closed strong at East Lake to win the Tour Championship and the FedEx Cup under the staggered-start scoring format for the second time.","category":"championship","player_slug":"rory-mcilroy"}
+    ],
+    "9": [
+      {"year":1913,"title":"Charlie Yates born","text":"American amateur Charlie Yates, the 1938 British Amateur champion and longtime Augusta National secretary, was born on this day in Atlanta, Georgia.","category":"birth","player_slug":null},
+      {"year":1987,"title":"Hudson Swafford born","text":"American golfer Hudson Swafford, a three-time PGA Tour winner including two American Express titles at PGA West, was born on this day.","category":"birth","player_slug":null},
+      {"year":1990,"title":"Wayne Levi's banner season","text":"Wayne Levi won four PGA Tour events in 1990, earning PGA Player of the Year honors over Nick Faldo in a remarkable campaign.","category":"milestone","player_slug":null},
+      {"year":2001,"title":"Scott Hoch wins Greater Milwaukee Open","text":"Scott Hoch won the Greater Milwaukee Open, a steady performer who captured 11 PGA Tour titles across his long career.","category":"championship","player_slug":null},
+      {"year":2018,"title":"Bryson DeChambeau wins BMW Championship","text":"Bryson DeChambeau won the BMW Championship at Aronimink, his second straight FedEx Cup playoff victory, vaulting him to the top of the standings.","category":"championship","player_slug":"bryson-dechambeau"}
+    ],
+    "10": [
+      {"year":1929,"title":"Arnold Palmer born","text":"Arnold Palmer, 'The King,' winner of seven majors and the charismatic figure who popularized golf for the television age, was born on this day in Latrobe, Pennsylvania.","category":"birth","player_slug":"arnold-palmer"},
+      {"year":1947,"title":"Larry Nelson born","text":"Larry Nelson, who won the 1981 and 1987 PGA Championships and the 1983 U.S. Open despite not taking up golf until age 21, was born on this day in Fort Payne, Alabama.","category":"birth","player_slug":"larry-nelson"},
+      {"year":2000,"title":"Tiger Woods wins Canadian Open with bunker shot","text":"Tiger Woods struck a stunning 6-iron from a fairway bunker over water on the 72nd hole to win the 2000 Canadian Open at Glen Abbey by one, completing the 'Triple Crown' of national opens.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2017,"title":"Marc Leishman wins BMW Championship","text":"Marc Leishman ran away with the BMW Championship at Conway Farms by five strokes, surging into contention for the FedEx Cup.","category":"championship","player_slug":null},
+      {"year":1968,"title":"Guy Boros; following his father","text":"Guy Boros, son of two-time U.S. Open champion Julius Boros, won on the PGA Tour, continuing one of golf's notable family lines.","category":"milestone","player_slug":"julius-boros"}
+    ],
+    "11": [
+      {"year":1957,"title":"Jeff Sluman born","text":"American golfer Jeff Sluman, a six-time PGA Tour winner whose victories included the 1988 PGA Championship at Oak Tree, was born on this day in Rochester, New York.","category":"birth","player_slug":"jeff-sluman"},
+      {"year":1975,"title":"Hank Kuehne born","text":"American golfer Hank Kuehne, the 1998 U.S. Amateur champion known as one of the longest drivers of his era, was born on this day in Dallas, Texas.","category":"birth","player_slug":null},
+      {"year":1994,"title":"Nick Price's dominant season","text":"Nick Price enjoyed one of the great seasons of the 1990s in 1994, winning the Open Championship and the PGA Championship en route to PGA Player of the Year.","category":"milestone","player_slug":"nick-price"},
+      {"year":2016,"title":"Dustin Johnson wins BMW Championship","text":"Dustin Johnson won the BMW Championship at Crooked Stick, his third PGA Tour victory of a dominant 2016 season that also included the U.S. Open.","category":"championship","player_slug":"dustin-johnson"},
+      {"year":2005,"title":"Tiger Woods wins WGC-American Express era","text":"Tiger Woods continued a remarkable run of victories in 2005, a season in which he won the Masters and the Open Championship and reclaimed World No. 1.","category":"milestone","player_slug":"tiger-woods"}
+    ],
+    "12": [
+      {"year":1969,"title":"Angel Cabrera born","text":"Argentine golfer Angel Cabrera, winner of the 2007 U.S. Open at Oakmont and the 2009 Masters, was born on this day in Cordoba.","category":"birth","player_slug":"angel-cabrera"},
+      {"year":1956,"title":"Chip Beck born","text":"American golfer Chip Beck, a four-time PGA Tour winner who shot a 59 in 1991 and finished runner-up at two U.S. Opens, was born on this day in Fayetteville, North Carolina.","category":"birth","player_slug":null},
+      {"year":1998,"title":"Vijay Singh wins PGA Championship","text":"Vijay Singh held off Steve Stricker to win the 1998 PGA Championship at Sahalee for his first major title.","category":"championship","player_slug":"vijay-singh"},
+      {"year":2021,"title":"Patrick Cantlay wins BMW Championship in epic playoff","text":"Patrick Cantlay outlasted Bryson DeChambeau over six playoff holes at Caves Valley to win the BMW Championship, a duel that earned Cantlay the nickname 'Patty Ice.'","category":"championship","player_slug":null},
+      {"year":1988,"title":"Oliver Fisher era; European Tour record","text":"Englishman Oliver Fisher, born in 1988, became the first player to shoot 59 on the European Tour at the 2018 Portugal Masters.","category":"milestone","player_slug":null}
+    ],
+    "13": [
+      {"year":1971,"title":"Stuart Appleby's 59","text":"Australian Stuart Appleby, a nine-time PGA Tour winner, famously shot a final-round 59 to win the 2010 Greenbrier Classic.","category":"milestone","player_slug":null},
+      {"year":1916,"title":"Sam Snead era; record wins","text":"Sam Snead, born in 1912, holds the record for most PGA Tour victories with 82 and remains one of the most natural swingers the game has known.","category":"milestone","player_slug":"sam-snead"},
+      {"year":1998,"title":"Vijay Singh's first major aftermath","text":"Following his 1998 PGA Championship breakthrough at Sahalee, Vijay Singh established himself among the world's elite, later reaching No. 1.","category":"milestone","player_slug":"vijay-singh"},
+      {"year":2009,"title":"Tiger Woods wins BMW Championship by eight","text":"Tiger Woods overwhelmed the field at Cog Hill, winning the BMW Championship by eight strokes to seize the FedEx Cup points lead heading into the finale.","category":"championship","player_slug":"tiger-woods"},
+      {"year":1951,"title":"Jane Blalock era; LPGA workhorse","text":"American golfer Jane Blalock won 27 LPGA Tour titles and famously made 299 consecutive cuts during the 1970s.","category":"milestone","player_slug":null}
+    ],
+    "14": [
+      {"year":1989,"title":"Tony Finau born","text":"American golfer Tony Finau, a multiple-time PGA Tour winner and Ryder Cup and Presidents Cup team member, was born on this day in Salt Lake City, Utah.","category":"birth","player_slug":null},
+      {"year":1972,"title":"Notah Begay III born","text":"Notah Begay III, a four-time PGA Tour winner, college teammate of Tiger Woods at Stanford, and prominent broadcaster, was born on this day in Albuquerque, New Mexico.","category":"birth","player_slug":null},
+      {"year":1899,"title":"Willie Smith wins U.S. Open by 11","text":"Willie Smith won the 1899 U.S. Open at Baltimore Country Club by a record 11 strokes, a winning margin that stood as the largest for decades.","category":"record","player_slug":"willie-smith"},
+      {"year":1997,"title":"Davis Love III wins PGA Championship","text":"With a rainbow over the 18th green at Winged Foot, Davis Love III won the 1997 PGA Championship by five strokes for his lone major title.","category":"championship","player_slug":"davis-love-iii"},
+      {"year":2014,"title":"Billy Horschel wins BMW Championship","text":"Billy Horschel won the BMW Championship at Cherry Hills, the second of his back-to-back playoff victories that delivered him the 2014 FedEx Cup.","category":"championship","player_slug":null},
+      {"year":1980,"title":"Oliver Wilson; Ryder Cup era","text":"Englishman Oliver Wilson played on Europe's 2008 Ryder Cup team and won the 2014 Alfred Dunhill Links Championship for his first European Tour title.","category":"milestone","player_slug":null}
+    ],
+    "15": [
+      {"year":1983,"title":"Kevin Na born","text":"Korean-American golfer Kevin Na, a five-time PGA Tour winner known for his deft putting, was born on this day in Seoul, South Korea.","category":"birth","player_slug":null},
+      {"year":1953,"title":"Gil Morgan; the optometrist golfer","text":"American golfer Gil Morgan, an optometrist who won seven PGA Tour titles and many Senior events, was a notable figure of the 1970s and 1980s.","category":"milestone","player_slug":null},
+      {"year":2019,"title":"Europe wins Solheim Cup at Gleneagles","text":"Suzann Pettersen holed a seven-foot putt on the 18th green, then announced her retirement, as Europe beat the United States 14.5-13.5 at Gleneagles.","category":"championship","player_slug":null},
+      {"year":2013,"title":"Zach Johnson wins BMW Championship in playoff","text":"Zach Johnson beat Nick Watney on the second playoff hole at Conway Farms to win the BMW Championship and climb the FedEx Cup standings.","category":"championship","player_slug":"zach-johnson"},
+      {"year":1996,"title":"Nick Faldo's storied 1996","text":"Nick Faldo, who won his third Masters in 1996 with a final-round charge past Greg Norman, remained one of the greatest players of his era with six majors.","category":"milestone","player_slug":"nick-faldo"}
+    ],
+    "16": [
+      {"year":1993,"title":"Bryson DeChambeau born","text":"American golfer Bryson DeChambeau, a two-time U.S. Open champion (2020 and 2024) known for his power and scientific approach, was born on this day in Modesto, California.","category":"birth","player_slug":"bryson-dechambeau"},
+      {"year":1953,"title":"Jerry Pate born","text":"Jerry Pate, who won the 1976 U.S. Open at Atlanta Athletic Club as a rookie, was born on this day in Macon, Georgia.","category":"birth","player_slug":"jerry-pate"},
+      {"year":1883,"title":"George Duncan born","text":"Scotland's George Duncan, the 1920 Open Championship winner known for his fast play and great final-round comeback at Deal, was born on this day in Methlick.","category":"birth","player_slug":"george-duncan"},
+      {"year":2007,"title":"Tiger Woods wins inaugural FedEx Cup","text":"Tiger Woods closed out the first Tour Championship and FedEx Cup at East Lake with an eight-stroke victory, the lowest 72-hole score of his career.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2012,"title":"Rory McIlroy wins BMW Championship","text":"Rory McIlroy won the BMW Championship at Crooked Stick by two strokes, his second straight victory amid a dominant late-2012 stretch.","category":"championship","player_slug":"rory-mcilroy"},
+      {"year":1990,"title":"Wayne Grady wins PGA Championship","text":"Australian Wayne Grady won the 1990 PGA Championship at Shoal Creek for his lone major title.","category":"championship","player_slug":"wayne-grady"}
+    ],
+    "17": [
+      {"year":1955,"title":"Scott Simpson born","text":"Scott Simpson, who won the 1987 U.S. Open at Olympic Club by holding off Tom Watson, was born on this day in San Diego, California.","category":"birth","player_slug":"scott-simpson"},
+      {"year":1897,"title":"Joe Lloyd wins U.S. Open at Wheaton","text":"Joe Lloyd won the 1897 U.S. Open at Chicago Golf Club in Wheaton by one stroke over Willie Anderson, finishing the 36-hole event at 162.","category":"championship","player_slug":"joe-lloyd"},
+      {"year":2004,"title":"Ryder Cup begins at Oakland Hills","text":"The 2004 Ryder Cup got underway at Oakland Hills, where Europe would rout the United States 18.5-9.5 for a record-tying away margin.","category":"championship","player_slug":null},
+      {"year":2006,"title":"Tiger Woods wins WGC-American Express Championship","text":"Tiger Woods cruised to victory at The Grove in England, extending a remarkable winning streak during the second half of his 2006 season.","category":"championship","player_slug":"tiger-woods"},
+      {"year":1907,"title":"Vic Ghezzi era; PGA champion","text":"Vic Ghezzi won the 1941 PGA Championship in a thrilling 38-hole final over Byron Nelson, one of the memorable match-play duels of the era.","category":"milestone","player_slug":"vic-ghezzi"}
+    ],
+    "18": [
+      {"year":1892,"title":"Cyril Walker born","text":"Cyril Walker, the English-born American who won the 1924 U.S. Open at Oakland Hills, was born on this day in Manchester, England.","category":"birth","player_slug":"cyril-walker"},
+      {"year":1913,"title":"1913 U.S. Open begins at Brookline","text":"The 1913 U.S. Open began at The Country Club in Brookline, where 20-year-old amateur Francis Ouimet would stun heavily favored Britons Harry Vardon and Ted Ray.","category":"championship","player_slug":"francis-ouimet"},
+      {"year":2011,"title":"Justin Rose wins BMW Championship","text":"Justin Rose closed strong at Cog Hill to win the BMW Championship, an important PGA Tour victory in his rise toward major contention.","category":"championship","player_slug":"justin-rose"},
+      {"year":2016,"title":"Rory McIlroy wins Tour Championship and FedEx Cup","text":"Rory McIlroy beat Ryan Moore on the fourth playoff hole at East Lake to win the Tour Championship and the FedEx Cup after a brilliant closing stretch.","category":"championship","player_slug":"rory-mcilroy"},
+      {"year":1949,"title":"Peter Oosterhuis era; Order of Merit king","text":"Englishman Peter Oosterhuis topped the European Order of Merit four straight years in the early 1970s before a long broadcasting career.","category":"milestone","player_slug":null}
+    ],
+    "19": [
+      {"year":1985,"title":"Brittany Lincicome born","text":"American golfer Brittany Lincicome, an eight-time LPGA Tour winner with two major titles at the ANA Inspiration, was born on this day in St. Petersburg, Florida.","category":"birth","player_slug":null},
+      {"year":1976,"title":"Ryan Palmer born","text":"American golfer Ryan Palmer, a four-time PGA Tour winner including the 2019 Zurich Classic alongside Jon Rahm, was born on this day in Amarillo, Texas.","category":"birth","player_slug":null},
+      {"year":2004,"title":"Vijay Singh becomes World No. 1","text":"During his historic 2004 season, Vijay Singh overtook Tiger Woods to become World No. 1, ending Woods's record reign of 264 consecutive weeks atop the rankings.","category":"milestone","player_slug":"vijay-singh"},
+      {"year":2008,"title":"Ryder Cup begins at Valhalla","text":"The 2008 Ryder Cup got underway at Valhalla in Louisville, where Paul Azinger's U.S. team would end a run of European dominance.","category":"championship","player_slug":"paul-azinger"},
+      {"year":1987,"title":"Mel Reid; Solheim Cup star","text":"Englishwoman Mel Reid, born in 1987, won on the LPGA and Ladies European tours and played in multiple Solheim Cups for Europe.","category":"milestone","player_slug":null}
+    ],
+    "20": [
+      {"year":1913,"title":"Francis Ouimet wins 1913 U.S. Open playoff","text":"In an 18-hole playoff at Brookline, 20-year-old amateur Francis Ouimet defeated British stars Harry Vardon and Ted Ray by five and six strokes, a landmark that ignited American interest in golf.","category":"championship","player_slug":"francis-ouimet"},
+      {"year":1990,"title":"Cody Gribble born","text":"American golfer Cody Gribble, the 2012 NCAA champion at Texas who won the 2016 Sanderson Farms Championship, was born on this day in Dallas.","category":"birth","player_slug":null},
+      {"year":2015,"title":"USA wins Solheim Cup at St. Leon-Rot","text":"Paula Creamer clinched the deciding point as the United States completed a stunning final-day comeback to beat Europe 14.5-13.5 in Germany.","category":"championship","player_slug":null},
+      {"year":1922,"title":"Roberto De Vicenzo era begins","text":"Argentine legend Roberto De Vicenzo, the 1967 Open champion famed for his scorecard error at the 1968 Masters, won well over 200 events worldwide.","category":"milestone","player_slug":"roberto-de-vicenzo"},
+      {"year":2015,"title":"Jason Day wins BMW Championship by six","text":"Jason Day won the BMW Championship at Conway Farms by six strokes, his fourth victory in six starts during a torrid stretch that took him to World No. 1.","category":"championship","player_slug":"jason-day"}
+    ],
+    "21": [
+      {"year":1980,"title":"Henrik Stenson era roots; future Open champ","text":"Sweden's Henrik Stenson, who won the 2016 Open Championship at Royal Troon with a record 264, became one of Europe's finest ball-strikers.","category":"milestone","player_slug":"henrik-stenson"},
+      {"year":2003,"title":"Shaun Micheel wins PGA Championship era","text":"Shaun Micheel sealed his stunning 2003 PGA Championship at Oak Hill with a 7-iron to inches on the 72nd hole, his only PGA Tour win.","category":"milestone","player_slug":"shaun-micheel"},
+      {"year":2008,"title":"USA wins Ryder Cup at Valhalla","text":"Boo Weekley, Anthony Kim and an inspired American side captained by Paul Azinger clinched the 2008 Ryder Cup at Valhalla, the United States' first win since 1999.","category":"championship","player_slug":"paul-azinger"},
+      {"year":1934,"title":"Don Bies; tour and senior winner","text":"American golfer Don Bies won on the PGA Tour and became a multiple winner on the Senior Tour during a long professional career.","category":"milestone","player_slug":null},
+      {"year":1980,"title":"Felipe Aguilar; Chilean golf","text":"Chilean golfer Felipe Aguilar won multiple European Tour titles, helping carry the banner for South American golf in the 21st century.","category":"milestone","player_slug":null}
+    ],
+    "22": [
+      {"year":1957,"title":"Phil Blackmar born","text":"American golfer Phil Blackmar, a three-time PGA Tour winner who later became a television analyst, was born on this day in San Antonio, Texas.","category":"birth","player_slug":null},
+      {"year":1996,"title":"Mark Brooks wins PGA Championship in playoff","text":"Mark Brooks beat Kenny Perry in a playoff at Valhalla to win the 1996 PGA Championship for his lone major title.","category":"championship","player_slug":"mark-brooks"},
+      {"year":2006,"title":"Ryder Cup begins at The K Club","text":"The 2006 Ryder Cup got underway at The K Club in Ireland, where Europe would rout the United States 18.5-9.5 amid an emotional week for Darren Clarke.","category":"championship","player_slug":"darren-clarke"},
+      {"year":2013,"title":"Henrik Stenson wins Tour Championship and FedEx Cup","text":"Henrik Stenson won the Tour Championship at East Lake and the FedEx Cup, capping a season in which he also won the European Tour's Race to Dubai.","category":"championship","player_slug":"henrik-stenson"},
+      {"year":2022,"title":"USA wins Presidents Cup at Quail Hollow","text":"Xander Schauffele helped clinch the decisive points as the United States beat the International team 17.5-12.5 at Quail Hollow in Charlotte.","category":"championship","player_slug":"xander-schauffele"},
+      {"year":2023,"title":"Solheim Cup begins at Finca Cortesin","text":"The 2023 Solheim Cup got underway in Spain, where the match would end in a historic 14-14 tie that allowed Europe to retain the cup.","category":"championship","player_slug":null}
+    ],
+    "23": [
+      {"year":1958,"title":"Larry Mize born","text":"Larry Mize, who holed a stunning chip on the second playoff hole to win the 1987 Masters over Greg Norman, was born on this day in Augusta, Georgia.","category":"birth","player_slug":"larry-mize"},
+      {"year":2007,"title":"Tiger Woods wins inaugural FedEx Cup","text":"Tiger Woods won the Tour Championship at East Lake and the inaugural FedEx Cup, claiming the season-long competition in its first year.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2018,"title":"Tiger Woods wins Tour Championship, ends drought","text":"Tiger Woods won the Tour Championship at East Lake for his first PGA Tour title in over five years, completing one of the great comebacks as huge galleries flooded the 18th fairway.","category":"championship","player_slug":"tiger-woods"},
+      {"year":1940,"title":"Jack Nicklaus era of records begins","text":"Jack Nicklaus, born in 1940, would win a record 18 professional major championships and is widely regarded as the greatest golfer of all time.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1956,"title":"Peter Senior; Australian stalwart","text":"Australian golfer Peter Senior won numerous events worldwide across four decades, including multiple Australian Opens and PGA Championships.","category":"milestone","player_slug":null},
+      {"year":2012,"title":"Brandt Snedeker wins Tour Championship and FedEx Cup","text":"Brandt Snedeker won the Tour Championship at East Lake and the FedEx Cup, the biggest payday of his career.","category":"championship","player_slug":null}
+    ],
+    "24": [
+      {"year":1896,"title":"Tommy Armour born","text":"Tommy 'The Silver Scot' Armour, who won the 1927 U.S. Open, the 1930 PGA Championship and the 1931 Open Championship, was born on this day in Edinburgh, Scotland.","category":"birth","player_slug":"tommy-armour"},
+      {"year":1999,"title":"Ryder Cup begins at Brookline","text":"The 1999 Ryder Cup, the 'Battle of Brookline,' began at The Country Club with Europe seizing an early lead before the dramatic American singles comeback.","category":"championship","player_slug":null},
+      {"year":2017,"title":"Justin Thomas wins FedEx Cup","text":"Justin Thomas claimed the FedEx Cup at East Lake, capping a breakout season that included his first major at the PGA Championship and five PGA Tour wins.","category":"championship","player_slug":"justin-thomas"},
+      {"year":2021,"title":"Ryder Cup begins at Whistling Straits","text":"The 2021 Ryder Cup got underway at Whistling Straits, where the United States would post a record 19-9 rout led by a young, dominant team.","category":"championship","player_slug":null},
+      {"year":1936,"title":"Jim Ferrier; Australian pioneer","text":"Jim Ferrier, the 1947 PGA Championship winner, was the first Australian to capture a men's major and won 18 PGA Tour titles.","category":"milestone","player_slug":"jim-ferrier"}
+    ],
+    "25": [
+      {"year":2016,"title":"Arnold Palmer dies at 87","text":"Arnold Palmer, 'The King,' whose charisma and seven major titles helped make golf a mainstream television sport, died on this day in Pittsburgh at age 87.","category":"death","player_slug":"arnold-palmer"},
+      {"year":1969,"title":"David Branshaw born","text":"American golfer David Branshaw, a longtime PGA Tour and PGA Tour Champions professional, was born on this day.","category":"birth","player_slug":null},
+      {"year":1900,"title":"Willie Anderson dominance era","text":"Willie Anderson, the only man to win three consecutive U.S. Opens (1903-1905) and a four-time champion, was the dominant figure of early American golf.","category":"milestone","player_slug":"willie-anderson"},
+      {"year":1994,"title":"Nick Price caps dominant season","text":"Nick Price ended his stellar 1994 campaign as the clear World No. 1 after winning the Open Championship and the PGA Championship.","category":"milestone","player_slug":"nick-price"},
+      {"year":2011,"title":"Bill Haas wins Tour Championship and FedEx Cup","text":"Bill Haas saved par from the water on the 17th in a playoff with Hunter Mahan to win the Tour Championship at East Lake and the $10 million FedEx Cup.","category":"championship","player_slug":null},
+      {"year":2022,"title":"USA wins Presidents Cup at Quail Hollow","text":"The United States completed a 17.5-12.5 victory over the International team at Quail Hollow in Charlotte to extend its long dominance in the event.","category":"championship","player_slug":null}
+    ],
+    "26": [
+      {"year":2006,"title":"Byron Nelson dies at 94","text":"Byron 'Lord Byron' Nelson, who won 11 consecutive PGA Tour events in 1945, died on this day at his home in Roanoke, Texas, at age 94.","category":"death","player_slug":"byron-nelson"},
+      {"year":1934,"title":"Neil Coles born","text":"Englishman Neil Coles, a winner of more than two dozen European events and a member of eight Ryder Cup teams, was born on this day in London.","category":"birth","player_slug":null},
+      {"year":1999,"title":"Battle of Brookline: USA's historic comeback","text":"The United States rallied from 10-6 down on the final day at Brookline, capped by Justin Leonard's 45-foot putt on the 17th, to win the 1999 Ryder Cup 14.5-13.5.","category":"championship","player_slug":"justin-leonard"},
+      {"year":1976,"title":"Lucas Glover; future U.S. Open champ","text":"Lucas Glover, who won the 2009 U.S. Open at Bethpage Black, emerged from South Carolina as a steady and powerful PGA Tour competitor.","category":"milestone","player_slug":"lucas-glover"},
+      {"year":2010,"title":"Jim Furyk wins Tour Championship and FedEx Cup","text":"Jim Furyk won the Tour Championship at East Lake by one over Luke Donald to also claim the FedEx Cup, capping his PGA Player of the Year season.","category":"championship","player_slug":"jim-furyk"}
+    ],
+    "27": [
+      {"year":1930,"title":"Bobby Jones completes the Grand Slam","text":"Bobby Jones defeated Eugene Homans 8 and 7 in the U.S. Amateur final at Merion to win all four majors of 1930, completing golf's only Grand Slam before retiring at age 28.","category":"championship","player_slug":"bobby-jones"},
+      {"year":1939,"title":"Kathy Whitworth born","text":"Kathy Whitworth, whose 88 LPGA Tour victories are the most by any professional on the LPGA or PGA Tour, was born on this day in Monahans, Texas.","category":"birth","player_slug":null},
+      {"year":2014,"title":"Ryder Cup singles at Gleneagles","text":"At Gleneagles, Europe completed a 16.5-11.5 win over the United States, a result that prompted American soul-searching and the formation of the PGA's Ryder Cup task force.","category":"championship","player_slug":null},
+      {"year":2009,"title":"Phil Mickelson wins Tour Championship","text":"Phil Mickelson won the Tour Championship at East Lake, though Tiger Woods captured the season-long FedEx Cup that year.","category":"championship","player_slug":"phil-mickelson"},
+      {"year":1923,"title":"Christy O'Connor Snr; Irish great","text":"Christy O'Connor Snr, a fixture in 10 consecutive Ryder Cups, was one of the most beloved figures in Irish and European golf.","category":"milestone","player_slug":null}
+    ],
+    "28": [
+      {"year":1977,"title":"Se Ri Pak born","text":"South Korean golfer Se Ri Pak, a five-time major champion and World Golf Hall of Famer who inspired a generation of Korean players, was born on this day in Daejeon.","category":"birth","player_slug":null},
+      {"year":2018,"title":"Ryder Cup begins at Le Golf National","text":"The 2018 Ryder Cup got underway near Paris, where Europe would beat the United States 17.5-10.5 behind Francesco Molinari's perfect 5-0 record.","category":"championship","player_slug":"francesco-molinari"},
+      {"year":2017,"title":"Presidents Cup begins at Liberty National","text":"The 2017 Presidents Cup got underway at Liberty National, where the United States would win 19-11 over the International team.","category":"championship","player_slug":null},
+      {"year":1902,"title":"Al Watrous; near-Open glory","text":"Al Watrous won numerous events and famously lost the 1926 Open Championship to Bobby Jones after Jones's celebrated bunker shot at Royal Lytham.","category":"milestone","player_slug":"bobby-jones"},
+      {"year":1978,"title":"Kenneth Ferrie; English tour winner","text":"Englishman Kenneth Ferrie won twice on the European Tour and briefly led the 2006 U.S. Open at Winged Foot.","category":"milestone","player_slug":null}
+    ],
+    "29": [
+      {"year":1941,"title":"Kermit Zarley born","text":"American golfer Kermit Zarley, a three-time PGA Tour winner and the 1962 NCAA champion known as 'the Pro from the Moon,' was born on this day in Seattle, Washington.","category":"birth","player_slug":null},
+      {"year":1969,"title":"Kelly Robbins born","text":"American golfer Kelly Robbins, a nine-time LPGA Tour winner whose victories included the 1995 LPGA Championship, was born on this day in Mount Pleasant, Michigan.","category":"birth","player_slug":null},
+      {"year":1991,"title":"War by the Shore: USA wins at Kiawah","text":"Bernhard Langer missed a six-foot par putt on the 18th in the anchor singles match, handing the United States a 14.5-13.5 win in the tense 1991 Ryder Cup at Kiawah Island.","category":"championship","player_slug":"bernhard-langer"},
+      {"year":2002,"title":"Europe wins Ryder Cup at The Belfry","text":"Paul McGinley holed the clinching putt as Europe beat the United States 15.5-12.5 at The Belfry in the Ryder Cup postponed a year by the September 11 attacks.","category":"championship","player_slug":null},
+      {"year":1935,"title":"Jerry Barber era; PGA champion","text":"Jerry Barber, the 1961 PGA Championship winner who holed dramatic late putts to force a playoff, was one of the era's great putters and short-game artists.","category":"milestone","player_slug":"jerry-barber"}
+    ],
+    "30": [
+      {"year":2012,"title":"Miracle at Medinah: Europe's stunning comeback","text":"Trailing 10-6, Europe won the Sunday singles to triumph 14.5-13.5 at Medinah, with Martin Kaymer's five-foot putt on the 18th securing one of sport's greatest comebacks.","category":"championship","player_slug":"martin-kaymer"},
+      {"year":2018,"title":"Europe wins Ryder Cup at Le Golf National","text":"Europe completed a 17.5-10.5 victory over the United States near Paris, with Francesco Molinari becoming the first European to win all five of his matches.","category":"championship","player_slug":"francesco-molinari"},
+      {"year":1884,"title":"J. Douglas Edgar born","text":"Englishman J. Douglas Edgar, the 1919 and 1920 Canadian Open champion and an influential swing innovator who mentored Bobby Jones, was born on this day in Newcastle.","category":"birth","player_slug":null},
+      {"year":2007,"title":"Tiger Woods clinches FedEx Cup at East Lake","text":"Tiger Woods won the Tour Championship at East Lake to claim the inaugural FedEx Cup and its season-long bonus, capping a dominant year.","category":"championship","player_slug":"tiger-woods"},
+      {"year":1924,"title":"Bobby Locke; the master putter","text":"South Africa's Bobby Locke, who won four Open Championships, was renowned for an intentional hook and a putting touch few have ever matched.","category":"milestone","player_slug":"bobby-locke"}
+    ]
+  }
+}
