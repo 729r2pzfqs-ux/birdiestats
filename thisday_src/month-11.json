@@ -1,0 +1,245 @@
+{
+  "month": 11,
+  "days": {
+    "1": [
+      {"year":1935,"title":"Gary Player born","text":"South Africa's Gary Player, the 'Black Knight' and nine-time major champion who completed the career Grand Slam, was born on this day in Johannesburg.","category":"birth","player_slug":"gary-player"},
+      {"year":1974,"title":"Stephen Gallacher born","text":"Scottish three-time European Tour winner and 2014 Ryder Cup player Stephen Gallacher was born on this day in Dechmont, West Lothian.","category":"birth","player_slug":null},
+      {"year":1992,"title":"Sandy Lyle wins the Volvo Masters","text":"At Valderrama, Sandy Lyle defeated fellow Scot Colin Montgomerie in a sudden-death playoff to win the European Tour's season finale.","category":"championship","player_slug":"sandy-lyle"},
+      {"year":2009,"title":"Ross Fisher wins Volvo World Match Play","text":"Ross Fisher beat Anthony Kim 4 and 3 in the final at Finca Cortesin, Spain, to capture the Volvo World Match Play Championship.","category":"championship","player_slug":null},
+      {"year":2015,"title":"Victor Dubuisson wins Turkish Airlines Open","text":"Frenchman Victor Dubuisson won the Turkish Airlines Open by one stroke over Jaco van Zyl on the European Tour.","category":"championship","player_slug":null},
+      {"year":2020,"title":"Brian Gay wins the Bermuda Championship","text":"Brian Gay closed with a 64 and beat Wyndham Clark in a playoff to win the Bermuda Championship for his first PGA Tour title in seven years.","category":"championship","player_slug":null}
+    ],
+    "2": [
+      {"year":1941,"title":"Dave Stockton born","text":"American Dave Stockton, a two-time PGA Championship winner (1970 and 1976) renowned as one of the game's great putters, was born on this day.","category":"birth","player_slug":"dave-stockton"},
+      {"year":1981,"title":"James Hahn born","text":"American James Hahn, a two-time PGA Tour winner whose victories include the 2015 Northern Trust Open and 2016 Wells Fargo Championship, was born on this day.","category":"birth","player_slug":null},
+      {"year":1987,"title":"Adam Hadwin born","text":"Canadian Adam Hadwin, the 2017 Valspar Championship winner who shot 59 earlier that year, was born on this day.","category":"birth","player_slug":null},
+      {"year":1992,"title":"Matthieu Pavon born","text":"Frenchman Matthieu Pavon, who at the 2024 Farmers Insurance Open became the first Frenchman to win on the PGA Tour since 1907, was born on this day.","category":"birth","player_slug":null},
+      {"year":2003,"title":"Retief Goosen wins the Chrysler Championship","text":"Retief Goosen won the Chrysler Championship at Innisbrook's Copperhead Course in Palm Harbor, Florida, beating Vijay Singh by three.","category":"championship","player_slug":"retief-goosen"},
+      {"year":2008,"title":"Ryan Palmer wins the Ginn sur Mer Classic","text":"Ryan Palmer holed a closing birdie to win the PGA Tour Fall Series event at Hammock Beach, Florida, in its final edition.","category":"championship","player_slug":null}
+    ],
+    "3": [
+      {"year":1884,"title":"Wilfrid Reid born","text":"English professional and prolific course architect Wilfrid Reid, who recorded top-10 finishes in major championships, was born on this day.","category":"birth","player_slug":null},
+      {"year":1965,"title":"Mike Springer born","text":"American Mike Springer, whose career-best 1994 season brought two PGA Tour wins at the Greensboro and Milwaukee Opens, was born on this day.","category":"birth","player_slug":null},
+      {"year":1994,"title":"Calum Hill born","text":"Scottish DP World Tour player Calum Hill, winner of the 2021 Cazoo Classic, was born on this day.","category":"birth","player_slug":null},
+      {"year":2013,"title":"Dustin Johnson wins WGC-HSBC Champions","text":"Dustin Johnson shot a tournament-record 264 (24-under) to win the WGC-HSBC Champions in Shanghai by three for his first World Golf Championship title.","category":"record","player_slug":"dustin-johnson"},
+      {"year":2019,"title":"Rory McIlroy wins WGC-HSBC Champions","text":"Rory McIlroy beat defending champion Xander Schauffele in a sudden-death playoff to win the WGC-HSBC Champions in Shanghai for his third WGC title.","category":"championship","player_slug":"rory-mcilroy"},
+      {"year":2019,"title":"Brendon Todd wins the Bermuda Championship","text":"Brendon Todd closed with a 62 to win the Bermuda Championship by four strokes, his first PGA Tour victory in five years.","category":"championship","player_slug":null}
+    ],
+    "4": [
+      {"year":1939,"title":"Ted Ball born","text":"Australian professional Ted Ball, a 21-time career winner best known for back-to-back Wills Masters titles in 1973 and 1974, was born on this day.","category":"birth","player_slug":null},
+      {"year":2007,"title":"Justin Rose wins the Volvo Masters","text":"Justin Rose won the season-ending Volvo Masters at Valderrama in a three-way playoff, sealing the 2007 European Tour Order of Merit.","category":"championship","player_slug":"justin-rose"},
+      {"year":2012,"title":"Ian Poulter wins WGC-HSBC Champions","text":"Ian Poulter shot a then-tournament-record 267 (21-under) to win the WGC-HSBC Champions at Mission Hills, Shenzhen.","category":"record","player_slug":null},
+      {"year":2018,"title":"Bryson DeChambeau wins in Las Vegas","text":"Bryson DeChambeau holed a long eagle on the 16th for a one-shot win over Patrick Cantlay at the Shriners Hospitals for Children Open at TPC Summerlin.","category":"championship","player_slug":"bryson-dechambeau"},
+      {"year":2018,"title":"Justin Rose wins and reclaims World No. 1","text":"Justin Rose beat Li Haotong in a playoff at the Turkish Airlines Open in Antalya, a victory that returned him to World No. 1.","category":"milestone","player_slug":"justin-rose"},
+      {"year":2022,"title":"Dow Finsterwald dies at 93","text":"American Dow Finsterwald, the 1958 PGA Championship winner, 12-time PGA Tour winner and four-time Ryder Cup player, died on this day at age 93.","category":"death","player_slug":"dow-finsterwald"}
+    ],
+    "5": [
+      {"year":1978,"title":"Bubba Watson born","text":"American Bubba Watson, a two-time Masters champion (2012 and 2014), was born on this day in Bagdad, Florida.","category":"birth","player_slug":"bubba-watson"},
+      {"year":2000,"title":"Lorie Kane wins the Mizuno Classic","text":"Canada's Lorie Kane won the LPGA's Mizuno Classic in Japan in a playoff over Sophie Gustafson.","category":"championship","player_slug":null},
+      {"year":2006,"title":"Adam Scott wins the Tour Championship","text":"Adam Scott closed at 11-under to beat Jim Furyk by three at the Tour Championship at East Lake, the last year the event was held in November.","category":"championship","player_slug":"adam-scott"},
+      {"year":2006,"title":"Karrie Webb wins the Mizuno Classic","text":"Australia's Karrie Webb won the LPGA's Mizuno Classic in Japan, finishing at 14-under par.","category":"championship","player_slug":null},
+      {"year":2017,"title":"Shanshan Feng wins the Toto Japan Classic","text":"China's Shanshan Feng finished 19-under to beat Japan's Ai Suzuki by two at the LPGA's Toto Japan Classic.","category":"championship","player_slug":null},
+      {"year":2023,"title":"Erik van Rooyen wins WWT Championship","text":"South Africa's Erik van Rooyen closed with a 63 capped by a 72nd-hole eagle to win the World Wide Technology Championship at Los Cabos by two.","category":"championship","player_slug":null}
+    ],
+    "6": [
+      {"year":1916,"title":"Harry Todd born","text":"American professional Harry Todd, winner of the 1946 Orlando Open and runner-up to Ben Hogan at the inaugural Colonial, was born on this day.","category":"birth","player_slug":null},
+      {"year":1935,"title":"Johnny Pott born","text":"American Johnny Pott, who won five PGA Tour events in the 1960s and played on three U.S. Ryder Cup teams, was born on this day.","category":"birth","player_slug":null},
+      {"year":1978,"title":"Scott Piercy born","text":"American Scott Piercy, a four-time PGA Tour winner who tied for second at the 2016 U.S. Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1979,"title":"Chick Evans dies at 89","text":"Legendary American amateur Chick Evans, the first to win the U.S. Open and U.S. Amateur in the same year (1916) and founder of the Evans Scholars, died on this day at age 89.","category":"death","player_slug":"chick-evans"},
+      {"year":2011,"title":"Martin Kaymer wins WGC-HSBC Champions","text":"Martin Kaymer shot a final-round 63 at Sheshan in Shanghai to come from five back and win the WGC-HSBC Champions, his first World Golf Championship.","category":"championship","player_slug":"martin-kaymer"},
+      {"year":2022,"title":"Russell Henley wins at Mayakoba","text":"Russell Henley finished at 23-under, matching the tournament record, to win the World Wide Technology Championship at Mayakoba by four over Brian Harman.","category":"championship","player_slug":null}
+    ],
+    "7": [
+      {"year":1995,"title":"Maverick McNealy born","text":"American PGA Tour golfer Maverick McNealy, a former World Amateur No. 1 from Stanford, was born on this day.","category":"birth","player_slug":null},
+      {"year":1998,"title":"Joaquin Niemann born","text":"Chilean professional Joaquin Niemann, a multiple PGA Tour and LIV Golf winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1959,"title":"United States wins the Ryder Cup at Eldorado","text":"The United States defeated Great Britain 8.5 to 3.5 at Eldorado Country Club in Indian Wells, California, to retain the Ryder Cup.","category":"championship","player_slug":null},
+      {"year":1999,"title":"Tiger Woods wins at Valderrama","text":"Tiger Woods beat Miguel Angel Jimenez on the first playoff hole to win the WGC-American Express Championship at Valderrama in Spain.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2010,"title":"Francesco Molinari wins WGC-HSBC Champions","text":"Francesco Molinari completed a wire-to-wire, one-stroke win over Lee Westwood at the WGC-HSBC Champions in Shanghai for his first World Golf Championship.","category":"championship","player_slug":"francesco-molinari"},
+      {"year":2021,"title":"Thomas Pieters wins the Portugal Masters","text":"Belgium's Thomas Pieters won the DP World Tour's Portugal Masters at Vilamoura by two strokes for his fifth European Tour title.","category":"championship","player_slug":null}
+    ],
+    "8": [
+      {"year":1911,"title":"Al Brosch born","text":"American professional Al Brosch, the first player to shoot a round of 60 on the PGA Tour at the 1951 Texas Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1979,"title":"Troy Matteson born","text":"American Troy Matteson, a two-time PGA Tour winner who captured both of his titles at the Frys.com Open (2006 and 2009), was born on this day.","category":"birth","player_slug":null},
+      {"year":1982,"title":"Francesco Molinari born","text":"Italian Francesco Molinari, who became the first Italian to win a men's major at the 2018 Open Championship, was born on this day in Turin.","category":"birth","player_slug":"francesco-molinari"},
+      {"year":2009,"title":"Phil Mickelson wins WGC-HSBC Champions","text":"Phil Mickelson edged Ernie Els by one to win the WGC-HSBC Champions in Shanghai, the first edition held as a full World Golf Championship.","category":"championship","player_slug":"phil-mickelson"},
+      {"year":2015,"title":"Russell Knox wins WGC-HSBC Champions","text":"A late alternate into the field, Russell Knox became the first Scot to win a World Golf Championship and the first to win a WGC on debut, in Shanghai.","category":"milestone","player_slug":null},
+      {"year":2020,"title":"Carlos Ortiz wins the Houston Open","text":"Carlos Ortiz held off Dustin Johnson and Hideki Matsuyama at Memorial Park to claim the Houston Open, the first PGA Tour win by a Mexican in 42 years.","category":"championship","player_slug":null}
+    ],
+    "9": [
+      {"year":1942,"title":"Tom Weiskopf born","text":"American Tom Weiskopf, a 16-time PGA Tour winner, 1973 Open champion and later a renowned course architect, was born on this day.","category":"birth","player_slug":"tom-weiskopf"},
+      {"year":1971,"title":"David Duval born","text":"American David Duval, a former World No. 1, 13-time PGA Tour winner and 2001 Open champion, was born on this day.","category":"birth","player_slug":"david-duval"},
+      {"year":1993,"title":"Gaby Lopez born","text":"Mexican Gaby Lopez, a three-time LPGA Tour winner and three-time Olympian, was born on this day.","category":"birth","player_slug":null},
+      {"year":1997,"title":"Liselotte Neumann wins in Japan","text":"Sweden's Liselotte Neumann won the LPGA's Mizuno Classic at Seta Golf Course in Japan by one over Lorie Kane.","category":"championship","player_slug":null},
+      {"year":2008,"title":"Sergio Garcia wins WGC-HSBC Champions","text":"Sergio Garcia beat Oliver Wilson in a playoff completed Monday after rain to win the HSBC Champions in Shanghai.","category":"championship","player_slug":"sergio-garcia"},
+      {"year":2014,"title":"Bubba Watson wins WGC-HSBC Champions","text":"Bubba Watson beat Tim Clark with a birdie on the first playoff hole at Sheshan in China to win the WGC-HSBC Champions.","category":"championship","player_slug":"bubba-watson"}
+    ],
+    "10": [
+      {"year":1951,"title":"Morris Hatalsky born","text":"American Morris Hatalsky, a four-time PGA Tour winner and 2002 Senior PGA Tour Rookie of the Year, was born on this day.","category":"birth","player_slug":null},
+      {"year":1993,"title":"Celine Boutier born","text":"Frenchwoman Celine Boutier, who won the 2023 Evian Championship for a major title in her home country, was born on this day.","category":"birth","player_slug":null},
+      {"year":1994,"title":"Jon Rahm born","text":"Spaniard Jon Rahm, a former World No. 1 and winner of the 2021 U.S. Open and 2023 Masters, was born on this day in Barrika.","category":"birth","player_slug":"jon-rahm"},
+      {"year":2002,"title":"Langer and Montgomerie share Volvo Masters","text":"Bernhard Langer and Colin Montgomerie were declared co-champions of the Volvo Masters Andalucia after their Valderrama playoff was halted by darkness.","category":"championship","player_slug":"bernhard-langer"},
+      {"year":2019,"title":"Tyrrell Hatton wins Turkish Airlines Open","text":"Tyrrell Hatton prevailed in a six-man playoff finished under floodlights in Antalya to win the Turkish Airlines Open.","category":"championship","player_slug":null},
+      {"year":2024,"title":"Austin Eckroat wins WWT Championship","text":"Austin Eckroat closed with a 63 to win the World Wide Technology Championship at Los Cabos, Mexico, by one stroke.","category":"championship","player_slug":null}
+    ],
+    "11": [
+      {"year":1951,"title":"Fuzzy Zoeller born","text":"American Fuzzy Zoeller, who won the 1979 Masters in his debut and the 1984 U.S. Open, was born on this day.","category":"birth","player_slug":"fuzzy-zoeller"},
+      {"year":1977,"title":"Robert Garrigus born","text":"American Robert Garrigus, a PGA Tour winner at the 2010 Children's Miracle Network Classic who twice led the Tour in driving distance, was born on this day.","category":"birth","player_slug":null},
+      {"year":1979,"title":"Erik Compton born","text":"American Erik Compton, a two-time heart-transplant recipient who reached the PGA Tour and tied for second at the 2014 U.S. Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1987,"title":"Joel Dahmen born","text":"American Joel Dahmen, winner of the 2021 Corales Puntacana Championship, was born on this day.","category":"birth","player_slug":null},
+      {"year":2018,"title":"Lee Westwood wins the Nedbank Golf Challenge","text":"Lee Westwood closed with an 8-under 64 at Sun City to overturn a three-shot deficit and beat Sergio Garcia by three at the Nedbank Golf Challenge.","category":"championship","player_slug":null},
+      {"year":2018,"title":"Matt Kuchar wins at Mayakoba","text":"Matt Kuchar won the OHL Classic at Mayakoba by one stroke over Danny Lee at a record 22-under 262, his first title in four years.","category":"championship","player_slug":null}
+    ],
+    "12": [
+      {"year":1912,"title":"George Fazio born","text":"American George Fazio, a PGA Tour winner turned famed course architect who lost a playoff at the 1950 U.S. Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1979,"title":"Lucas Glover born","text":"American Lucas Glover, a six-time PGA Tour winner who captured the 2009 U.S. Open and went back-to-back in 2023, was born on this day.","category":"birth","player_slug":"lucas-glover"},
+      {"year":1981,"title":"Chez Reavie born","text":"American Chez Reavie, a three-time PGA Tour winner including the 2019 Travelers Championship, was born on this day.","category":"birth","player_slug":null},
+      {"year":1987,"title":"Jason Day born","text":"Australian Jason Day, a former World No. 1 who won the 2015 PGA Championship and the 2016 Players Championship, was born on this day.","category":"birth","player_slug":"jason-day"},
+      {"year":2020,"title":"First November Masters round begins","text":"Round 1 of the COVID-rescheduled Masters became the first Masters round ever played in November, with Paul Casey leading at 7-under at Augusta National.","category":"milestone","player_slug":null},
+      {"year":2023,"title":"Max Homa wins the Nedbank Golf Challenge","text":"Max Homa closed with a 66 at Sun City to finish four clear for his first victory outside the United States.","category":"championship","player_slug":null}
+    ],
+    "13": [
+      {"year":1943,"title":"Jay Sigel born","text":"American amateur great Jay Sigel, the only player to win the U.S. Amateur and U.S. Mid-Amateur in the same year (1983) and an eight-time Champions Tour winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1959,"title":"Rosie Jones born","text":"American Rosie Jones, a 13-time LPGA Tour winner and later a television analyst, was born on this day.","category":"birth","player_slug":null},
+      {"year":1943,"title":"Pam Barton dies at 26","text":"Pam Barton, winner of the 1936 and 1939 British Ladies Amateur and the 1936 U.S. Women's Amateur, was killed in a wartime air crash at RAF Detling at age 26.","category":"death","player_slug":null},
+      {"year":2016,"title":"Alex Noren wins the Nedbank Golf Challenge","text":"Alex Noren shot a closing 63 at Gary Player Country Club to win the Nedbank Golf Challenge, his fourth European Tour title in 11 starts.","category":"championship","player_slug":null},
+      {"year":2016,"title":"Pat Perez wins at Mayakoba","text":"In only his third start back from shoulder surgery, Pat Perez won the OHL Classic at Mayakoba by two over Gary Woodland.","category":"championship","player_slug":null},
+      {"year":2020,"title":"Five share lead in November Masters","text":"After Round 2 of the rescheduled Masters, Abraham Ancer, Dustin Johnson, Jon Rahm, Cameron Smith and Justin Thomas shared the lead at 9-under at Augusta.","category":"milestone","player_slug":null}
+    ],
+    "14": [
+      {"year":1855,"title":"Charles Blair Macdonald born","text":"Charles Blair Macdonald, the 'Father of American Golf Course Architecture' who won the inaugural 1895 U.S. Amateur and helped found the USGA, was born on this day.","category":"birth","player_slug":null},
+      {"year":1910,"title":"Errie Ball born","text":"Welsh-American professional Errie Ball, who played the first Masters in 1934 and lived to 103 as its last surviving inaugural competitor, was born on this day.","category":"birth","player_slug":null},
+      {"year":1991,"title":"Talor Gooch born","text":"American Talor Gooch, who won the 2021 RSM Classic before joining LIV Golf and taking its 2023 individual title, was born on this day.","category":"birth","player_slug":null},
+      {"year":1985,"title":"Martin Piller born","text":"American Martin Piller, a six-time Korn Ferry Tour winner and husband of LPGA star Gerina Piller, was born on this day.","category":"birth","player_slug":null},
+      {"year":2020,"title":"Dustin Johnson seizes Masters lead","text":"Dustin Johnson shot a bogey-free 65 to reach 16-under in Round 3 of the rescheduled Masters, taking a four-shot lead and tying the tournament's 54-hole scoring record.","category":"record","player_slug":"dustin-johnson"},
+      {"year":2014,"title":"Henrik Stenson contends in Dubai","text":"Henrik Stenson, the 2013 Race to Dubai winner, remained in contention at the DP World Tour Championship during the European Tour's season-ending week in Dubai.","category":"milestone","player_slug":"henrik-stenson"}
+    ],
+    "15": [
+      {"year":1916,"title":"Bea Barrett born","text":"American amateur Bea Barrett, winner of the 1938 Women's Western Open now recognized as an LPGA major, was born on this day.","category":"birth","player_slug":null},
+      {"year":1930,"title":"Don Whitt born","text":"American professional Don Whitt, who won three times on the PGA Tour around 1958 and 1959, was born on this day.","category":"birth","player_slug":null},
+      {"year":1981,"title":"Lorena Ochoa born","text":"Mexican legend Lorena Ochoa, who spent 158 consecutive weeks as World No. 1 and won 27 LPGA titles and two majors before retiring at 28, was born on this day.","category":"birth","player_slug":null},
+      {"year":2020,"title":"Dustin Johnson wins Masters with record score","text":"Dustin Johnson closed with a 68 to finish 20-under 268, the lowest 72-hole total in Masters history, beating Cameron Smith and Sungjae Im by five for his first green jacket.","category":"record","player_slug":"dustin-johnson"},
+      {"year":2009,"title":"Phil Mickelson contends in Shanghai era","text":"In this mid-November stretch, the WGC-HSBC Champions established Shanghai as a marquee global stop, with stars like Phil Mickelson among its early champions.","category":"milestone","player_slug":"phil-mickelson"},
+      {"year":1992,"title":"Haru Nomura born","text":"Japanese LPGA winner Haru Nomura, who took the 2016 Women's Australian Open, was born on this day.","category":"birth","player_slug":null}
+    ],
+    "16": [
+      {"year":1894,"title":"Bobby Cruickshank born","text":"Scottish-born 'Wee Bobby' Cruickshank, twice a U.S. Open runner-up and famed for knocking himself out tossing his club while leading the 1934 U.S. Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1922,"title":"Bo Wininger born","text":"American Bo Wininger, a six-time PGA Tour winner including back-to-back New Orleans Opens in 1962 and 1963, was born on this day.","category":"birth","player_slug":null},
+      {"year":1932,"title":"Barbara Romack born","text":"American Barbara Romack, the 1954 U.S. Women's Amateur champion and a three-time Curtis Cup player, was born on this day.","category":"birth","player_slug":null},
+      {"year":1959,"title":"Corey Pavin born","text":"American Corey Pavin, who won the 1995 U.S. Open at Shinnecock Hills with a famed 4-wood to the 72nd green and captained the 2010 U.S. Ryder Cup team, was born on this day.","category":"birth","player_slug":"corey-pavin"},
+      {"year":1965,"title":"Glen Day born","text":"American Glen Day, nicknamed 'All Day' for his deliberate pace, whose lone PGA Tour win came at the 1999 MCI Classic, was born on this day.","category":"birth","player_slug":null},
+      {"year":1995,"title":"Jazz Janewattananond born","text":"Thai golfer Jazz Janewattananond, the 2019 Asian Tour Order of Merit winner, was born on this day.","category":"birth","player_slug":null}
+    ],
+    "17": [
+      {"year":1874,"title":"Findlay Douglas born","text":"Scottish-American Findlay Douglas, winner of the 1898 U.S. Amateur who later served as USGA president, was born on this day.","category":"birth","player_slug":null},
+      {"year":1901,"title":"Joyce Wethered born","text":"British amateur Joyce Wethered, widely regarded as the finest woman golfer of the inter-war era and a four-time British Ladies Amateur winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1907,"title":"Joe Dey born","text":"Joe Dey, who ran the USGA for 34 years and became the first PGA Tour commissioner in 1969, was born on this day.","category":"birth","player_slug":null},
+      {"year":1963,"title":"Marco Dawson born","text":"American Marco Dawson, who won the 2015 Senior Open Championship by one over Bernhard Langer, was born on this day.","category":"birth","player_slug":null},
+      {"year":1986,"title":"Julieta Granada born","text":"Paraguayan Julieta Granada, who won the 2006 ADT Championship and its then-record $1 million first prize, was born on this day.","category":"birth","player_slug":null},
+      {"year":2019,"title":"Tommy Fleetwood wins the Nedbank Golf Challenge","text":"Tommy Fleetwood rallied from six back with a final-round 65 to beat Marcus Kinhult in a playoff at Sun City.","category":"championship","player_slug":null}
+    ],
+    "18": [
+      {"year":1901,"title":"Craig Wood born","text":"American Craig Wood, who in 1941 became the first player to win the Masters and U.S. Open in the same year, was born on this day.","category":"birth","player_slug":"craig-wood"},
+      {"year":1936,"title":"Brian Huggett born","text":"Welsh golfer Brian Huggett, the 1968 Order of Merit winner and a six-time Ryder Cup player for Great Britain and Ireland, was born on this day.","category":"birth","player_slug":null},
+      {"year":1962,"title":"Bart Bryant born","text":"American Bart Bryant, a three-time PGA Tour winner including the 2005 Memorial and Tour Championship, was born on this day.","category":"birth","player_slug":null},
+      {"year":1997,"title":"Joyce Wethered dies at 96","text":"Joyce Wethered, the leading British woman golfer of the inter-war period, died on this day at age 96, the day after her own birthday.","category":"death","player_slug":null},
+      {"year":2018,"title":"Charles Howell III wins the RSM Classic","text":"Charles Howell III won the RSM Classic at Sea Island in a playoff, ending an 11-year victory drought on the PGA Tour.","category":"championship","player_slug":null},
+      {"year":2018,"title":"Jon Rahm wins DP World Tour Championship","text":"Jon Rahm won the DP World Tour Championship in Dubai as Francesco Molinari clinched the Race to Dubai title.","category":"championship","player_slug":"jon-rahm"}
+    ],
+    "19": [
+      {"year":1987,"title":"Kyle Stanley born","text":"American Kyle Stanley, a two-time PGA Tour winner at the 2012 Phoenix Open and Quicken Loans National, was born on this day.","category":"birth","player_slug":null},
+      {"year":1990,"title":"Max Homa born","text":"American Max Homa, a six-time PGA Tour winner who swept the individual Pac-12 and NCAA titles in 2013, was born on this day.","category":"birth","player_slug":null},
+      {"year":1978,"title":"Jack Nicklaus wins sixth Australian Open","text":"Jack Nicklaus captured his sixth and final Australian Open title at The Australian Golf Club in Sydney.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":2017,"title":"Austin Cook wins the RSM Classic","text":"Rookie Austin Cook closed with a 67 for a four-stroke victory at Sea Island in just his 14th PGA Tour start.","category":"championship","player_slug":null},
+      {"year":2017,"title":"Jon Rahm wins DP World Tour Championship","text":"Jon Rahm birdied the 72nd hole for a one-shot win at the DP World Tour Championship in Dubai, while Tommy Fleetwood clinched the Race to Dubai.","category":"championship","player_slug":"jon-rahm"},
+      {"year":2023,"title":"Nicolai Hojgaard wins in Dubai","text":"The 22-year-old Dane Nicolai Hojgaard reeled off five straight birdies to shoot 64 and win the DP World Tour Championship by two as Rory McIlroy clinched a fifth Race to Dubai title.","category":"championship","player_slug":null}
+    ],
+    "20": [
+      {"year":1917,"title":"Bobby Locke born","text":"South African great Bobby Locke, a four-time Open Championship winner and one of history's finest putters, was born on this day.","category":"birth","player_slug":"bobby-locke"},
+      {"year":1929,"title":"Don January born","text":"American Don January, who won the 1967 PGA Championship and 22 Senior PGA Tour titles, was born on this day.","category":"birth","player_slug":"don-january"},
+      {"year":1984,"title":"Siddikur Rahman born","text":"Bangladeshi Asian Tour pro Siddikur Rahman, the first Bangladeshi to win an Asian Tour event and the first to reach the Olympics, was born on this day.","category":"birth","player_slug":null},
+      {"year":2016,"title":"Jordan Spieth wins the Australian Open","text":"Jordan Spieth won his second Australian Open in three years at Royal Sydney in a three-man playoff over Ashley Hall and Cameron Smith.","category":"championship","player_slug":"jordan-spieth"},
+      {"year":2022,"title":"Adam Svensson wins the RSM Classic","text":"Canada's Adam Svensson closed with a 64 at Sea Island for a two-stroke win and his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":1999,"title":"Winnie Palmer dies","text":"Winnie Palmer, wife of Arnold Palmer for 45 years and honored in the Winnie Palmer hospitals, died on this day of cancer complications.","category":"death","player_slug":null}
+    ],
+    "21": [
+      {"year":1938,"title":"Babe Hiskey born","text":"American Babe Hiskey, who won the 1970 Sahara Invitational and later became a golf course architect, was born on this day.","category":"birth","player_slug":null},
+      {"year":1952,"title":"Gary Koch born","text":"American Gary Koch, a six-time PGA Tour winner and longtime NBC broadcaster known for his 'Better than most' call at the 2001 Players, was born on this day.","category":"birth","player_slug":null},
+      {"year":1973,"title":"Garrett Willis born","text":"American Garrett Willis, who won the 2001 Tucson Open in his very first start as a PGA Tour member, was born on this day.","category":"birth","player_slug":null},
+      {"year":1999,"title":"United States wins the World Cup of Golf","text":"Tiger Woods and Mark O'Meara won the World Cup of Golf in Kuala Lumpur by five strokes over Spain.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2004,"title":"England wins the World Cup of Golf","text":"Paul Casey and Luke Donald edged Spain's Garcia and Jimenez by one to win the World Cup of Golf in Seville.","category":"championship","player_slug":null},
+      {"year":2021,"title":"Talor Gooch wins the RSM Classic","text":"Talor Gooch closed with a 64 to win the RSM Classic at Sea Island by three at 22-under for his first PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "22": [
+      {"year":1886,"title":"Emmet French born","text":"American professional Emmet French, runner-up to Gene Sarazen at the 1922 PGA Championship, was born on this day.","category":"birth","player_slug":null},
+      {"year":1911,"title":"Ralph Guldahl born","text":"American Ralph Guldahl, a Hall of Famer who won back-to-back U.S. Opens in 1937 and 1938 and the 1939 Masters, was born on this day.","category":"birth","player_slug":"ralph-guldahl"},
+      {"year":1961,"title":"Joel Edwards born","text":"American Joel Edwards, a PGA Tour winner at the 2001 Air Canada Championship who later played PGA Tour Champions, was born on this day.","category":"birth","player_slug":null},
+      {"year":2009,"title":"Lee Westwood wins inaugural Dubai World Championship","text":"Lee Westwood shot a course-record 64 for a six-shot win at the inaugural Dubai World Championship, also clinching the first-ever Race to Dubai.","category":"championship","player_slug":null},
+      {"year":2015,"title":"Kevin Kisner wins the RSM Classic","text":"Kevin Kisner fired a final-round 64 to win the RSM Classic by six for his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":2020,"title":"Robert Streb wins the RSM Classic in a playoff","text":"Robert Streb beat Kevin Kisner on the second extra hole to win the RSM Classic at Sea Island.","category":"championship","player_slug":null}
+    ],
+    "23": [
+      {"year":1966,"title":"Jerry Kelly born","text":"American Jerry Kelly, a three-time PGA Tour winner and prolific PGA Tour Champions winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1990,"title":"Mackenzie Hughes born","text":"Canadian Mackenzie Hughes, who won the 2016 RSM Classic and the 2022 Sanderson Farms Championship, was born on this day.","category":"birth","player_slug":null},
+      {"year":2003,"title":"Presidents Cup ends in historic tie","text":"After a darkness-halted Tiger Woods versus Ernie Els playoff at Fancourt, captains Jack Nicklaus and Gary Player agreed to share the Presidents Cup in a 17-17 deadlock.","category":"milestone","player_slug":null},
+      {"year":2014,"title":"Henrik Stenson defends in Dubai","text":"Henrik Stenson closed with a 70 to defend his DP World Tour Championship title in Dubai.","category":"championship","player_slug":"henrik-stenson"},
+      {"year":2014,"title":"Lydia Ko wins CME Group Tour Championship","text":"At 17, Lydia Ko won the LPGA season finale in a playoff and claimed the inaugural Race to the CME Globe.","category":"championship","player_slug":null},
+      {"year":2025,"title":"Sami Valimaki wins the RSM Classic","text":"Sami Valimaki won the RSM Classic by one shot to become the first Finnish player to win on the PGA Tour.","category":"championship","player_slug":null}
+    ],
+    "24": [
+      {"year":1955,"title":"Scott Hoch born","text":"American Scott Hoch, who won 11 PGA Tour events but famously missed a short putt to lose the 1989 Masters playoff to Nick Faldo, was born on this day.","category":"birth","player_slug":null},
+      {"year":1990,"title":"Germany wins the World Cup of Golf","text":"Bernhard Langer and Torsten Giedeon won reunified Germany's first World Cup team title in Orlando, while Payne Stewart took the individual.","category":"championship","player_slug":"bernhard-langer"},
+      {"year":1996,"title":"South Africa wins the World Cup of Golf","text":"Ernie Els and Wayne Westner won the World Cup of Golf in Cape Town by 18 strokes over the United States.","category":"championship","player_slug":"ernie-els"},
+      {"year":2013,"title":"Jason Day wins the World Cup of Golf","text":"Jason Day won the individual and team titles at the World Cup of Golf at Royal Melbourne a week after losing eight family members in Typhoon Haiyan.","category":"championship","player_slug":"jason-day"},
+      {"year":2019,"title":"Jon Rahm wins DP World Tour Championship and Race to Dubai","text":"Jon Rahm beat Tommy Fleetwood by one in Dubai to win the DP World Tour Championship and his first Race to Dubai title.","category":"championship","player_slug":"jon-rahm"},
+      {"year":2024,"title":"Maverick McNealy wins the RSM Classic","text":"Maverick McNealy won the RSM Classic by one stroke at Sea Island for his first PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "25": [
+      {"year":1923,"title":"Art Wall Jr. born","text":"American Art Wall Jr., who won the 1959 Masters by birdieing five of his last six holes and captured 14 PGA Tour titles, was born on this day.","category":"birth","player_slug":"art-wall-jr"},
+      {"year":1964,"title":"Nolan Henke born","text":"American Nolan Henke, a three-time PGA Tour winner including the 1991 Phoenix Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1976,"title":"Gregory Havret born","text":"Frenchman Gregory Havret, who won the 2007 Scottish Open over Phil Mickelson and was runner-up at the 2010 U.S. Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1973,"title":"United States wins the World Cup of Golf","text":"Jack Nicklaus and Johnny Miller won the World Cup of Golf in Marbella by six, with Miller taking the individual title.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":2007,"title":"Scotland wins the World Cup of Golf","text":"Colin Montgomerie and Marc Warren beat the United States on the third playoff hole to win the World Cup of Golf at Mission Hills, China.","category":"championship","player_slug":null},
+      {"year":2012,"title":"Rory McIlroy wins DP World Tour Championship","text":"Rory McIlroy beat Justin Rose by two at Jumeirah Golf Estates to win the DP World Tour Championship and the Race to Dubai.","category":"championship","player_slug":"rory-mcilroy"}
+    ],
+    "26": [
+      {"year":1962,"title":"John Inman born","text":"American John Inman, a two-time PGA Tour winner and 1984 NCAA individual champion, was born on this day.","category":"birth","player_slug":null},
+      {"year":1992,"title":"Paul Dunne born","text":"Irishman Paul Dunne, who co-led the 2015 Open after 54 holes as an amateur and won the 2017 British Masters, was born on this day.","category":"birth","player_slug":null},
+      {"year":1995,"title":"Greg Norman wins the Australian Open","text":"Greg Norman won the Australian Open at Kingston Heath by two strokes for his fourth title in the event.","category":"championship","player_slug":"greg-norman"},
+      {"year":2000,"title":"Aaron Baddeley wins the Australian Open","text":"Aaron Baddeley defended his Australian Open title, this time as a professional, by two over Robert Allenby at Kingston Heath.","category":"championship","player_slug":null},
+      {"year":2017,"title":"Cameron Davis wins the Australian Open","text":"Cameron Davis closed with a 64 to come from six back and win the Australian Open in Sydney by one stroke.","category":"championship","player_slug":null},
+      {"year":2023,"title":"Min Woo Lee wins the Australian PGA Championship","text":"Min Woo Lee won the Australian PGA Championship at Royal Queensland by three strokes at 20-under.","category":"championship","player_slug":null}
+    ],
+    "27": [
+      {"year":1954,"title":"Pat McGowan born","text":"American PGA Tour player and instructor Pat McGowan, the 1978 Rolex Rookie of the Year, was born on this day.","category":"birth","player_slug":null},
+      {"year":1965,"title":"Danielle Ammaccapane born","text":"American LPGA player Danielle Ammaccapane, the 1985 NCAA champion and a multiple LPGA Tour winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1988,"title":"Mark Calcavecchia wins the Australian Open","text":"Mark Calcavecchia won the Australian Open at Royal Sydney with a record-low 269, finishing six clear of Mark McCumber.","category":"record","player_slug":"mark-calcavecchia"},
+      {"year":1994,"title":"Robert Allenby wins the Australian Open","text":"Robert Allenby won his first Australian Open at Royal Sydney by one over Brett Ogle.","category":"championship","player_slug":null},
+      {"year":2005,"title":"Robert Allenby completes Australasian Triple Crown","text":"Robert Allenby won the Australian Open at Moonah Links to complete the first-ever Australasian Triple Crown of the Open, PGA and Masters in one season.","category":"milestone","player_slug":null},
+      {"year":2009,"title":"Tiger Woods crashes outside his home","text":"Tiger Woods crashed his SUV outside his Florida home in the early hours, triggering the scandal that upended his career.","category":"milestone","player_slug":"tiger-woods"}
+    ],
+    "28": [
+      {"year":1906,"title":"Henry Picard born","text":"American Henry Picard, winner of the 1938 Masters and 1939 PGA Championship and a mentor to Ben Hogan, was born on this day.","category":"birth","player_slug":"henry-picard"},
+      {"year":1949,"title":"Mitch Voges born","text":"American Mitch Voges, the 1991 U.S. Amateur champion and a 1991 Walker Cup player, was born on this day.","category":"birth","player_slug":null},
+      {"year":1977,"title":"Angela Stanford born","text":"American Angela Stanford, a seven-time LPGA winner whose first major came at the 2018 Evian Championship at age 40, was born on this day.","category":"birth","player_slug":null},
+      {"year":1999,"title":"Aaron Baddeley wins Australian Open as amateur","text":"At 18, amateur Aaron Baddeley won the Australian Open at Royal Sydney, beating a field including Greg Norman and Colin Montgomerie.","category":"championship","player_slug":null},
+      {"year":2004,"title":"Peter Lonard wins the centenary Australian Open","text":"Peter Lonard won the 100th-anniversary Australian Open at The Australian in Sydney by one over Stuart Appleby, his second straight title.","category":"championship","player_slug":null},
+      {"year":2010,"title":"Robert Karlsson wins the Dubai World Championship","text":"Robert Karlsson beat Ian Poulter on the second playoff hole to win the Dubai World Championship, while Martin Kaymer took the Race to Dubai.","category":"championship","player_slug":null}
+    ],
+    "29": [
+      {"year":1928,"title":"Ernie Vossler born","text":"American Ernie Vossler, a four-time PGA Tour winner who later co-founded Oak Tree Golf Club and became a course developer, was born on this day.","category":"birth","player_slug":null},
+      {"year":1947,"title":"Joe Inman born","text":"American Joe Inman, who won the 1976 Kemper Open and three Champions Tour titles, was born on this day.","category":"birth","player_slug":null},
+      {"year":1956,"title":"Ross Drummond born","text":"Scottish professional Ross Drummond, who spent 24 years on the European Tour, was born on this day.","category":"birth","player_slug":null},
+      {"year":1962,"title":"Santiago Luna born","text":"Spanish European Tour player Santiago Luna, who won the 1995 Madeira Island Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":2015,"title":"Matt Jones wins the Australian Open","text":"Matt Jones held off Jordan Spieth and Adam Scott by one to win the Australian Open at his home course, The Australian in Sydney.","category":"championship","player_slug":null},
+      {"year":2009,"title":"Tiger Woods withdraws from his own event","text":"In the wake of his car crash two days earlier, Tiger Woods withdrew from his Chevron World Challenge, foreshadowing the indefinite leave from golf he would soon announce.","category":"milestone","player_slug":"tiger-woods"}
+    ],
+    "30": [
+      {"year":1955,"title":"Brad Fabel born","text":"American Brad Fabel, a PGA Tour player from 1985 to 2001 who later became a PGA Tour rules official, was born on this day.","category":"birth","player_slug":null},
+      {"year":1965,"title":"James Kingston born","text":"South African James Kingston, who won the 2009 Mercedes-Benz Championship on the European Tour, was born on this day.","category":"birth","player_slug":null},
+      {"year":1984,"title":"Casey Wittenberg born","text":"American Casey Wittenberg, who as an amateur finished tied for 13th at the 2004 Masters, the lowest amateur finish in 41 years, was born on this day.","category":"birth","player_slug":null},
+      {"year":1994,"title":"Leona Maguire born","text":"Irishwoman Leona Maguire, the first Irish woman to win on the LPGA Tour and holder of the Solheim Cup rookie points record, was born on this day.","category":"birth","player_slug":null},
+      {"year":1997,"title":"Lee Westwood wins the Australian Open","text":"Lee Westwood beat Greg Norman in a playoff to win the Holden Australian Open at Metropolitan in Melbourne.","category":"championship","player_slug":null},
+      {"year":2014,"title":"Jordan Spieth wins the Australian Open","text":"Jordan Spieth closed with a course-record 8-under 63 to win the Australian Open at The Australian in Sydney by six.","category":"championship","player_slug":"jordan-spieth"}
+    ]
+  }
+}

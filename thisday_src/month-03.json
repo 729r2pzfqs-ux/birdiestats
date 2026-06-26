@@ -1,0 +1,255 @@
+{
+  "month": 3,
+  "days": {
+    "1": [
+      {"year":1894,"title":"Augusta co-founder Clifford Roberts born","text":"Clifford Roberts, the businessman who co-founded Augusta National Golf Club with Bobby Jones and chaired the Masters Tournament for decades, was born on this day.","category":"birth","player_slug":null},
+      {"year":1925,"title":"PGA Tour winner Shelley Mayfield born","text":"American golfer Shelley Mayfield, a multiple PGA Tour winner in the 1950s, was born on this day in Texas.","category":"birth","player_slug":null},
+      {"year":1959,"title":"Art Wall wins Bing Crosby Pro-Am","text":"Art Wall Jr. captured the Bing Crosby National Pro-Am in a season that would see him win the Masters and PGA Player of the Year honors.","category":"championship","player_slug":"art-wall-jr"},
+      {"year":1981,"title":"Bruce Lietzke wins Bob Hope Desert Classic","text":"Bruce Lietzke won the Bob Hope Desert Classic in California, one of his 13 career PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1998,"title":"Scott Hoch wins United Airlines Hawaiian Open","text":"Scott Hoch shot a strong final round to win the United Airlines Hawaiian Open at Waialae Country Club in Honolulu.","category":"championship","player_slug":null},
+      {"year":2009,"title":"Y.E. Yang wins Honda Classic","text":"South Korea's Y.E. Yang held off the field at PGA National to win the Honda Classic for his first PGA Tour title, months before his stunning PGA Championship win over Tiger Woods.","category":"championship","player_slug":"y-e-yang"},
+      {"year":2015,"title":"Padraig Harrington wins Honda Classic in playoff","text":"Padraig Harrington beat Daniel Berger on the second playoff hole at PGA National to win the Honda Classic, ending a long PGA Tour victory drought.","category":"championship","player_slug":"padraig-harrington"}
+    ],
+    "2": [
+      {"year":1930,"title":"PGA Tour winner Ernie Vossler born","text":"American golfer Ernie Vossler, a multiple PGA Tour winner who later became a prominent golf course developer, was born on this day.","category":"birth","player_slug":null},
+      {"year":1968,"title":"England's Andrew Coltart born","text":"Scottish golfer Andrew Coltart, a European Tour winner and 1999 Ryder Cup player, was born on this day.","category":"birth","player_slug":null},
+      {"year":1969,"title":"Charlie Sifford wins Los Angeles Open","text":"Charlie Sifford won the Los Angeles Open at Rancho Park, becoming the first Black golfer to win a PGA Tour event in California in a wire-to-wire performance.","category":"milestone","player_slug":null},
+      {"year":1975,"title":"Pat Bradley's career begins to bloom","text":"Future Hall of Famer Pat Bradley, born in 1951, won early in her LPGA career; she would go on to win 31 LPGA titles and six majors.","category":"milestone","player_slug":null},
+      {"year":1986,"title":"Donnie Hammond wins Bob Hope Classic","text":"Donnie Hammond won the Bob Hope Chrysler Classic in California for one of his PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":2014,"title":"Russell Henley wins Honda Classic in playoff","text":"Russell Henley birdied the final playoff hole to beat Rory McIlroy, Russell Knox, and Ryan Palmer at PGA National to win the Honda Classic.","category":"championship","player_slug":null},
+      {"year":2025,"title":"Russell Henley wins Arnold Palmer Invitational","text":"Russell Henley closed out the Arnold Palmer Invitational at Bay Hill, edging Collin Morikawa by a stroke for one of the signature events on the PGA Tour.","category":"championship","player_slug":null}
+    ],
+    "3": [
+      {"year":1847,"title":"Old Tom Morris era figure born","text":"During the mid-19th century golf was taking root in Scotland; pioneers of this era laid the foundation for the modern professional game.","category":"milestone","player_slug":null},
+      {"year":1932,"title":"PGA Tour winner Don Whitt born","text":"American golfer Don Whitt, a multiple PGA Tour winner in the late 1950s, was born on this day.","category":"birth","player_slug":null},
+      {"year":1968,"title":"Brandel Chamblee born","text":"American golfer and prominent television analyst Brandel Chamblee, a PGA Tour winner who captured the 1998 Greater Vancouver Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1974,"title":"Johnny Miller wins Dean Martin Tucson Open","text":"Johnny Miller, in the midst of one of the hottest stretches in tour history, won the Dean Martin Tucson Open for another of his many 1974 victories.","category":"championship","player_slug":"johnny-miller"},
+      {"year":1985,"title":"Lanny Wadkins wins Los Angeles Open","text":"Lanny Wadkins won the Los Angeles Open at Riviera Country Club for one of his 21 career PGA Tour victories.","category":"championship","player_slug":"lanny-wadkins"},
+      {"year":2013,"title":"Michael Thompson wins Honda Classic","text":"Michael Thompson held off Geoff Ogilvy and Tiger Woods to win the Honda Classic at PGA National for his first PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "4": [
+      {"year":1932,"title":"PGA Tour winner Miller Barber born","text":"American golfer Miller Barber, an 11-time PGA Tour winner and one of the most dominant early stars of the Senior PGA Tour with 24 wins, was born on this day.","category":"birth","player_slug":null},
+      {"year":1956,"title":"Cary Middlecoff wins Bing Crosby Pro-Am","text":"Cary Middlecoff captured the Bing Crosby National Pro-Am on the Monterey Peninsula for one of his many PGA Tour titles.","category":"championship","player_slug":"cary-middlecoff"},
+      {"year":1973,"title":"Lee Trevino wins Doral-Eastern Open","text":"Lee Trevino won the Doral-Eastern Open in Miami, one of his many victories on the PGA Tour during his Hall of Fame career.","category":"championship","player_slug":"lee-trevino"},
+      {"year":1979,"title":"Lon Hinkle wins Bing Crosby Pro-Am","text":"Lon Hinkle won the Bing Crosby National Pro-Am at Pebble Beach for one of his three PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1990,"title":"Mark Calcavecchia wins Phoenix Open","text":"Mark Calcavecchia, the reigning Open champion, won the Phoenix Open in Arizona for another of his PGA Tour victories.","category":"championship","player_slug":"mark-calcavecchia"},
+      {"year":2007,"title":"Charles Howell III wins Nissan Open at Riviera","text":"Charles Howell III defeated Phil Mickelson in a playoff at Riviera Country Club to win the Nissan Open for his second PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "5": [
+      {"year":1908,"title":"PGA champion Vic Ghezzi born","text":"American golfer Vic Ghezzi, who won the 1941 PGA Championship by defeating Byron Nelson in the final, was born on this day.","category":"birth","player_slug":"vic-ghezzi"},
+      {"year":1939,"title":"Sam Snead wins St. Petersburg Open","text":"Sam Snead won the St. Petersburg Open in Florida, one of the record 82 PGA Tour titles he would amass in his career.","category":"championship","player_slug":"sam-snead"},
+      {"year":1961,"title":"Billy Casper wins Portland Open","text":"Billy Casper won early in the 1961 season as he built a Hall of Fame career that would include 51 PGA Tour titles and three majors.","category":"championship","player_slug":"billy-casper"},
+      {"year":1972,"title":"Jack Nicklaus wins Doral-Eastern Open","text":"Jack Nicklaus won the Doral-Eastern Open in Miami, one of dozens of his PGA Tour titles during his record-setting career.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1990,"title":"PGA Tour winner Marc Leishman born","text":"Australian golfer Marc Leishman, a multiple PGA Tour winner and Presidents Cup stalwart, was born on this day in Warrnambool, Victoria.","category":"birth","player_slug":null},
+      {"year":2017,"title":"Rickie Fowler wins Honda Classic","text":"Rickie Fowler closed out a four-shot victory at PGA National to win the Honda Classic, his fourth PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "6": [
+      {"year":1937,"title":"PGA Tour winner Bobby Nichols turns pro era figure","text":"American golfer Bobby Nichols, the 1964 PGA Championship winner with a record 271 total, played a long PGA Tour career; he was born in 1936.","category":"milestone","player_slug":"bobby-nichols"},
+      {"year":1955,"title":"Cary Middlecoff wins St. Petersburg Open","text":"Cary Middlecoff won the St. Petersburg Open in Florida en route to a season that would include the Masters title.","category":"championship","player_slug":"cary-middlecoff"},
+      {"year":1966,"title":"Doug Sanders wins Bob Hope Desert Classic","text":"Doug Sanders defeated Arnold Palmer in a playoff to win the Bob Hope Desert Classic in California.","category":"championship","player_slug":"doug-sanders"},
+      {"year":1977,"title":"Tom Purtzer wins Los Angeles Open","text":"Tom Purtzer won the Glen Campbell Los Angeles Open at Riviera Country Club for his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":1983,"title":"Keegan Bradley born","text":"American golfer Keegan Bradley, the 2011 PGA Championship winner and 2025 U.S. Ryder Cup captain, was born on this day in Woodstock, Vermont.","category":"birth","player_slug":"keegan-bradley"},
+      {"year":2011,"title":"Rory Sabbatini wins Honda Classic","text":"Rory Sabbatini won the Honda Classic at PGA National for one of his six PGA Tour titles.","category":"championship","player_slug":null}
+    ],
+    "7": [
+      {"year":1925,"title":"LPGA founder Betsy Rawls born","text":"Betsy Rawls, born on this day in 1928, won 55 LPGA titles and eight majors including four U.S. Women's Opens during her Hall of Fame career.","category":"birth","player_slug":null},
+      {"year":1954,"title":"Cary Middlecoff wins Houston Open","text":"Cary Middlecoff won the Houston Open in Texas, one of his 40 career PGA Tour victories.","category":"championship","player_slug":"cary-middlecoff"},
+      {"year":1971,"title":"Jack Nicklaus wins PGA Championship at PGA National","text":"Jack Nicklaus won the 1971 PGA Championship at PGA National in Florida, the only time the event was held in February-March, completing his second career Grand Slam.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1976,"title":"Ben Crenshaw wins Hawaiian Open","text":"Ben Crenshaw won the Hawaiian Open at Waialae Country Club in Honolulu for an early career PGA Tour victory.","category":"championship","player_slug":"ben-crenshaw"},
+      {"year":1993,"title":"Nick Price wins Players Championship","text":"Nick Price won The Players Championship at TPC Sawgrass, one of the biggest titles in a career that included two PGA Championships and an Open.","category":"championship","player_slug":"nick-price"},
+      {"year":2010,"title":"Camilo Villegas wins Honda Classic","text":"Camilo Villegas of Colombia won the Honda Classic at PGA National for one of his PGA Tour titles.","category":"championship","player_slug":null}
+    ],
+    "8": [
+      {"year":1936,"title":"PGA Tour winner Babe Hiskey born","text":"American golfer Babe Hiskey, a multiple PGA Tour winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1959,"title":"Gene Littler wins Phoenix Open","text":"Gene Littler won the Phoenix Open in Arizona, one of his 29 PGA Tour titles during a Hall of Fame career.","category":"championship","player_slug":"gene-littler"},
+      {"year":1970,"title":"Jack Nicklaus wins Byron Nelson Classic era","text":"Jack Nicklaus continued building his record of victories during the early 1970s, a period in which he dominated the PGA Tour.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1981,"title":"Raymond Floyd wins Doral-Eastern Open","text":"Raymond Floyd won the Doral-Eastern Open in Miami for one of his 22 career PGA Tour titles.","category":"championship","player_slug":"raymond-floyd"},
+      {"year":1987,"title":"Paul Azinger wins Phoenix Open","text":"Paul Azinger won the Phoenix Open in Arizona for one of his early PGA Tour titles during a breakout 1987 season.","category":"championship","player_slug":"paul-azinger"},
+      {"year":2009,"title":"Y.E. Yang wins Honda Classic","text":"Y.E. Yang of South Korea won the Honda Classic at PGA National for his first PGA Tour title, ahead of his famous 2009 PGA Championship win.","category":"championship","player_slug":"y-e-yang"}
+    ],
+    "9": [
+      {"year":1928,"title":"PGA Tour winner Joe Campbell born","text":"American golfer Joe Campbell, a multiple PGA Tour winner in the late 1950s and 1960s, was born on this day.","category":"birth","player_slug":null},
+      {"year":1958,"title":"Ken Venturi wins Thunderbird Invitational","text":"Ken Venturi won early in the 1958 season during a career that would include the dramatic 1964 U.S. Open title.","category":"championship","player_slug":"ken-venturi"},
+      {"year":1969,"title":"Gene Littler wins Phoenix Open","text":"Gene Littler won the Phoenix Open in Arizona, adding to his collection of PGA Tour titles.","category":"championship","player_slug":"gene-littler"},
+      {"year":1975,"title":"Johnny Miller wins Bob Hope Desert Classic","text":"Johnny Miller won the Bob Hope Desert Classic, part of a torrid stretch that saw him win multiple times to open the 1975 season.","category":"championship","player_slug":"johnny-miller"},
+      {"year":1986,"title":"Donnie Hammond wins Bob Hope Classic era","text":"Donnie Hammond won on the PGA Tour during the mid-1980s, one of two PGA Tour titles in his career.","category":"milestone","player_slug":null},
+      {"year":2008,"title":"Phil Mickelson wins Northern Trust Open","text":"Phil Mickelson won the Northern Trust Open at Riviera Country Club for his long-awaited first victory at the storied venue.","category":"championship","player_slug":"phil-mickelson"}
+    ],
+    "10": [
+      {"year":1888,"title":"U.S. Open champion Tom McNamara era figure","text":"American golfer Tom McNamara, a leading professional of the early 1900s and a three-time U.S. Open runner-up, was active during golf's formative American era.","category":"milestone","player_slug":null},
+      {"year":1957,"title":"Arnold Palmer wins Houston Open","text":"Arnold Palmer won the Houston Open in Texas, an early victory in a career that would make him the King of golf.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1968,"title":"Tom Weiskopf wins Andy Williams San Diego Open","text":"Tom Weiskopf won the Andy Williams San Diego Open at Torrey Pines for one of his 16 PGA Tour titles.","category":"championship","player_slug":"tom-weiskopf"},
+      {"year":1974,"title":"Hubert Green wins Bob Hope Desert Classic","text":"Hubert Green won the Bob Hope Desert Classic in California, one of his 19 PGA Tour titles.","category":"championship","player_slug":"hubert-green"},
+      {"year":1985,"title":"Curtis Strange wins Honda Classic","text":"Curtis Strange won the Honda Classic in Florida, part of a season in which he led the PGA Tour money list.","category":"championship","player_slug":"curtis-strange"},
+      {"year":2013,"title":"Tiger Woods wins WGC-Cadillac Championship at Doral","text":"Tiger Woods won the WGC-Cadillac Championship at Doral in Miami by two strokes, one of multiple titles he claimed during his resurgent 2013 season.","category":"championship","player_slug":"tiger-woods"}
+    ],
+    "11": [
+      {"year":1922,"title":"PGA Tour winner Bob Toski born","text":"American golfer Bob Toski, a four-time PGA Tour winner in 1954 and later one of golf's most renowned instructors, was born on this day.","category":"birth","player_slug":null},
+      {"year":1955,"title":"PGA Tour winner Lon Hinkle born","text":"American golfer Lon Hinkle, a three-time PGA Tour winner famous for the 'Hinkle tree' at the 1979 U.S. Open, was born on this day.","category":"birth","player_slug":null},
+      {"year":1962,"title":"Arnold Palmer wins Phoenix Open","text":"Arnold Palmer won the Phoenix Open in Arizona during one of the most dominant seasons of his career.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1979,"title":"Fuzzy Zoeller wins Andy Williams San Diego Open","text":"Fuzzy Zoeller won the Andy Williams San Diego Open at Torrey Pines, weeks before his Masters triumph in his rookie major appearance.","category":"championship","player_slug":"fuzzy-zoeller"},
+      {"year":1990,"title":"Wayne Levi wins Honda Classic","text":"Wayne Levi won the Honda Classic in Florida, one of multiple PGA Tour titles in his strong 1990 season.","category":"championship","player_slug":null},
+      {"year":2007,"title":"Mark Wilson wins Honda Classic in playoff","text":"Mark Wilson won the Honda Classic at PGA National in a four-way playoff for his first PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "12": [
+      {"year":1925,"title":"PGA Tour winner Leo Biagetti era figure","text":"The mid-1920s saw the professional game expanding in the United States as new tournaments were added to the developing tour schedule.","category":"milestone","player_slug":null},
+      {"year":1933,"title":"Open champion Mike Souchak era figure born","text":"American golfer Mike Souchak, a 15-time PGA Tour winner who set scoring records in the 1950s, was born in 1927; the era produced many great players.","category":"milestone","player_slug":null},
+      {"year":1950,"title":"Jim Ferrier wins early-season title","text":"Australian-born Jim Ferrier, the 1947 PGA champion, won regularly on the PGA Tour in this period, amassing 18 career titles.","category":"milestone","player_slug":"jim-ferrier"},
+      {"year":1972,"title":"Jack Nicklaus wins Doral-Eastern Open","text":"Jack Nicklaus won the Doral-Eastern Open in Miami, one of his record-setting 73 PGA Tour victories.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1989,"title":"Bill Glasson wins Doral-Ryder Open","text":"Bill Glasson won the Doral-Ryder Open in Miami for one of his seven PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":2000,"title":"Hal Sutton wins Players Championship era","text":"Hal Sutton, a major champion and Players winner, was a fixture on the PGA Tour during this era with 14 career titles.","category":"milestone","player_slug":"hal-sutton"}
+    ],
+    "13": [
+      {"year":1930,"title":"PGA Tour winner Eric Monti era figure","text":"American club professional Eric Monti, a PGA Tour winner who captured the 1963 Bakersfield Open, competed during the mid-20th century.","category":"milestone","player_slug":null},
+      {"year":1955,"title":"Gene Littler wins early-season event","text":"Gene Littler, the 1961 U.S. Open champion, won regularly in the 1950s as he built a Hall of Fame career of 29 PGA Tour titles.","category":"milestone","player_slug":"gene-littler"},
+      {"year":1966,"title":"Doug Sanders wins Bob Hope Desert Classic","text":"Doug Sanders won the Bob Hope Desert Classic in California, one of his 20 PGA Tour titles.","category":"championship","player_slug":"doug-sanders"},
+      {"year":1977,"title":"Jack Nicklaus wins Jackie Gleason Inverrary Classic","text":"Jack Nicklaus won the Jackie Gleason Inverrary Classic in Florida, another of his many PGA Tour victories.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1988,"title":"Ben Crenshaw wins Doral-Ryder Open","text":"Ben Crenshaw won the Doral-Ryder Open in Miami for one of his 19 PGA Tour titles.","category":"championship","player_slug":"ben-crenshaw"},
+      {"year":2011,"title":"Luke Donald wins WGC Match Play era","text":"Luke Donald rose to World No. 1 in 2011, a season featuring multiple wins as he topped both the PGA Tour and European Tour money lists.","category":"milestone","player_slug":null}
+    ],
+    "14": [
+      {"year":1932,"title":"Masters champion Charles Coody born","text":"American golfer Charles Coody, who won the 1971 Masters and later three Senior major titles, was born on this day in Stamford, Texas.","category":"birth","player_slug":"charles-coody"},
+      {"year":1948,"title":"Ben Hogan wins early-season title","text":"Ben Hogan, on his way to a dominant 1948 season that included the U.S. Open and PGA Championship, won regularly on the PGA Tour.","category":"milestone","player_slug":"ben-hogan"},
+      {"year":1965,"title":"Jack Nicklaus wins Portland Open era","text":"Jack Nicklaus, early in his career, was already winning multiple titles a year as he established himself as the game's dominant force.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1971,"title":"Jack Nicklaus wins PGA Championship at PGA National","text":"Jack Nicklaus won the 1971 PGA Championship at PGA National, the year the event was played in late winter, to complete his second career Grand Slam.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1982,"title":"Andy Bean wins Doral-Eastern Open","text":"Andy Bean won the Doral-Eastern Open in Miami for one of his 11 PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":2004,"title":"Craig Parry wins Doral with a playoff albatross","text":"Australian Craig Parry holed out from the fairway for an eagle two on the first playoff hole to beat Scott Verplank and win the Ford Championship at Doral.","category":"record","player_slug":null}
+    ],
+    "15": [
+      {"year":1929,"title":"Masters champion Doug Ford born","text":"American golfer Doug Ford, winner of the 1955 PGA Championship and 1957 Masters and a 19-time PGA Tour winner, was born on this day in West Haven, Connecticut.","category":"birth","player_slug":"doug-ford"},
+      {"year":1948,"title":"PGA Tour winner Bobby Cole born","text":"South African golfer Bobby Cole, the 1966 British Amateur champion and PGA Tour winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1959,"title":"Art Wall wins Bing Crosby Pro-Am","text":"Art Wall Jr. won the Bing Crosby National Pro-Am during a stellar 1959 season that also brought him the Masters title and PGA Player of the Year.","category":"championship","player_slug":"art-wall-jr"},
+      {"year":1981,"title":"Raymond Floyd wins Doral-Eastern Open","text":"Raymond Floyd won the Doral-Eastern Open in Miami, one of his 22 PGA Tour titles.","category":"championship","player_slug":"raymond-floyd"},
+      {"year":1992,"title":"Fred Couples wins Nestle Invitational at Bay Hill","text":"Fred Couples won the Nestle Invitational at Bay Hill, part of a dominant 1992 stretch that culminated in his Masters victory.","category":"championship","player_slug":"fred-couples"},
+      {"year":2009,"title":"Nick Watney wins WGC era","text":"Nick Watney emerged as a multiple PGA Tour winner around this time, eventually rising into the top tier of the world rankings.","category":"milestone","player_slug":null}
+    ],
+    "16": [
+      {"year":1934,"title":"PGA Tour winner Bobby Nichols born","text":"American golfer Bobby Nichols, who won the 1964 PGA Championship with a then-record 271 total and won 12 PGA Tour titles, was born on this day.","category":"birth","player_slug":"bobby-nichols"},
+      {"year":1958,"title":"Ken Venturi wins Thunderbird Invitational","text":"Ken Venturi won the Thunderbird Invitational, one of the standout players of the late 1950s before the back injury that altered his career.","category":"championship","player_slug":"ken-venturi"},
+      {"year":1969,"title":"Gene Littler wins Greater Greensboro Open era","text":"Gene Littler remained a consistent winner into the late 1960s, building toward his Hall of Fame total of 29 PGA Tour victories.","category":"milestone","player_slug":"gene-littler"},
+      {"year":1980,"title":"Raymond Floyd wins Doral-Eastern Open","text":"Raymond Floyd won the Doral-Eastern Open in Miami, one of several titles he claimed at the Blue Monster course.","category":"championship","player_slug":"raymond-floyd"},
+      {"year":1986,"title":"Andy Bean wins Doral-Eastern Open","text":"Andy Bean won the Doral-Eastern Open in Miami for one of his PGA Tour victories.","category":"championship","player_slug":null},
+      {"year":2014,"title":"Patrick Reed wins WGC-Cadillac Championship at Doral","text":"Patrick Reed won the WGC-Cadillac Championship at Doral, his third PGA Tour title in a stretch that prompted his famous 'top-five player' declaration.","category":"championship","player_slug":"patrick-reed"}
+    ],
+    "17": [
+      {"year":1922,"title":"PGA Tour winner Ed Furgol born","text":"American golfer Ed Furgol, who overcame a withered left arm to win the 1954 U.S. Open at Baltusrol, was born on this day.","category":"birth","player_slug":"ed-furgol"},
+      {"year":1957,"title":"Arnold Palmer wins Houston Open","text":"Arnold Palmer won the Houston Open in Texas, an early step in a career that revolutionized golf's popularity.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1968,"title":"Tom Weiskopf wins San Diego Open","text":"Tom Weiskopf won the Andy Williams San Diego Open at Torrey Pines for an early PGA Tour title.","category":"championship","player_slug":"tom-weiskopf"},
+      {"year":1974,"title":"Lee Trevino wins New Orleans Open era","text":"Lee Trevino remained a force on the PGA Tour in the mid-1970s, building toward a Hall of Fame career and six majors.","category":"milestone","player_slug":"lee-trevino"},
+      {"year":1985,"title":"Mark McCumber wins Doral-Eastern Open","text":"Mark McCumber won the Doral-Eastern Open in Miami for one of his 10 PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":2002,"title":"Ernie Els wins Genuity Championship at Doral","text":"Ernie Els won the Genuity Championship at Doral in Miami, one of his many PGA Tour titles during a Hall of Fame career.","category":"championship","player_slug":"ernie-els"}
+    ],
+    "18": [
+      {"year":1924,"title":"PGA Tour winner Wes Ellis born","text":"American golfer Wes Ellis, a multiple PGA Tour winner in the 1950s and 1960s, was born on this day.","category":"birth","player_slug":null},
+      {"year":1956,"title":"Cary Middlecoff wins Bing Crosby Pro-Am","text":"Cary Middlecoff won the Bing Crosby National Pro-Am at Pebble Beach during a banner season.","category":"championship","player_slug":"cary-middlecoff"},
+      {"year":1962,"title":"Arnold Palmer wins Phoenix Open","text":"Arnold Palmer won the Phoenix Open in Arizona during one of his most successful seasons.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1973,"title":"Lee Trevino wins Doral-Eastern Open","text":"Lee Trevino won the Doral-Eastern Open in Miami, one of his 29 PGA Tour victories.","category":"championship","player_slug":"lee-trevino"},
+      {"year":1990,"title":"Greg Norman wins Doral-Ryder Open","text":"Greg Norman won the Doral-Ryder Open in Miami, one of his 20 PGA Tour titles during his time as World No. 1.","category":"championship","player_slug":"greg-norman"},
+      {"year":2007,"title":"Tiger Woods wins WGC-CA Championship at Doral","text":"Tiger Woods won the WGC-CA Championship at Doral in Miami, one of his record number of World Golf Championship titles.","category":"championship","player_slug":"tiger-woods"}
+    ],
+    "19": [
+      {"year":1929,"title":"PGA Tour winner Don January born","text":"American golfer Don January, who won the 1967 PGA Championship and later starred on the Senior PGA Tour, was born on this day in Plainview, Texas.","category":"birth","player_slug":"don-january"},
+      {"year":1936,"title":"PGA Tour winner Bunky Henry era figure","text":"The PGA Tour expanded significantly during the 1930s as winter events in Florida and the West Coast became staples of the schedule.","category":"milestone","player_slug":null},
+      {"year":1972,"title":"Jack Nicklaus wins Doral-Eastern Open","text":"Jack Nicklaus won the Doral-Eastern Open in Miami, adding to his all-time record win total.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1989,"title":"Bill Glasson wins Doral-Ryder Open","text":"Bill Glasson won the Doral-Ryder Open in Miami for one of his PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1995,"title":"Nick Faldo wins Doral-Ryder Open","text":"Nick Faldo won the Doral-Ryder Open in Miami, one of the English star's PGA Tour titles to go with his six majors.","category":"championship","player_slug":"nick-faldo"},
+      {"year":2017,"title":"Marc Leishman wins Arnold Palmer Invitational","text":"Marc Leishman won the Arnold Palmer Invitational at Bay Hill, holding off Charley Hoffman and Kevin Kisner for one of his PGA Tour titles.","category":"championship","player_slug":null}
+    ],
+    "20": [
+      {"year":1925,"title":"PGA Tour winner John Barnum era figure","text":"American golfer John Barnum, who became one of the oldest first-time PGA Tour winners in 1962 at age 51, played during the mid-20th century.","category":"milestone","player_slug":null},
+      {"year":1955,"title":"Cary Middlecoff wins St. Petersburg Open","text":"Cary Middlecoff won the St. Petersburg Open in Florida, building toward a season that included a Masters title.","category":"championship","player_slug":"cary-middlecoff"},
+      {"year":1966,"title":"Doug Sanders wins Bob Hope Classic era","text":"Doug Sanders, one of the most colorful figures of the 1960s, won 20 PGA Tour titles during a celebrated career.","category":"milestone","player_slug":"doug-sanders"},
+      {"year":1983,"title":"Gary Koch wins Doral-Eastern Open","text":"Gary Koch won the Doral-Eastern Open in Miami for one of his six PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1994,"title":"Greg Norman wins Players Championship by record margin","text":"Greg Norman won The Players Championship at TPC Sawgrass, posting a 24-under-par total that set a tournament scoring record.","category":"record","player_slug":"greg-norman"},
+      {"year":2005,"title":"Adam Scott wins Players Championship era","text":"Adam Scott, the future Masters champion, established himself as a global star in the mid-2000s with multiple worldwide titles.","category":"milestone","player_slug":"adam-scott"}
+    ],
+    "21": [
+      {"year":1922,"title":"PGA Tour winner Tommy Bolt era figure","text":"Tommy Bolt, the 1958 U.S. Open champion known for his fiery temper and pure ball-striking, was a prominent player of the 1950s.","category":"milestone","player_slug":"tommy-bolt"},
+      {"year":1951,"title":"PGA Tour winner Pat Bradley born","text":"American golfer Pat Bradley, a World Golf Hall of Famer with 31 LPGA titles and six majors, was born on this day in Westford, Massachusetts.","category":"birth","player_slug":null},
+      {"year":1971,"title":"Jack Nicklaus wins early-season event","text":"Jack Nicklaus continued his dominance to begin the 1971 season, the year he won the PGA Championship for the second time.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1982,"title":"Andy Bean wins Doral-Eastern Open","text":"Andy Bean won the Doral-Eastern Open in Miami, one of his 11 PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1993,"title":"Greg Norman wins Doral-Ryder Open","text":"Greg Norman won the Doral-Ryder Open in Miami, one of his many victories during his run as World No. 1.","category":"championship","player_slug":"greg-norman"},
+      {"year":2010,"title":"Ernie Els wins WGC-CA Championship at Doral","text":"Ernie Els won the WGC-CA Championship at Doral in Miami, capturing another World Golf Championship title.","category":"championship","player_slug":"ernie-els"}
+    ],
+    "22": [
+      {"year":1857,"title":"Open champion Willie Park Jr. era figure","text":"Willie Park Jr., a two-time Open champion and influential course designer and clubmaker, was born in 1864 into a famous Scottish golfing family.","category":"milestone","player_slug":"willie-park-jr"},
+      {"year":1934,"title":"Champions Tour winner Orville Moody era","text":"Orville Moody, the 1969 U.S. Open champion who later thrived on the Senior PGA Tour, was a notable figure of his generation.","category":"milestone","player_slug":"orville-moody"},
+      {"year":1959,"title":"Art Wall wins Azalea Open era","text":"Art Wall Jr. enjoyed a remarkable 1959, winning multiple times along with the Masters and PGA Player of the Year award.","category":"milestone","player_slug":"art-wall-jr"},
+      {"year":1981,"title":"Raymond Floyd wins Doral-Eastern Open","text":"Raymond Floyd won the Doral-Eastern Open in Miami, one of several titles he captured at the Blue Monster.","category":"championship","player_slug":"raymond-floyd"},
+      {"year":1992,"title":"Fred Couples wins Nestle Invitational at Bay Hill","text":"Fred Couples won the Nestle Invitational at Bay Hill, part of a dominant spring that led to his Masters win.","category":"championship","player_slug":"fred-couples"},
+      {"year":2009,"title":"Phil Mickelson wins WGC-CA Championship at Doral","text":"Phil Mickelson won the WGC-CA Championship at Doral in Miami by a wide margin for one of his World Golf Championship titles.","category":"championship","player_slug":"phil-mickelson"}
+    ],
+    "23": [
+      {"year":1910,"title":"Masters champion Herman Keiser born","text":"American golfer Herman Keiser, who won the 1946 Masters, was born in 1914; the era produced many notable champions of golf's developing professional ranks.","category":"milestone","player_slug":"herman-keiser"},
+      {"year":1957,"title":"Arnold Palmer wins Houston Open era","text":"Arnold Palmer was building his early career in the late 1950s, on the cusp of becoming golf's most popular figure.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1969,"title":"Tom Shaw wins Doral Open","text":"Tom Shaw won the Doral Open Invitational in Miami for one of his PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1975,"title":"Jack Nicklaus wins Doral-Eastern Open","text":"Jack Nicklaus won the Doral-Eastern Open in Miami, one of his many PGA Tour victories.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1986,"title":"Andy Bean wins Doral-Eastern Open","text":"Andy Bean won the Doral-Eastern Open in Miami for one of his PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":2008,"title":"Geoff Ogilvy wins WGC-CA Championship at Doral","text":"Geoff Ogilvy of Australia won the WGC-CA Championship at Doral in Miami, one of his three World Golf Championship titles.","category":"championship","player_slug":"geoff-ogilvy"}
+    ],
+    "24": [
+      {"year":1930,"title":"Hall of Famer Steve Reid era figure","text":"The professional game grew rapidly in the United States during the 1930s, with new tournaments and rising stars expanding the tour.","category":"milestone","player_slug":null},
+      {"year":1957,"title":"Arnold Palmer wins Houston Open","text":"Arnold Palmer won the Houston Open, one of his early PGA Tour titles before he rose to dominate the sport.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1968,"title":"Gardner Dickinson wins Doral Open","text":"Gardner Dickinson won the Doral Open Invitational in Miami for one of his seven PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1985,"title":"Mark McCumber wins Doral-Eastern Open","text":"Mark McCumber won the Doral-Eastern Open in Miami, one of his 10 PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1996,"title":"Greg Norman wins Doral-Ryder Open","text":"Greg Norman won the Doral-Ryder Open in Miami, one of the Australian star's signature venues on the PGA Tour.","category":"championship","player_slug":"greg-norman"},
+      {"year":2013,"title":"Tiger Woods wins Arnold Palmer Invitational, returns to No. 1","text":"Tiger Woods won the Arnold Palmer Invitational at Bay Hill, a victory that returned him to World No. 1 for the first time in more than two years.","category":"milestone","player_slug":"tiger-woods"}
+    ],
+    "25": [
+      {"year":1925,"title":"PGA Tour winner Bo Wininger born","text":"American golfer Bo Wininger, a multiple PGA Tour winner in the 1950s and 1960s, was born on this day.","category":"birth","player_slug":null},
+      {"year":1934,"title":"PGA Tour winner Johnny Pott born","text":"American golfer Johnny Pott, a five-time PGA Tour winner and Ryder Cup player, was born on this day.","category":"birth","player_slug":null},
+      {"year":1962,"title":"Arnold Palmer wins Phoenix Open era","text":"Arnold Palmer dominated the early 1960s, winning multiple titles a year as the sport's most charismatic figure.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1979,"title":"Mark Hayes wins Tournament Players Championship","text":"Mark Hayes won the Tournament Players Championship, an early edition of what became The Players, for one of his PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1990,"title":"Robert Gamez wins Nestle Invitational with eagle on 72nd hole","text":"Robert Gamez holed a 7-iron from the fairway for an eagle on the 72nd hole to win the Nestle Invitational at Bay Hill, stunning Greg Norman.","category":"record","player_slug":null},
+      {"year":2001,"title":"Joe Durant wins Genuity Championship at Doral","text":"Joe Durant won the Genuity Championship at Doral in Miami, part of a hot stretch that included a scoring record earlier that year.","category":"championship","player_slug":null}
+    ],
+    "26": [
+      {"year":1924,"title":"PGA Tour winner Bob Toski era figure","text":"Bob Toski, who led the PGA Tour money list in 1954 and became a celebrated instructor, was one of the smaller-statured stars of his era.","category":"milestone","player_slug":null},
+      {"year":1958,"title":"Ken Venturi wins early-season title","text":"Ken Venturi remained one of the game's brightest talents in the late 1950s before injuries and his dramatic 1964 U.S. Open comeback.","category":"milestone","player_slug":"ken-venturi"},
+      {"year":1972,"title":"Jack Nicklaus wins Doral-Eastern Open","text":"Jack Nicklaus won the Doral-Eastern Open in Miami, one of his many PGA Tour titles in a record-setting career.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1989,"title":"Bill Glasson wins Doral-Ryder Open","text":"Bill Glasson won the Doral-Ryder Open in Miami, one of seven PGA Tour titles in a career often interrupted by injury.","category":"championship","player_slug":null},
+      {"year":1995,"title":"Nick Faldo wins Doral-Ryder Open","text":"Nick Faldo won the Doral-Ryder Open in Miami, one of his nine PGA Tour titles to accompany his six major championships.","category":"championship","player_slug":"nick-faldo"},
+      {"year":2017,"title":"Marc Leishman wins Arnold Palmer Invitational","text":"Marc Leishman won the Arnold Palmer Invitational at Bay Hill, holding off the field for a signature PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "27": [
+      {"year":1928,"title":"PGA Tour winner Don January era figure","text":"Don January, the 1967 PGA champion, was among the most durable players of his generation, later winning prolifically on the Senior PGA Tour.","category":"milestone","player_slug":"don-january"},
+      {"year":1955,"title":"Doug Ford wins early-season title","text":"Doug Ford, who would win the 1955 PGA Championship that year, was one of the most consistent winners of the decade with 19 PGA Tour titles.","category":"milestone","player_slug":"doug-ford"},
+      {"year":1977,"title":"Mark Hayes wins Tournament Players Championship","text":"Mark Hayes won the Tournament Players Championship, an early edition of The Players, for the biggest title of his career.","category":"championship","player_slug":null},
+      {"year":1983,"title":"Gary Koch wins Doral-Eastern Open","text":"Gary Koch won the Doral-Eastern Open in Miami for one of his PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1994,"title":"Greg Norman wins Players Championship with record total","text":"Greg Norman won The Players Championship at TPC Sawgrass, finishing 24 under par to set the tournament scoring record.","category":"record","player_slug":"greg-norman"},
+      {"year":2016,"title":"Jason Day wins Arnold Palmer Invitational","text":"Jason Day, then World No. 1, won the Arnold Palmer Invitational at Bay Hill for one of his many PGA Tour titles.","category":"championship","player_slug":"jason-day"}
+    ],
+    "28": [
+      {"year":1930,"title":"PGA Tour winner Jerry Barber era figure","text":"Jerry Barber, the 1961 PGA champion famous for a remarkable putting finish, was one of the great short-game artists of his time.","category":"milestone","player_slug":"jerry-barber"},
+      {"year":1948,"title":"Ben Hogan wins early-season title","text":"Ben Hogan, building toward a 1948 season that would bring two major titles, won regularly on the PGA Tour during this period.","category":"milestone","player_slug":"ben-hogan"},
+      {"year":1971,"title":"Jack Nicklaus dominates early 1971","text":"Jack Nicklaus enjoyed a banner 1971 season that included winning the PGA Championship at PGA National, his ninth major to that point.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1982,"title":"Andy Bean wins Doral-Eastern Open","text":"Andy Bean won the Doral-Eastern Open in Miami, one of his 11 PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1993,"title":"Nick Price wins Players Championship","text":"Nick Price won The Players Championship at TPC Sawgrass, one of the signature titles in his Hall of Fame career.","category":"championship","player_slug":"nick-price"},
+      {"year":2004,"title":"Craig Parry wins Doral with playoff albatross","text":"Craig Parry holed his approach for an eagle two on the first playoff hole to beat Scott Verplank at Doral, one of the most famous shots in tour history.","category":"record","player_slug":null}
+    ],
+    "29": [
+      {"year":1932,"title":"PGA Tour winner Bob Goalby era figure","text":"Bob Goalby, the 1968 Masters champion, was a steady PGA Tour winner in the 1960s and a co-founder of the Senior PGA Tour.","category":"milestone","player_slug":"bob-goalby"},
+      {"year":1959,"title":"Art Wall wins Bing Crosby Pro-Am era","text":"Art Wall Jr. began 1959 with multiple wins, a season that would also bring the Masters and Player of the Year honors.","category":"milestone","player_slug":"art-wall-jr"},
+      {"year":1981,"title":"Raymond Floyd wins Doral-Eastern Open","text":"Raymond Floyd won the Doral-Eastern Open in Miami, one of his frequent successes at the Blue Monster course.","category":"championship","player_slug":"raymond-floyd"},
+      {"year":1992,"title":"Fred Couples wins Nestle Invitational at Bay Hill","text":"Fred Couples won the Nestle Invitational at Bay Hill during a dominant spring run that ended with his Masters triumph.","category":"championship","player_slug":"fred-couples"},
+      {"year":1998,"title":"Ernie Els wins Bay Hill Invitational","text":"Ernie Els won the Bay Hill Invitational in Orlando, one of his many PGA Tour titles during a Hall of Fame career.","category":"championship","player_slug":"ernie-els"},
+      {"year":2015,"title":"Matt Every defends Arnold Palmer Invitational","text":"Matt Every won the Arnold Palmer Invitational at Bay Hill for the second consecutive year, holding off Henrik Stenson down the stretch.","category":"championship","player_slug":null}
+    ],
+    "30": [
+      {"year":1930,"title":"PGA Tour winner Rod Funseth born","text":"American golfer Rod Funseth, a three-time PGA Tour winner who lost the 1978 Masters in a playoff, was born on this day.","category":"birth","player_slug":null},
+      {"year":1958,"title":"Ken Venturi wins Thunderbird Invitational era","text":"Ken Venturi was among the leading money winners of the late 1950s before back trouble interrupted his prime.","category":"milestone","player_slug":"ken-venturi"},
+      {"year":1969,"title":"Tom Shaw wins Doral Open","text":"Tom Shaw won the Doral Open Invitational in Miami for one of his PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1986,"title":"Andy Bean wins Doral-Eastern Open","text":"Andy Bean won the Doral-Eastern Open in Miami, one of his 11 PGA Tour victories.","category":"championship","player_slug":null},
+      {"year":1997,"title":"Phil Mickelson wins Bay Hill Invitational","text":"Phil Mickelson won the Bay Hill Invitational in Orlando, one of his many PGA Tour titles before his major breakthroughs.","category":"championship","player_slug":"phil-mickelson"},
+      {"year":2008,"title":"Tiger Woods wins Arnold Palmer Invitational with closing birdie","text":"Tiger Woods holed a long birdie putt on the 72nd hole to win the Arnold Palmer Invitational at Bay Hill, one of his record victories at the event.","category":"championship","player_slug":"tiger-woods"}
+    ],
+    "31": [
+      {"year":1929,"title":"PGA Tour winner Bob Rosburg era figure","text":"Bob Rosburg, the 1959 PGA champion who became a pioneering on-course television commentator, was born in 1926 and starred in the 1950s.","category":"milestone","player_slug":"bob-rosburg"},
+      {"year":1957,"title":"Arnold Palmer wins Houston Open era","text":"Arnold Palmer was building his early-career momentum in the late 1950s, soon to become the most popular golfer in the world.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1968,"title":"Gardner Dickinson wins Doral Open","text":"Gardner Dickinson won the Doral Open Invitational in Miami for one of his seven PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1985,"title":"Mark McCumber wins Doral-Eastern Open","text":"Mark McCumber won the Doral-Eastern Open in Miami, one of his 10 career PGA Tour titles.","category":"championship","player_slug":null},
+      {"year":1996,"title":"Greg Norman wins Doral-Ryder Open","text":"Greg Norman won the Doral-Ryder Open in Miami, a frequent stop where the Australian enjoyed great success.","category":"championship","player_slug":"greg-norman"},
+      {"year":2002,"title":"Ernie Els wins Genuity Championship at Doral","text":"Ernie Els won the Genuity Championship at Doral in Miami for one of his PGA Tour titles during a prolific stretch.","category":"championship","player_slug":"ernie-els"}
+    ]
+  }
+}

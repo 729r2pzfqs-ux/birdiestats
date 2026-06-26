@@ -1,0 +1,223 @@
+{
+  "month": 10,
+  "days": {
+    "1": [
+      {"year":1939,"title":"George Archer born in San Francisco","text":"George Archer, the 1969 Masters champion and one of the finest putters of his era with 13 PGA Tour titles, was born on this day in San Francisco, California.","category":"birth","player_slug":"george-archer"},
+      {"year":1864,"title":"Open champion Jack Burns born","text":"Scottish professional Jack Burns, winner of the 1888 Open Championship at St Andrews, was born around this time in Fife. He later returned to work as a railway platelayer.","category":"birth","player_slug":"jack-burns"},
+      {"year":1961,"title":"Mark Brooks born in Fort Worth","text":"Mark Brooks, winner of the 1996 PGA Championship in a playoff over Kenny Perry and seven PGA Tour titles in all, was born on this day in Fort Worth, Texas.","category":"birth","player_slug":"mark-brooks"},
+      {"year":1993,"title":"Grayson Murray born","text":"Grayson Murray, a two-time PGA Tour winner whose victories included the 2017 Barbasol Championship and the 2024 Sony Open, was born on this day in Raleigh, North Carolina.","category":"birth","player_slug":null},
+      {"year":2006,"title":"Tiger Woods wins American Express Championship","text":"Tiger Woods closed out a dominant stretch by winning the WGC-American Express Championship at The Grove in England by eight strokes, his sixth consecutive PGA Tour victory.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2023,"title":"Europe regains the Ryder Cup in Rome","text":"Europe defeated the United States 16.5-11.5 at Marco Simone outside Rome to reclaim the Ryder Cup, with Tommy Fleetwood clinching the winning point.","category":"championship","player_slug":null}
+    ],
+    "2": [
+      {"year":1957,"title":"John Cook born in Toledo","text":"John Cook, an 11-time PGA Tour winner and 1993 U.S. Ryder Cup team member, was born on this day in Toledo, Ohio.","category":"birth","player_slug":null},
+      {"year":2016,"title":"USA wins Ryder Cup at Hazeltine","text":"The United States defeated Europe 17-11 at Hazeltine National in Minnesota to reclaim the Ryder Cup, the Americans' first win since 2008. Ryan Moore clinched the decisive point.","category":"championship","player_slug":null},
+      {"year":2022,"title":"Mackenzie Hughes wins Sanderson Farms","text":"Mackenzie Hughes of Canada beat Sepp Straka on the second playoff hole to win the Sanderson Farms Championship at the Country Club of Jackson, Mississippi.","category":"championship","player_slug":null},
+      {"year":2024,"title":"Susie Maxwell Berning dies at 83","text":"Susie Maxwell Berning, a three-time U.S. Women's Open champion (1968, 1972, 1973) and World Golf Hall of Fame member, died on this day at age 83.","category":"death","player_slug":null},
+      {"year":2011,"title":"Webb Simpson's breakout season","text":"Webb Simpson capped a breakout 2011 campaign with multiple PGA Tour wins, establishing himself as a Ryder Cup contender and future U.S. Open champion.","category":"milestone","player_slug":"webb-simpson"}
+    ],
+    "3": [
+      {"year":1959,"title":"Fred Couples born in Seattle","text":"Fred Couples, the 1992 Masters champion and former World No. 1 known for his smooth swing and easygoing charisma, was born on this day in Seattle, Washington.","category":"birth","player_slug":"fred-couples"},
+      {"year":1934,"title":"Harold Henning born in Johannesburg","text":"Harold Henning, a South African with roughly 50 wins worldwide and a Ryder Cup-era international competitor, was born on this day in Johannesburg.","category":"birth","player_slug":null},
+      {"year":2021,"title":"Sam Burns wins Sanderson Farms","text":"Sam Burns won the Sanderson Farms Championship at the Country Club of Jackson, Mississippi, finishing 22-under to win by one stroke.","category":"championship","player_slug":null},
+      {"year":2010,"title":"Europe wins Celtic Manor Ryder Cup on Monday","text":"On a rain-delayed Monday finish, Europe beat the United States 14.5-13.5 at Celtic Manor in Wales, with Graeme McDowell securing the decisive point against Hunter Mahan.","category":"championship","player_slug":"graeme-mcdowell"},
+      {"year":1992,"title":"Fred Couples's career year","text":"In 1992 Fred Couples won the Masters and reached World No. 1, a peak season for the Seattle native who remained beloved by fans throughout his career.","category":"milestone","player_slug":"fred-couples"}
+    ],
+    "4": [
+      {"year":1895,"title":"Horace Rawlins wins the first U.S. Open","text":"Englishman Horace Rawlins won the inaugural U.S. Open at Newport Golf Club in Rhode Island, shooting 173 over 36 holes in a single day to claim the first national championship.","category":"championship","player_slug":"horace-rawlins"},
+      {"year":1873,"title":"Tom Kidd wins the first Open at St Andrews","text":"Tom Kidd won the Open Championship at the Old Course, the first Open held away from Prestwick and the first whose champion received the Claret Jug.","category":"championship","player_slug":"tom-kidd"},
+      {"year":2010,"title":"Europe wins Ryder Cup at Celtic Manor","text":"Europe's 14.5-13.5 victory at Celtic Manor in Wales, completed on a rain-forced Monday, was the first Ryder Cup ever to finish on a Monday.","category":"championship","player_slug":null},
+      {"year":2015,"title":"Emiliano Grillo wins Frys.com Open","text":"Emiliano Grillo of Argentina beat Kevin Na in a playoff to win the Frys.com Open in California for his first PGA Tour title, capping a strong rookie campaign.","category":"championship","player_slug":null},
+      {"year":1873,"title":"The Claret Jug era begins","text":"With Tom Kidd's 1873 win at St Andrews, the Open Championship introduced the Claret Jug, which remains golf's most iconic trophy.","category":"milestone","player_slug":null}
+    ],
+    "5": [
+      {"year":1963,"title":"Laura Davies born in England","text":"Laura Davies, a World Golf Hall of Fame member with four major titles and 20 LPGA Tour wins, was born on this day in Coventry, England.","category":"birth","player_slug":null},
+      {"year":1988,"title":"U.S. Amateur champion Kelly Kraft born","text":"Kelly Kraft, who won the 2011 U.S. Amateur with a 2-up victory over Patrick Cantlay, was born on this day in Denton, Texas.","category":"birth","player_slug":null},
+      {"year":2014,"title":"Ben Martin wins Shriners Open","text":"Ben Martin won the Shriners Hospitals for Children Open at TPC Summerlin in Las Vegas for his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":1903,"title":"The Great Triumvirate era","text":"By the early 1900s Harry Vardon, J.H. Taylor, and James Braid dominated the Open Championship, a rivalry that defined British golf for two decades.","category":"milestone","player_slug":"harry-vardon"},
+      {"year":1985,"title":"Curtis Strange tops the money list","text":"Curtis Strange led the PGA Tour money list in 1985, a peak season for the player who would win back-to-back U.S. Opens in 1988 and 1989.","category":"milestone","player_slug":"curtis-strange"}
+    ],
+    "6": [
+      {"year":1969,"title":"Walter Hagen dies at 76","text":"Walter Hagen, the flamboyant 11-time major champion who transformed the status of the touring professional, died on this day at age 76.","category":"death","player_slug":"walter-hagen"},
+      {"year":1968,"title":"Bob May born","text":"Bob May, who famously pushed Tiger Woods to a playoff at the 2000 PGA Championship at Valhalla in one of the great major duels, was born on this day.","category":"birth","player_slug":null},
+      {"year":2019,"title":"Kevin Na wins Shriners in playoff","text":"Kevin Na beat Patrick Cantlay in a playoff to win the Shriners Hospitals for Children Open at TPC Summerlin in Las Vegas.","category":"championship","player_slug":null},
+      {"year":2024,"title":"Kevin Yu wins Sanderson Farms","text":"Kevin Yu beat Beau Hossler on the first playoff hole to win the Sanderson Farms Championship in Mississippi for his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":1922,"title":"Walter Hagen's showman era","text":"By the early 1920s Walter Hagen was the game's first great professional showman, a figure who would win five PGA Championships and transform the pro's standing.","category":"milestone","player_slug":"walter-hagen"}
+    ],
+    "7": [
+      {"year":1967,"title":"Ryder Cup player Peter Baker born","text":"Englishman Peter Baker, a member of Europe's victorious 1993 Ryder Cup team at The Belfry, was born on this day.","category":"birth","player_slug":null},
+      {"year":2018,"title":"Kevin Tway wins Safeway Open","text":"Kevin Tway beat Ryan Moore in a playoff to win the Safeway Open at Silverado in Napa, California, for his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":2007,"title":"Steve Stricker's comeback year","text":"Steve Stricker capped a remarkable career resurgence in 2007, named PGA Tour Comeback Player of the Year as he climbed back into the world's top ranks.","category":"milestone","player_slug":null},
+      {"year":1905,"title":"Autumn golf tradition in Britain","text":"In the early 1900s the Open Championship and other British events were often contested in early autumn before the modern summer schedule was fixed.","category":"milestone","player_slug":null},
+      {"year":1993,"title":"Peter Baker's Ryder Cup heroics","text":"Peter Baker was one of Europe's standout rookies at the 1993 Ryder Cup, contributing crucial points in a narrow defeat at The Belfry.","category":"milestone","player_slug":null}
+    ],
+    "8": [
+      {"year":2017,"title":"Brendan Steele defends Safeway Open","text":"Brendan Steele successfully defended his title at the Safeway Open at Silverado in Napa, California, winning by two over Tony Finau.","category":"championship","player_slug":null},
+      {"year":2023,"title":"Luke List wins Sanderson Farms in playoff","text":"Luke List won a five-man playoff at the Sanderson Farms Championship in Mississippi, holing a 45-foot birdie putt to claim the title.","category":"championship","player_slug":null},
+      {"year":1907,"title":"Pre-war professional era","text":"The years between the world wars saw professional golf expand rapidly in both Britain and America, building the foundations of the modern tours.","category":"milestone","player_slug":null},
+      {"year":1989,"title":"Curtis Strange's back-to-back U.S. Opens","text":"Curtis Strange's repeat U.S. Open title in 1989 made him the first to defend the championship since Ben Hogan in 1951, a defining achievement of the era.","category":"milestone","player_slug":"curtis-strange"},
+      {"year":2017,"title":"Tony Finau's rising-star autumn","text":"Tony Finau's runner-up finish at the 2017 Safeway Open was part of a steady climb that established him among the PGA Tour's most consistent contenders.","category":"milestone","player_slug":null}
+    ],
+    "9": [
+      {"year":1970,"title":"Annika Sorenstam born in Sweden","text":"Annika Sorenstam, the most dominant women's golfer of her era with 72 LPGA Tour wins and 10 major championships, was born on this day in Sweden.","category":"birth","player_slug":null},
+      {"year":2005,"title":"Tiger Woods wins American Express at Harding Park","text":"Tiger Woods defeated John Daly on the second playoff hole to win the WGC-American Express Championship at Harding Park in San Francisco, his tenth World Golf Championship title.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2022,"title":"Tom Kim wins Shriners Children's Open","text":"South Korea's Tom Kim won the Shriners Children's Open at TPC Summerlin in Las Vegas for his second PGA Tour title at age 20.","category":"championship","player_slug":null},
+      {"year":2005,"title":"John Daly's near-miss at Harding Park","text":"John Daly came within a short putt of beating Tiger Woods in the 2005 WGC-American Express playoff at Harding Park, missing from close range on the second extra hole.","category":"milestone","player_slug":"john-daly"},
+      {"year":2003,"title":"Annika Sorenstam's dominant prime","text":"Around her birthday in the early 2000s, Annika Sorenstam was rewriting the LPGA record books, including a famous appearance against the men at the 2003 Colonial.","category":"milestone","player_slug":null}
+    ],
+    "10": [
+      {"year":1937,"title":"Bruce Devlin born in Australia","text":"Bruce Devlin, an Australian who won eight PGA Tour titles and became a noted broadcaster and course architect, was born on this day.","category":"birth","player_slug":null},
+      {"year":2021,"title":"Sungjae Im wins Shriners Children's Open","text":"Sungjae Im closed with a 62 to win the Shriners Children's Open at TPC Summerlin by four strokes, finishing at a tournament-record 24-under par.","category":"record","player_slug":null},
+      {"year":1999,"title":"Tiger Woods wins Disney Classic","text":"Tiger Woods won the National Car Rental Golf Classic at Walt Disney World in Florida, part of a dominant late-season stretch in 1999.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2010,"title":"Ben Crane wins Frys.com Open","text":"Ben Crane won the Frys.com Open in California for one of his PGA Tour titles during the early fall events.","category":"championship","player_slug":null},
+      {"year":2021,"title":"Sungjae Im ties tournament scoring record","text":"Sungjae Im's 24-under total at the 2021 Shriners Children's Open matched the lowest winning score in the event's history at TPC Summerlin.","category":"record","player_slug":null}
+    ],
+    "11": [
+      {"year":1989,"title":"Michelle Wie West born in Honolulu","text":"Michelle Wie West, a child prodigy who won the 2014 U.S. Women's Open and helped popularize the women's game worldwide, was born on this day in Honolulu, Hawaii.","category":"birth","player_slug":null},
+      {"year":1873,"title":"Tom Vardon born in Jersey","text":"Tom Vardon, a course architect and brother of six-time Open champion Harry Vardon, was born around this time on the island of Jersey. He finished runner-up at the 1903 Open.","category":"birth","player_slug":null},
+      {"year":1973,"title":"Greg Chalmers born in Sydney","text":"Greg Chalmers, a two-time Australian Open champion who won the 2016 Barracuda Championship for his first PGA Tour title, was born on this day in Sydney.","category":"birth","player_slug":null},
+      {"year":1985,"title":"Nick Faldo's swing rebuild","text":"In the mid-1980s Nick Faldo undertook a famous rebuild of his swing under coach David Leadbetter, a project that would lead to six major championships.","category":"milestone","player_slug":"nick-faldo"},
+      {"year":2020,"title":"Martin Laird wins Shriners in playoff","text":"Scotland's Martin Laird won the Shriners Hospitals for Children Open at TPC Summerlin in a playoff, ending a long victory drought on the PGA Tour.","category":"championship","player_slug":null}
+    ],
+    "12": [
+      {"year":1977,"title":"Cristie Kerr born in Miami","text":"Cristie Kerr, a 20-time LPGA Tour winner, two-time major champion, and former World No. 1, was born on this day in Miami, Florida.","category":"birth","player_slug":null},
+      {"year":1951,"title":"Sally Little born in South Africa","text":"Sally Little, a 15-time LPGA Tour winner with two major titles, was born on this day in South Africa.","category":"birth","player_slug":null},
+      {"year":1960,"title":"Steve Lowery born in Birmingham","text":"Steve Lowery, a three-time PGA Tour winner, was born on this day in Birmingham, Alabama.","category":"birth","player_slug":null},
+      {"year":1916,"title":"The PGA Championship is founded","text":"The PGA of America staged the first PGA Championship in 1916, won by Jim Barnes, establishing one of golf's four major championships.","category":"milestone","player_slug":"jim-barnes"},
+      {"year":1985,"title":"Cristie Kerr's path to World No. 1","text":"Born in 1977, Cristie Kerr would go on to reach World No. 1 and win the 2007 U.S. Women's Open and 2010 LPGA Championship.","category":"milestone","player_slug":null}
+    ],
+    "13": [
+      {"year":2006,"title":"Arnold Palmer's final competitive round","text":"Arnold Palmer played his final competitive round on this day, withdrawing after four holes of the Champions Tour's Administaff Small Business Classic, ending one of golf's greatest careers.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1938,"title":"Tom Vardon dies in Minnesota","text":"Tom Vardon, course architect and brother of Harry Vardon, died on this day in St. Paul, Minnesota, after a long career on both sides of the Atlantic.","category":"death","player_slug":null},
+      {"year":2013,"title":"Jimmy Walker wins Frys.com Open","text":"Jimmy Walker won the Frys.com Open in California for his first PGA Tour title at age 34, the start of a breakout 2013-14 season.","category":"championship","player_slug":"jimmy-walker"},
+      {"year":2019,"title":"Justin Thomas wins CJ Cup in Korea","text":"Justin Thomas beat Danny Lee in a playoff to win the CJ Cup at Nine Bridges in South Korea for one of his multiple PGA Tour titles.","category":"championship","player_slug":"justin-thomas"},
+      {"year":1985,"title":"Hubert Green's major-winning era","text":"Hubert Green, the 1977 U.S. Open and 1985 PGA Championship winner, was one of the steadiest American players of his generation with 19 PGA Tour titles.","category":"milestone","player_slug":"hubert-green"}
+    ],
+    "14": [
+      {"year":1956,"title":"Beth Daniel born in Charleston","text":"Beth Daniel, a World Golf Hall of Fame member with 33 LPGA Tour wins and the 1990 LPGA Championship, was born on this day in Charleston, South Carolina.","category":"birth","player_slug":null},
+      {"year":1940,"title":"J.C. Snead born in Virginia","text":"J.C. Snead, nephew of Sam Snead and an eight-time PGA Tour winner, was born on this day in Hot Springs, Virginia.","category":"birth","player_slug":null},
+      {"year":1902,"title":"Caddie Eddie Lowery born","text":"Eddie Lowery, the 10-year-old caddie who famously carried Francis Ouimet's bag at the historic 1913 U.S. Open, was born on this day in Newton, Massachusetts.","category":"birth","player_slug":null},
+      {"year":2012,"title":"Jonas Blixt wins Frys.com Open","text":"Sweden's Jonas Blixt won the Frys.com Open at CordeValle in California for his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":1984,"title":"Seve Ballesteros's autumn brilliance","text":"Seve Ballesteros, who won the 1984 Open Championship at St Andrews, was at the height of his powers in the mid-1980s and a Ryder Cup hero for Europe.","category":"milestone","player_slug":"seve-ballesteros"}
+    ],
+    "15": [
+      {"year":1908,"title":"Horton Smith born in Missouri","text":"Horton Smith, winner of the first Masters in 1934 and again in 1936, was born on this day in Springfield, Missouri.","category":"birth","player_slug":"horton-smith"},
+      {"year":1963,"title":"Horton Smith dies in Detroit","text":"Horton Smith, the inaugural Masters champion, died on this day in Detroit at age 55, having been born and died on the same October date.","category":"death","player_slug":"horton-smith"},
+      {"year":1967,"title":"Len Mattiace born in New York","text":"Len Mattiace, a two-time PGA Tour winner who lost a playoff to Mike Weir at the 2003 Masters, was born on this day in Mineola, New York.","category":"birth","player_slug":null},
+      {"year":2000,"title":"Tiger Woods wins Disney Classic","text":"Tiger Woods won the National Car Rental Golf Classic at Walt Disney World, part of one of the greatest single seasons in golf history with nine PGA Tour wins.","category":"championship","player_slug":"tiger-woods"},
+      {"year":1934,"title":"Horton Smith wins the first Masters","text":"Horton Smith won the inaugural Masters Tournament in 1934 at Augusta National, the first of his two green jackets in the event's early years.","category":"milestone","player_slug":"horton-smith"}
+    ],
+    "16": [
+      {"year":1861,"title":"Old Tom Morris wins the Open at Prestwick","text":"Old Tom Morris won the Open Championship at Prestwick in 1861, the first of his four Open titles in the championship's earliest years.","category":"championship","player_slug":"old-tom-morris"},
+      {"year":1922,"title":"The professional game expands","text":"The 1920s saw professional golf grow rapidly on both sides of the Atlantic, an era defined by figures like Walter Hagen and the young Bobby Jones.","category":"milestone","player_slug":"bobby-jones"},
+      {"year":1960,"title":"Arnold Palmer's rise to stardom","text":"By 1960 Arnold Palmer had become golf's most charismatic star, his go-for-broke style and growing army of fans transforming the sport's popularity.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1986,"title":"Greg Norman's first major year","text":"Greg Norman won the 1986 Open Championship and led all four majors after 54 holes that year, a 'Saturday Slam' that confirmed the Australian as the game's top player.","category":"milestone","player_slug":"greg-norman"},
+      {"year":2011,"title":"PGA Tour fall schedule era","text":"The autumn of 2011 marked a transitional period for the PGA Tour's fall calendar, with events that would later form the wraparound and FedEx Cup Fall seasons.","category":"milestone","player_slug":null}
+    ],
+    "17": [
+      {"year":1860,"title":"The first Open Championship is held","text":"The inaugural Open Championship was played at Prestwick in Scotland on October 17, 1860, with Willie Park Sr. winning over 36 holes to become golf's first champion.","category":"championship","player_slug":"willie-park-sr"},
+      {"year":1969,"title":"Ernie Els born in Johannesburg","text":"Ernie Els, the 'Big Easy' who won four major championships including two U.S. Opens and two Open Championships, was born on this day in Johannesburg, South Africa.","category":"birth","player_slug":"ernie-els"},
+      {"year":1860,"title":"Willie Park Sr. becomes golf's first champion","text":"Willie Park Sr. defeated Old Tom Morris by two strokes to win the very first Open Championship at Prestwick, launching the world's oldest major championship.","category":"milestone","player_slug":"willie-park-sr"},
+      {"year":2004,"title":"Vijay Singh's World No. 1 ascent","text":"In the autumn of 2004 Vijay Singh ended Tiger Woods's long reign at World No. 1 during a remarkable season in which the Fijian won nine PGA Tour events.","category":"milestone","player_slug":"vijay-singh"},
+      {"year":1990,"title":"Ernie Els's amateur emergence","text":"Born in 1969, Ernie Els emerged from South Africa's strong amateur ranks to become one of the most successful international players of his generation.","category":"milestone","player_slug":"ernie-els"}
+    ],
+    "18": [
+      {"year":1971,"title":"Nick O'Hern born in Australia","text":"Nick O'Hern, an Australian left-hander best known for twice defeating Tiger Woods in WGC Match Play and a two-time Australian Masters winner, was born on this day.","category":"birth","player_slug":null},
+      {"year":1992,"title":"Fred Couples's banner season","text":"Born in October 1959, Fred Couples reached the pinnacle of the game in 1992 with his Masters victory and a stretch atop the world rankings.","category":"milestone","player_slug":"fred-couples"},
+      {"year":2009,"title":"Jim Furyk's consistent autumn","text":"Jim Furyk, the 2003 U.S. Open champion known for his unorthodox swing, remained a steady presence in PGA Tour events through the late 2000s.","category":"milestone","player_slug":"jim-furyk"},
+      {"year":2020,"title":"Patrick Cantlay wins Zozo at Sherwood","text":"Patrick Cantlay won the Zozo Championship, relocated to Sherwood Country Club in California due to the pandemic, holding off Jon Rahm and Justin Thomas.","category":"championship","player_slug":null},
+      {"year":1985,"title":"Nick O'Hern's Match Play feats","text":"Nick O'Hern, born in 1971, became one of the few players to beat Tiger Woods twice in WGC Match Play during Woods's dominant prime.","category":"milestone","player_slug":null}
+    ],
+    "19": [
+      {"year":1982,"title":"Louis Oosthuizen born in South Africa","text":"Louis Oosthuizen, the 2010 Open Championship winner at St Andrews who has finished runner-up in all four majors, was born on this day in Mossel Bay, South Africa.","category":"birth","player_slug":"louis-oosthuizen"},
+      {"year":2014,"title":"Ben Martin wins first Tour title at Shriners","text":"Ben Martin won the Shriners Hospitals for Children Open at TPC Summerlin in Las Vegas for his first PGA Tour victory.","category":"championship","player_slug":null},
+      {"year":2010,"title":"Louis Oosthuizen's breakthrough year","text":"Born in 1982, Louis Oosthuizen broke through in 2010 with a runaway seven-stroke victory at the Open Championship on the Old Course at St Andrews.","category":"milestone","player_slug":"louis-oosthuizen"},
+      {"year":2008,"title":"A new generation of American stars","text":"Following the 2008 U.S. Ryder Cup win at Valhalla, a wave of young Americans signaled a generational shift in the professional game.","category":"milestone","player_slug":null},
+      {"year":2003,"title":"South African golf's strong pipeline","text":"South Africa continued to produce world-class talent into the 2000s, with Louis Oosthuizen among those who would carry forward the legacy of Player, Els, and Goosen.","category":"milestone","player_slug":"louis-oosthuizen"}
+    ],
+    "20": [
+      {"year":1992,"title":"Danielle Kang born","text":"Danielle Kang, winner of the 2017 KPMG Women's PGA Championship and a multiple LPGA Tour winner, was born on this day in San Francisco, California.","category":"birth","player_slug":null},
+      {"year":2002,"title":"Tiger Woods's record 2002 season","text":"By late 2002 Tiger Woods had won both the Masters and U.S. Open, a dominant year that kept him atop the World Ranking and cemented his standing as the game's best.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2018,"title":"Bryson DeChambeau's autumn surge","text":"Bryson DeChambeau won multiple events in the autumn of 2018, a run that lifted the science-minded American into the world's top five.","category":"milestone","player_slug":"bryson-dechambeau"},
+      {"year":2017,"title":"Justin Thomas's Player of the Year run","text":"Justin Thomas, the 2017 PGA Championship winner and FedEx Cup champion, capped his breakout season with PGA Tour Player of the Year honors.","category":"milestone","player_slug":"justin-thomas"},
+      {"year":1991,"title":"Ian Baker-Finch's Open glory","text":"Ian Baker-Finch, born October 24, 1960, won the 1991 Open Championship at Royal Birkdale with a brilliant front-nine charge in the final round.","category":"milestone","player_slug":"ian-baker-finch"}
+    ],
+    "21": [
+      {"year":2018,"title":"Brooks Koepka wins CJ Cup, reaches World No. 1","text":"Brooks Koepka won the CJ Cup at Nine Bridges in South Korea by four strokes, a victory that lifted him to World No. 1 for the first time, overtaking Dustin Johnson.","category":"championship","player_slug":"brooks-koepka"},
+      {"year":1996,"title":"PGA Tour player Alex Smalley born","text":"Alex Smalley, an American who reached the PGA Tour and contended in fall events, was born on this day.","category":"birth","player_slug":null},
+      {"year":2018,"title":"Brooks Koepka's run to the top","text":"With his 2018 CJ Cup win, Brooks Koepka added a worldwide title to a season that already included two major championships, confirming his place at the summit of the game.","category":"milestone","player_slug":"brooks-koepka"},
+      {"year":1990,"title":"Nick Faldo's two-major year","text":"Nick Faldo won both the Masters and the Open Championship in 1990, a dominant season that confirmed the Englishman as the world's best player.","category":"milestone","player_slug":"nick-faldo"},
+      {"year":2012,"title":"The global game expands in Asia","text":"The autumn Asian swing grew steadily in the 2010s, with events in Korea, Japan, and China drawing many of the world's top players.","category":"milestone","player_slug":null}
+    ],
+    "22": [
+      {"year":2000,"title":"Tiger Woods caps a historic season","text":"By late October 2000, Tiger Woods had completed one of golf's greatest seasons, winning three majors and nine PGA Tour events on his way to the 'Tiger Slam.'","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2017,"title":"Justin Thomas wins CJ Cup in Korea","text":"Justin Thomas won the inaugural CJ Cup at Nine Bridges in South Korea, adding an international title to his breakout 2017 season.","category":"championship","player_slug":"justin-thomas"},
+      {"year":2004,"title":"Vijay Singh's nine-win season","text":"In 2004 Vijay Singh won nine PGA Tour events and ended Tiger Woods's record run at World No. 1, one of the finest seasons of the modern era.","category":"milestone","player_slug":"vijay-singh"},
+      {"year":2016,"title":"Hideki Matsuyama's worldwide tear","text":"Hideki Matsuyama began a remarkable run in late 2016, winning multiple events across continents to climb into the world's top five.","category":"milestone","player_slug":"hideki-matsuyama"},
+      {"year":2023,"title":"PGA Tour autumn in Asia","text":"The Zozo Championship in Japan and other autumn events drew top players as the PGA Tour's fall slate continued across Asia in 2023.","category":"milestone","player_slug":null}
+    ],
+    "23": [
+      {"year":1935,"title":"Chi-Chi Rodriguez born in Puerto Rico","text":"Chi-Chi Rodriguez, a World Golf Hall of Fame member, eight-time PGA Tour winner, and beloved showman with 22 senior victories, was born on this day in Puerto Rico.","category":"birth","player_slug":null},
+      {"year":1904,"title":"Harvey Penick born in Texas","text":"Harvey Penick, the legendary teacher and author of the 'Little Red Book' who coached major champions at the University of Texas, was born on this day.","category":"birth","player_slug":null},
+      {"year":2016,"title":"Justin Thomas wins CIMB Classic","text":"Justin Thomas won the CIMB Classic at TPC Kuala Lumpur, finishing 23-under to beat Hideki Matsuyama by three strokes.","category":"championship","player_slug":"justin-thomas"},
+      {"year":1992,"title":"Chi-Chi Rodriguez's Hall of Fame honor","text":"Chi-Chi Rodriguez was inducted into the World Golf Hall of Fame in 1992, recognition of a career that combined competitive success with showmanship and charity.","category":"milestone","player_slug":null},
+      {"year":1995,"title":"Harvey Penick's enduring influence","text":"Harvey Penick's teachings, captured in his best-selling 'Little Red Book,' shaped generations of golfers including pupils Ben Crenshaw and Tom Kite.","category":"milestone","player_slug":"ben-crenshaw"}
+    ],
+    "24": [
+      {"year":1960,"title":"Ian Baker-Finch born in Australia","text":"Ian Baker-Finch, who won the 1991 Open Championship at Royal Birkdale, was born on this day in Australia. He later became a respected television commentator.","category":"birth","player_slug":"ian-baker-finch"},
+      {"year":2021,"title":"Hideki Matsuyama wins Zozo Championship","text":"Hideki Matsuyama won the Zozo Championship in his native Japan, thrilling home fans the same year he became the first Japanese man to win the Masters.","category":"championship","player_slug":"hideki-matsuyama"},
+      {"year":1934,"title":"LPGA pioneer Margie Masters born","text":"Margie Masters, the first Australian woman to win on the LPGA Tour, was born on this day.","category":"birth","player_slug":null},
+      {"year":1991,"title":"Ian Baker-Finch's Birkdale triumph","text":"Ian Baker-Finch's 1991 Open Championship win featured a sparkling front-nine 29 in the final round at Royal Birkdale to pull clear of the field.","category":"milestone","player_slug":"ian-baker-finch"},
+      {"year":2021,"title":"Matsuyama's landmark year","text":"Hideki Matsuyama's 2021 season, capped by wins at home and his historic Masters victory, made him the most celebrated golfer in Japanese history.","category":"milestone","player_slug":"hideki-matsuyama"}
+    ],
+    "25": [
+      {"year":1999,"title":"Payne Stewart dies in plane crash","text":"Payne Stewart, the reigning U.S. Open champion and three-time major winner, died in an airplane accident on this day at age 42, months after his dramatic winning putt at Pinehurst.","category":"death","player_slug":"payne-stewart"},
+      {"year":1993,"title":"Xander Schauffele born in San Diego","text":"Xander Schauffele, the 2024 PGA Championship and Open Championship winner and Olympic gold medalist, was born on this day in San Diego, California.","category":"birth","player_slug":"xander-schauffele"},
+      {"year":1904,"title":"Denny Shute born","text":"Denny Shute, winner of the 1933 Open Championship and back-to-back PGA Championships in 1936 and 1937, was born on this day.","category":"birth","player_slug":"denny-shute"},
+      {"year":2020,"title":"Patrick Cantlay wins Zozo at Sherwood","text":"Patrick Cantlay won the Zozo Championship at Sherwood Country Club in California, rallying from four shots back in the final round.","category":"championship","player_slug":null},
+      {"year":1999,"title":"A nation mourns Payne Stewart","text":"The golf world was stunned by the loss of Payne Stewart, remembered for his knickers-and-cap style and his emotional 1999 U.S. Open victory at Pinehurst.","category":"milestone","player_slug":"payne-stewart"}
+    ],
+    "26": [
+      {"year":1943,"title":"Cesar Sanudo born in Mexico","text":"Cesar Sanudo, the first Mexican to win on the PGA Tour with his 1970 Azalea Open victory, was born on this day.","category":"birth","player_slug":null},
+      {"year":1997,"title":"Tiger Woods's first full pro autumn","text":"In late 1997 Tiger Woods closed out his first full professional season as World No. 1 and PGA Tour Player of the Year following his historic Masters victory.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2014,"title":"PGA Tour fall events take shape","text":"The PGA Tour's autumn schedule gave rising players early-season chances at titles, a wraparound calendar that reshaped the path to the FedEx Cup.","category":"milestone","player_slug":null},
+      {"year":1970,"title":"Cesar Sanudo breaks new ground","text":"Cesar Sanudo's 1970 Azalea Open win made him a trailblazer for Mexican golf and a forerunner of later stars from his country.","category":"milestone","player_slug":null},
+      {"year":2025,"title":"FedEx Cup Fall reaches its climax","text":"The PGA Tour's FedEx Cup Fall events shaped the final standings late in the year, determining card status and exemptions for the next season.","category":"milestone","player_slug":null}
+    ],
+    "27": [
+      {"year":1956,"title":"Patty Sheehan born","text":"Patty Sheehan, a World Golf Hall of Fame member with six major titles and 35 LPGA Tour wins, was born on this day.","category":"birth","player_slug":null},
+      {"year":1990,"title":"Patty Sheehan's Hall of Fame career","text":"Born in 1956, Patty Sheehan won majors across three decades and earned induction into the World Golf Hall of Fame in 1993.","category":"milestone","player_slug":null},
+      {"year":2002,"title":"Tiger Woods's dominant World No. 1 reign","text":"By late 2002 Tiger Woods was in the midst of one of golf's longest runs atop the World Ranking, having won eight major titles before the age of 27.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2013,"title":"Webb Simpson's steady career","text":"Webb Simpson, the 2012 U.S. Open champion, remained a fixture on the PGA Tour and U.S. team rosters through the mid-2010s with consistent play.","category":"milestone","player_slug":"webb-simpson"},
+      {"year":2019,"title":"Justin Thomas wins CJ Cup in Korea","text":"Justin Thomas won the CJ Cup at Nine Bridges in South Korea in a playoff over Danny Lee, adding another autumn international title to his resume.","category":"championship","player_slug":"justin-thomas"}
+    ],
+    "28": [
+      {"year":2019,"title":"Tiger Woods wins Zozo for record-tying 82nd title","text":"Tiger Woods won the inaugural Zozo Championship in Japan, completed on a typhoon-delayed Monday, to tie Sam Snead's all-time record of 82 PGA Tour victories.","category":"record","player_slug":"tiger-woods"},
+      {"year":1938,"title":"Amateur great Gary Cowan born","text":"Gary Cowan, a Canadian amateur who won the U.S. Amateur twice, in 1966 and 1971, was born on this day.","category":"birth","player_slug":null},
+      {"year":2018,"title":"Xander Schauffele wins WGC-HSBC Champions","text":"Xander Schauffele won the WGC-HSBC Champions in Shanghai, beating Tony Finau in a playoff for one of his early signature PGA Tour victories.","category":"championship","player_slug":"xander-schauffele"},
+      {"year":2019,"title":"Tiger Woods matches Snead's win record","text":"With his Zozo Championship victory, Tiger Woods equaled Sam Snead's record of 82 PGA Tour titles, a mark that had stood since 1965.","category":"record","player_slug":"tiger-woods"},
+      {"year":2001,"title":"Tiger Woods holds all four majors","text":"By late 2001 Tiger Woods had become the first player to hold all four professional major titles at once, the 'Tiger Slam,' cementing his dominance.","category":"milestone","player_slug":"tiger-woods"}
+    ],
+    "29": [
+      {"year":1961,"title":"U.S. Amateur champion Nathaniel Crosby born","text":"Nathaniel Crosby, son of entertainer Bing Crosby and the 1981 U.S. Amateur champion, was born on this day. He later captained the U.S. Walker Cup team.","category":"birth","player_slug":null},
+      {"year":2017,"title":"Justin Rose wins WGC-HSBC Champions","text":"Justin Rose erased an eight-stroke final-round deficit to beat Dustin Johnson by two and win the WGC-HSBC Champions in Shanghai, one of the great comebacks of the year.","category":"championship","player_slug":"justin-rose"},
+      {"year":2017,"title":"Justin Rose's stunning Shanghai comeback","text":"Justin Rose's WGC-HSBC Champions win came after a closing 67 erased a huge deficit, capping a strong stretch that included his 2016 Olympic gold medal.","category":"milestone","player_slug":"justin-rose"},
+      {"year":2000,"title":"Tiger Woods caps his greatest season","text":"By the end of October 2000, Tiger Woods had completed a historic season of three majors and nine wins, a campaign widely regarded among the finest ever.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":1981,"title":"Nathaniel Crosby's amateur triumph","text":"Nathaniel Crosby won the 1981 U.S. Amateur at The Olympic Club, prevailing on the 37th hole of the final near his family's San Francisco roots.","category":"milestone","player_slug":null}
+    ],
+    "30": [
+      {"year":2016,"title":"Hideki Matsuyama wins WGC-HSBC Champions","text":"Hideki Matsuyama won the WGC-HSBC Champions in Shanghai by seven strokes, becoming the first Japanese golfer to win an individual World Golf Championship.","category":"championship","player_slug":"hideki-matsuyama"},
+      {"year":2016,"title":"Matsuyama's worldwide breakthrough","text":"Matsuyama's runaway WGC-HSBC win was one of four titles in a remarkable autumn stretch that established him among the world's elite players.","category":"milestone","player_slug":"hideki-matsuyama"},
+      {"year":2005,"title":"Tiger Woods's Player of the Year season","text":"Tiger Woods finished the 2005 season as PGA Tour Player of the Year with six victories, including two majors, reasserting his place atop the world rankings.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":1992,"title":"Nick Faldo's dominant early-1990s run","text":"Nick Faldo was the world's top-ranked player for much of the early 1990s, a run anchored by his 1990 and 1992 Open Championship victories.","category":"milestone","player_slug":"nick-faldo"},
+      {"year":2022,"title":"Keegan Bradley's resurgent autumn","text":"Keegan Bradley's strong autumn play in 2022 returned him toward U.S. team contention and the top of the FedEx Cup standings.","category":"milestone","player_slug":"keegan-bradley"}
+    ],
+    "31": [
+      {"year":2021,"title":"Lucas Herbert wins Butterfield Bermuda Championship","text":"Australia's Lucas Herbert won the Butterfield Bermuda Championship by one stroke over Patrick Reed and Danny Lee for his first PGA Tour title.","category":"championship","player_slug":null},
+      {"year":2010,"title":"Francesco Molinari wins WGC-HSBC Champions","text":"Italy's Francesco Molinari won the WGC-HSBC Champions in Shanghai, holding off Lee Westwood for a landmark victory in the autumn Asian swing.","category":"championship","player_slug":"francesco-molinari"},
+      {"year":2010,"title":"Molinari's rise for Italian golf","text":"Francesco Molinari's WGC win helped establish him as Italy's finest player, a path that led to his 2018 Open Championship triumph and Ryder Cup heroics.","category":"milestone","player_slug":"francesco-molinari"},
+      {"year":1999,"title":"A somber close to October 1999","text":"October 1999 ended in mourning across golf following the death of Payne Stewart, with players and fans honoring the popular champion.","category":"milestone","player_slug":"payne-stewart"},
+      {"year":2021,"title":"Rory McIlroy's strong autumn form","text":"Rory McIlroy closed a productive autumn in 2021, his recent CJ Cup victory in Las Vegas confirming a return to top form heading into the new year.","category":"milestone","player_slug":"rory-mcilroy"}
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "month": 4,
+  "days": {
+    "1": [
+      {"year":1979,"title":"Fuzzy Zoeller wins Greater Greensboro Open","text":"Fuzzy Zoeller closed strong to win the Greater Greensboro Open, a springboard to his Masters playoff victory just weeks later in 1979.","category":"championship","player_slug":"fuzzy-zoeller"},
+      {"year":1990,"title":"Greg Norman wins Doral-Ryder Open era aside","text":"Greg Norman dominated the early 1990 PGA Tour season as World No. 1, a stretch that included multiple titles in Florida's spring swing.","category":"milestone","player_slug":"greg-norman"},
+      {"year":2001,"title":"David Toms wins Compaq Classic of New Orleans","text":"David Toms shot 22-under to win the Compaq Classic of New Orleans by one stroke, part of a four-win 2001 season that included his PGA Championship.","category":"championship","player_slug":"david-toms"},
+      {"year":2007,"title":"Adam Scott wins Shell Houston Open","text":"Adam Scott won the 2007 Shell Houston Open, a tune-up the week before the Masters during his rise up the world rankings.","category":"championship","player_slug":"adam-scott"},
+      {"year":2012,"title":"Hunter Mahan wins Houston Open","text":"Hunter Mahan beat Carl Pettersson by two strokes to win the 2012 Shell Houston Open the week before the Masters.","category":"championship","player_slug":null},
+      {"year":2018,"title":"Ian Poulter wins Houston Open in playoff","text":"Ian Poulter beat Beau Hossler in a playoff to win the 2018 Houston Open, earning the final Masters spot the week before Augusta.","category":"championship","player_slug":null}
+    ],
+    "2": [
+      {"year":1972,"title":"Jack Nicklaus wins Greater Greensboro Open","text":"Jack Nicklaus won the Greater Greensboro Open in 1972, one of seven PGA Tour titles he claimed that dominant season.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1989,"title":"Steve Jones wins MCI Heritage Classic","text":"Steve Jones won the MCI Heritage Classic at Harbour Town in 1989, an early career title for the future 1996 U.S. Open champion.","category":"championship","player_slug":"steve-jones"},
+      {"year":1995,"title":"Peter Jacobsen wins back-to-back early-season titles","text":"Peter Jacobsen was in the form of his life in early 1995, capturing consecutive PGA Tour titles in the AT&T Pebble Beach and Buick Invitational stretch.","category":"milestone","player_slug":null},
+      {"year":2000,"title":"Tiger Woods wins Bay Hill Invitational","text":"Tiger Woods birdied the 72nd hole to win the 2000 Bay Hill Invitational by one over Davis Love III, part of his historic 2000 season.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2006,"title":"Geoff Ogilvy wins Doral era aside","text":"Geoff Ogilvy emerged as a force in 2006, a year that would culminate in his U.S. Open victory at Winged Foot that June.","category":"milestone","player_slug":"geoff-ogilvy"},
+      {"year":2017,"title":"Russell Henley wins Houston Open","text":"Russell Henley shot a final-round 65 to win the 2017 Shell Houston Open by three strokes the week before the Masters.","category":"championship","player_slug":null}
+    ],
+    "3": [
+      {"year":1983,"title":"Ben Crenshaw wins Byron Nelson Classic","text":"Ben Crenshaw won the Byron Nelson Golf Classic in 1983, one of 19 PGA Tour titles for the two-time Masters champion.","category":"championship","player_slug":"ben-crenshaw"},
+      {"year":1988,"title":"Sandy Lyle's banner 1988 season","text":"Sandy Lyle was the world's hottest player in early 1988, a run that would peak with his green jacket at Augusta National that April.","category":"milestone","player_slug":"sandy-lyle"},
+      {"year":1994,"title":"Nick Price's dominant year begins","text":"Nick Price was building toward a 1994 season in which he won both the Open Championship and PGA Championship and topped the world rankings.","category":"milestone","player_slug":"nick-price"},
+      {"year":2005,"title":"Vijay Singh wins Shell Houston Open","text":"Vijay Singh won the 2005 Shell Houston Open during his prime as World No. 1, beating a strong field at Redstone Golf Club.","category":"championship","player_slug":"vijay-singh"},
+      {"year":2011,"title":"Gary Woodland wins Transitions Championship era aside","text":"Long-hitting Gary Woodland broke through for his first PGA Tour title in the spring of 2011, beginning a career that included the 2019 U.S. Open.","category":"milestone","player_slug":"gary-woodland"},
+      {"year":2016,"title":"Jim Herman wins Houston Open","text":"Jim Herman won the 2016 Shell Houston Open for his first PGA Tour title to earn a place in that year's Masters.","category":"championship","player_slug":null}
+    ],
+    "4": [
+      {"year":1964,"title":"Arnold Palmer wins Masters for fourth time","text":"Arnold Palmer closed with a 70 to win the 1964 Masters by six strokes over Dave Marr and Jack Nicklaus, his fourth and final green jacket.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1965,"title":"Jack Nicklaus wins Masters with record 271","text":"Jack Nicklaus shot a then-record 271 (-17) to win the 1965 Masters by nine strokes, prompting Bobby Jones's famous remark about a game with which he was not familiar.","category":"record","player_slug":"jack-nicklaus"},
+      {"year":1971,"title":"Charles Coody wins the Masters","text":"Charles Coody birdied three of the last six holes to win the 1971 Masters by two strokes over Johnny Miller and Jack Nicklaus.","category":"championship","player_slug":"charles-coody"},
+      {"year":1982,"title":"Craig Stadler wins the Masters","text":"Craig Stadler held on after a back-nine wobble to beat Dan Pohl in a sudden-death playoff and win the 1982 Masters for his only major.","category":"championship","player_slug":"craig-stadler"},
+      {"year":1993,"title":"Greg Norman wins Players Championship","text":"Greg Norman won the 1993 Players Championship at TPC Sawgrass during a stretch in which he returned to the top of the world rankings.","category":"championship","player_slug":"greg-norman"},
+      {"year":1999,"title":"Jose Maria Olazabal wins second Masters","text":"Jose Maria Olazabal completed a comeback from a foot ailment to win the 1999 Masters by two strokes over Davis Love III.","category":"championship","player_slug":"jose-maria-olazabal"}
+    ],
+    "5": [
+      {"year":1959,"title":"Art Wall Jr. wins the Masters","text":"Art Wall Jr. birdied five of the last six holes for a closing 66 to win the 1959 Masters by one stroke over Cary Middlecoff.","category":"championship","player_slug":"art-wall-jr"},
+      {"year":1970,"title":"Billy Casper wins the Masters","text":"Billy Casper tied Gene Littler over 72 holes and won the 1970 Masters the next day in an 18-hole playoff, his only green jacket and third major title.","category":"championship","player_slug":"billy-casper"},
+      {"year":1981,"title":"Tom Watson wins second Masters","text":"Tom Watson held off Jack Nicklaus and Johnny Miller to win the 1981 Masters by two strokes for his second green jacket.","category":"championship","player_slug":"tom-watson"},
+      {"year":1987,"title":"Larry Mize wins Masters with chip-in","text":"Larry Mize holed a 140-foot pitch on the 11th to beat Greg Norman in a sudden-death playoff and win the 1987 Masters, stunning the field at Augusta National.","category":"championship","player_slug":"larry-mize"},
+      {"year":1992,"title":"Fred Couples wins the Masters","text":"Fred Couples, whose ball improbably hung on the bank above Rae's Creek at the 12th, won the 1992 Masters by two strokes over Ray Floyd for his lone major.","category":"championship","player_slug":"fred-couples"},
+      {"year":1998,"title":"Mark O'Meara wins the Masters","text":"Mark O'Meara birdied the 17th and 18th to win the 1998 Masters by one stroke over Fred Couples and David Duval, his first major at age 41.","category":"championship","player_slug":"mark-omeara"}
+    ],
+    "6": [
+      {"year":1947,"title":"Jimmy Demaret wins second Masters","text":"Jimmy Demaret won the 1947 Masters by two strokes over Byron Nelson and Frank Stranahan, the second of his three green jackets.","category":"championship","player_slug":"jimmy-demaret"},
+      {"year":1958,"title":"Arnold Palmer wins first Masters","text":"Arnold Palmer won the 1958 Masters by one stroke over Doug Ford and Fred Hawkins for his first major, amid a famous embedded-ball ruling at the 12th.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1969,"title":"George Archer wins the Masters","text":"George Archer, one of the era's best putters, won the 1969 Masters by one stroke over Billy Casper, George Knudson and Tom Weiskopf.","category":"championship","player_slug":"george-archer"},
+      {"year":1986,"title":"Jack Nicklaus wins sixth Masters at 46","text":"Jack Nicklaus shot a final-round 65 with a back nine of 30 to win the 1986 Masters by one, becoming the oldest champion at 46 for his record 18th major.","category":"record","player_slug":"jack-nicklaus"},
+      {"year":1997,"title":"Tiger Woods sets Masters record","text":"Tiger Woods closed at 18-under 270 to win the 1997 Masters by a record 12 strokes, becoming the youngest champion at 21 and the tournament's first Black winner.","category":"record","player_slug":"tiger-woods"},
+      {"year":2003,"title":"Mike Weir wins the Masters in playoff","text":"Canadian Mike Weir beat Len Mattiace on the first playoff hole to win the 2003 Masters, the first left-hander and first Canadian to win at Augusta.","category":"championship","player_slug":"mike-weir"},
+      {"year":2008,"title":"Trevor Immelman wins the Masters","text":"South African Trevor Immelman held off Tiger Woods by three strokes to win the 2008 Masters for his only major title.","category":"championship","player_slug":"trevor-immelman"}
+    ],
+    "7": [
+      {"year":1935,"title":"Gene Sarazen's double eagle ties Masters","text":"Gene Sarazen holed a 235-yard 4-wood for an albatross at the par-5 15th in the final round of the 1935 Masters, the 'shot heard round the world,' to force a 36-hole playoff he won the next day.","category":"record","player_slug":"gene-sarazen"},
+      {"year":1957,"title":"Doug Ford wins the Masters","text":"Doug Ford holed out from a greenside bunker on the 72nd hole for a closing 66 to win the 1957 Masters by three strokes over Sam Snead.","category":"championship","player_slug":"doug-ford"},
+      {"year":1963,"title":"Jack Nicklaus wins first Masters","text":"Jack Nicklaus, at 23, won the 1963 Masters by one stroke over Tony Lema, becoming the youngest Masters champion at the time.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1968,"title":"Bob Goalby wins Masters amid scorecard error","text":"Bob Goalby won the 1968 Masters by one stroke after Roberto De Vicenzo, celebrating his 45th birthday, signed for a 4 instead of a 3 at the 17th and lost a chance at a playoff.","category":"championship","player_slug":"bob-goalby"},
+      {"year":1974,"title":"Gary Player wins second Masters","text":"Gary Player won the 1974 Masters by two strokes over Tom Weiskopf and Dave Stockton for the second of his three green jackets.","category":"championship","player_slug":"gary-player"},
+      {"year":1985,"title":"Bernhard Langer wins first Masters","text":"Germany's Bernhard Langer won the 1985 Masters by two strokes over Curtis Strange, Seve Ballesteros and Ray Floyd for his first major title.","category":"championship","player_slug":"bernhard-langer"},
+      {"year":2002,"title":"Tiger Woods defends Masters title","text":"Tiger Woods won the 2002 Masters by three strokes over Retief Goosen, becoming the third player to successfully defend a green jacket.","category":"championship","player_slug":"tiger-woods"}
+    ],
+    "8": [
+      {"year":1935,"title":"Sarazen wins Masters playoff","text":"Gene Sarazen defeated Craig Wood by five strokes in a 36-hole playoff to win the 1935 Masters, a day after his famous double eagle.","category":"championship","player_slug":"gene-sarazen"},
+      {"year":1956,"title":"Jack Burke Jr. wins the Masters","text":"Jack Burke Jr. rallied from eight strokes back on the final day to win the 1956 Masters by one over amateur Ken Venturi, one of the great Augusta comebacks.","category":"championship","player_slug":"jack-burke-jr"},
+      {"year":1962,"title":"Arnold Palmer wins Masters in playoff","text":"Arnold Palmer beat Gary Player and Dow Finsterwald in an 18-hole playoff to win the 1962 Masters for his third green jacket.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1973,"title":"Tommy Aaron wins the Masters","text":"Tommy Aaron shot a closing 68 to win the 1973 Masters by one stroke over J.C. Snead for his only major championship.","category":"championship","player_slug":"tommy-aaron"},
+      {"year":1984,"title":"Ben Crenshaw wins first Masters","text":"Ben Crenshaw won the 1984 Masters by two strokes over Tom Watson for an emotional first major title after years of near-misses.","category":"championship","player_slug":"ben-crenshaw"},
+      {"year":2012,"title":"Bubba Watson wins Masters in playoff","text":"Bubba Watson hooked a wedge from the pine straw to within feet of the cup and beat Louis Oosthuizen on the second playoff hole to win the 2012 Masters, his first major.","category":"championship","player_slug":"bubba-watson"},
+      {"year":2018,"title":"Patrick Reed wins the Masters","text":"Patrick Reed held off Rickie Fowler and Jordan Spieth to win the 2018 Masters by one stroke for his only major title.","category":"championship","player_slug":"patrick-reed"}
+    ],
+    "9": [
+      {"year":1939,"title":"Ralph Guldahl wins the Masters","text":"Ralph Guldahl, already a two-time U.S. Open champion, won the 1939 Masters by one stroke over Sam Snead.","category":"championship","player_slug":"ralph-guldahl"},
+      {"year":1950,"title":"Jimmy Demaret wins third Masters","text":"Jimmy Demaret rallied to win the 1950 Masters by two strokes over Jim Ferrier, becoming the first three-time Masters champion.","category":"championship","player_slug":"jimmy-demaret"},
+      {"year":1957,"title":"Seve Ballesteros born","text":"Spain's Seve Ballesteros, a five-time major champion and one of golf's most charismatic figures, was born on this day in Pedrena.","category":"birth","player_slug":"seve-ballesteros"},
+      {"year":1961,"title":"Gary Player wins first Masters","text":"Gary Player won the 1961 Masters by one stroke over Arnold Palmer and amateur Charles Coe, becoming the first international winner at Augusta National.","category":"championship","player_slug":"gary-player"},
+      {"year":1967,"title":"Gay Brewer wins the Masters","text":"Gay Brewer, who had lost a playoff the year before, won the 1967 Masters by one stroke over Bobby Nichols for his only major.","category":"championship","player_slug":"gay-brewer"},
+      {"year":1978,"title":"Gary Player wins third Masters at 42","text":"Gary Player shot a final-round 64 to come from seven back and win the 1978 Masters by one stroke, his third green jacket at age 42.","category":"championship","player_slug":"gary-player"},
+      {"year":1989,"title":"Nick Faldo wins first Masters in playoff","text":"Nick Faldo beat Scott Hoch on the second playoff hole in the gloaming to win the 1989 Masters, the first of his three green jackets.","category":"championship","player_slug":"nick-faldo"},
+      {"year":2023,"title":"Jon Rahm wins the Masters","text":"Jon Rahm shot a final-round 69 to win the 2023 Masters by four strokes over Phil Mickelson and Brooks Koepka, returning to World No. 1.","category":"championship","player_slug":"jon-rahm"}
+    ],
+    "10": [
+      {"year":1955,"title":"Cary Middlecoff wins the Masters","text":"Cary Middlecoff, aided by an 80-foot eagle putt at the 13th, won the 1955 Masters by a then-record seven strokes over Ben Hogan.","category":"record","player_slug":"cary-middlecoff"},
+      {"year":1960,"title":"Arnold Palmer birdies last two to win Masters","text":"Arnold Palmer birdied the 71st and 72nd holes to win the 1960 Masters by one stroke over Ken Venturi for his second green jacket.","category":"championship","player_slug":"arnold-palmer"},
+      {"year":1966,"title":"Jack Nicklaus first to defend Masters","text":"Jack Nicklaus beat Tommy Jacobs and Gay Brewer in an 18-hole playoff to win the 1966 Masters, the first player to successfully defend the title.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1977,"title":"Tom Watson wins first Masters","text":"Tom Watson outdueled Jack Nicklaus down the stretch to win the 1977 Masters by two strokes, a prelude to their epic Open duel at Turnberry that summer.","category":"championship","player_slug":"tom-watson"},
+      {"year":1983,"title":"Seve Ballesteros wins second Masters","text":"Seve Ballesteros birdied four of the first four holes Sunday and cruised to win the 1983 Masters by four strokes over Ben Crenshaw and Tom Kite.","category":"championship","player_slug":"seve-ballesteros"},
+      {"year":2005,"title":"Tiger Woods wins Masters after chip-in at 16","text":"Tiger Woods holed an iconic chip on the 16th, the ball pausing on the lip before dropping, then beat Chris DiMarco in a playoff to win the 2005 Masters for his fourth green jacket.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2022,"title":"Scottie Scheffler wins first Masters","text":"Scottie Scheffler, the new World No. 1, won the 2022 Masters by three strokes over Rory McIlroy for his first major championship.","category":"championship","player_slug":"scottie-scheffler"}
+    ],
+    "11": [
+      {"year":1954,"title":"Sam Snead wins Masters playoff over Hogan","text":"Sam Snead beat Ben Hogan by one stroke in an 18-hole playoff to win the 1954 Masters, the third and final green jacket of his career.","category":"championship","player_slug":"sam-snead"},
+      {"year":1976,"title":"Ray Floyd wins Masters with record","text":"Ray Floyd led wire-to-wire and tied the Masters scoring record at 271 (-17) to win the 1976 Masters by eight strokes over Ben Crenshaw.","category":"record","player_slug":"raymond-floyd"},
+      {"year":1982,"title":"Craig Stadler's Masters playoff","text":"Craig Stadler held off Dan Pohl in sudden death to win the 1982 Masters this week, the 'Walrus' claiming his only major championship.","category":"milestone","player_slug":"craig-stadler"},
+      {"year":1993,"title":"Bernhard Langer wins second Masters","text":"Bernhard Langer won the 1993 Masters by four strokes over Chip Beck for the second of his two green jackets.","category":"championship","player_slug":"bernhard-langer"},
+      {"year":2004,"title":"Phil Mickelson wins first major at Masters","text":"Phil Mickelson holed an 18-foot birdie putt on the 72nd hole to win the 2004 Masters by one over Ernie Els, ending his long wait for a first major.","category":"championship","player_slug":"phil-mickelson"},
+      {"year":2010,"title":"Phil Mickelson wins third Masters","text":"Phil Mickelson, after a brilliant shot from the pine straw at the 13th, won the 2010 Masters by three strokes in an emotional victory amid his wife's cancer battle.","category":"championship","player_slug":"phil-mickelson"},
+      {"year":2021,"title":"Hideki Matsuyama wins the Masters","text":"Hideki Matsuyama won the 2021 Masters by one stroke over Will Zalatoris, becoming the first Japanese man to win a major championship.","category":"championship","player_slug":"hideki-matsuyama"}
+    ],
+    "12": [
+      {"year":1953,"title":"Ben Hogan wins Masters in record year","text":"Ben Hogan shot a record 274 (-14) to win the 1953 Masters by five strokes, the first of three majors he won that historic season.","category":"record","player_slug":"ben-hogan"},
+      {"year":1981,"title":"Tom Watson's second green jacket","text":"Tom Watson completed his second Masters victory in 1981 this week, holding off a charging Jack Nicklaus down the stretch at Augusta National.","category":"milestone","player_slug":"tom-watson"},
+      {"year":1987,"title":"Larry Mize's miracle chip","text":"Larry Mize's 140-foot chip-in at the 11th to beat Greg Norman in the 1987 Masters playoff remains one of the most shocking shots in major history.","category":"milestone","player_slug":"larry-mize"},
+      {"year":1992,"title":"Fred Couples and the ball at the 12th","text":"Fred Couples won the 1992 Masters this week after his tee shot at the par-3 12th miraculously stayed on the bank instead of rolling into Rae's Creek.","category":"milestone","player_slug":"fred-couples"},
+      {"year":2009,"title":"Angel Cabrera wins Masters in playoff","text":"Argentina's Angel Cabrera beat Kenny Perry and Chad Campbell in a sudden-death playoff to win the 2009 Masters for his second major.","category":"championship","player_slug":"angel-cabrera"},
+      {"year":2015,"title":"Jordan Spieth wins Masters with record-tying 270","text":"Jordan Spieth led wire-to-wire and tied the tournament scoring record at 270 (-18) to win the 2015 Masters by four strokes for his first major.","category":"record","player_slug":"jordan-spieth"}
+    ],
+    "13": [
+      {"year":1975,"title":"Jack Nicklaus wins fifth Masters","text":"Jack Nicklaus outlasted Tom Weiskopf and Johnny Miller by one stroke in a celebrated duel to win the 1975 Masters for his fifth green jacket.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1980,"title":"Seve Ballesteros wins first Masters","text":"Seve Ballesteros, at 23, won the 1980 Masters by four strokes to become the youngest Masters champion at the time and the first European winner.","category":"championship","player_slug":"seve-ballesteros"},
+      {"year":1986,"title":"Nicklaus's Sunday charge at the Masters","text":"On this Sunday in 1986, Jack Nicklaus's back-nine 30 carried him to his sixth Masters at age 46, one of the most celebrated final rounds in golf history.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1997,"title":"Tiger Woods's record Masters Sunday","text":"On this day Tiger Woods completed his 12-stroke, 18-under romp at the 1997 Masters, the most dominant performance in tournament history.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2008,"title":"Trevor Immelman holds off Tiger","text":"Trevor Immelman completed a three-stroke win over Tiger Woods at the 2008 Masters this week for his only major championship.","category":"milestone","player_slug":"trevor-immelman"},
+      {"year":2025,"title":"Rory McIlroy completes career Grand Slam","text":"Rory McIlroy beat Justin Rose on the first playoff hole to win the 2025 Masters, completing the career Grand Slam as the sixth man to achieve it.","category":"championship","player_slug":"rory-mcilroy"}
+    ],
+    "14": [
+      {"year":1923,"title":"Roberto De Vicenzo born","text":"Argentina's Roberto De Vicenzo, the 1967 Open champion who famously lost the 1968 Masters to a scorecard error on his 45th birthday, was born on this day.","category":"birth","player_slug":"roberto-de-vicenzo"},
+      {"year":1951,"title":"Ben Hogan wins first Masters","text":"Ben Hogan won the 1951 Masters by two strokes over Skee Riegel for the first of his two green jackets.","category":"championship","player_slug":"ben-hogan"},
+      {"year":1968,"title":"Goalby wins as De Vicenzo signs wrong card","text":"On his 45th birthday, Roberto De Vicenzo signed an incorrect scorecard at the 1968 Masters, and Bob Goalby was awarded the green jacket by a single stroke.","category":"championship","player_slug":"bob-goalby"},
+      {"year":1996,"title":"Nick Faldo wins as Norman collapses","text":"Nick Faldo shot 67 and overtook Greg Norman, who shot 78 after a six-shot lead, to win the 1996 Masters by five strokes in one of golf's greatest final-day swings.","category":"championship","player_slug":"nick-faldo"},
+      {"year":2002,"title":"Tiger Woods defends Masters title","text":"Tiger Woods won the 2002 Masters by three strokes over Retief Goosen, becoming the third player to successfully defend a Masters title.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2019,"title":"Tiger Woods wins Masters comeback","text":"Tiger Woods won the 2019 Masters by one stroke for his fifth green jacket and 15th major, completing one of the greatest comebacks in sports after years of injuries.","category":"championship","player_slug":"tiger-woods"},
+      {"year":2024,"title":"Scottie Scheffler wins second Masters","text":"Scottie Scheffler won the 2024 Masters by four strokes over Ludvig Aberg for his second green jacket while ranked World No. 1.","category":"championship","player_slug":"scottie-scheffler"}
+    ],
+    "15": [
+      {"year":1956,"title":"Jack Burke's record comeback","text":"Jack Burke Jr.'s 1956 Masters win from eight strokes back on the final day remains the largest final-round comeback in tournament history.","category":"milestone","player_slug":"jack-burke-jr"},
+      {"year":1962,"title":"Arnold Palmer's playoff charge","text":"Arnold Palmer's playoff win over Gary Player and Dow Finsterwald at the 1962 Masters was another chapter in the 'Palmer charge' lore at Augusta.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1990,"title":"Nick Faldo wins second straight Masters","text":"Nick Faldo beat Ray Floyd on the second playoff hole to win the 1990 Masters, becoming the first to win back-to-back since Jack Nicklaus in 1965-66.","category":"championship","player_slug":"nick-faldo"},
+      {"year":2001,"title":"Tiger Woods completes the Tiger Slam","text":"Tiger Woods won the 2001 Masters by two strokes over David Duval to hold all four major titles at once, an achievement dubbed the 'Tiger Slam.'","category":"record","player_slug":"tiger-woods"},
+      {"year":2007,"title":"Zach Johnson wins cold, windy Masters","text":"Zach Johnson won the 2007 Masters at one-over-par, the highest winning total relative to par in the modern era, laying up on every par-5 all week.","category":"championship","player_slug":"zach-johnson"},
+      {"year":2018,"title":"Satoshi Kodaira wins RBC Heritage","text":"Japan's Satoshi Kodaira beat Si Woo Kim on the third playoff hole to win the 2018 RBC Heritage at Harbour Town for his first PGA Tour title.","category":"championship","player_slug":null}
+    ],
+    "16": [
+      {"year":1972,"title":"Jack Nicklaus wins fourth Masters","text":"Jack Nicklaus won the 1972 Masters by three strokes over Bruce Crampton, Bobby Mitchell and Tom Weiskopf for his fourth green jacket.","category":"championship","player_slug":"jack-nicklaus"},
+      {"year":1978,"title":"Gary Player's closing 64","text":"Gary Player's final-round 64 to win the 1978 Masters from seven shots back remains one of the greatest closing rounds in major championship history.","category":"record","player_slug":"gary-player"},
+      {"year":2000,"title":"Vijay Singh wins the Masters","text":"Vijay Singh won the 2000 Masters by three strokes over Ernie Els, adding a green jacket to his 1998 PGA Championship.","category":"championship","player_slug":"vijay-singh"},
+      {"year":2006,"title":"Phil Mickelson wins second Masters","text":"Phil Mickelson won the 2006 Masters by two strokes over Tim Clark for his second green jacket and third major title.","category":"championship","player_slug":"phil-mickelson"},
+      {"year":2017,"title":"Sergio Garcia wins the Masters","text":"Sergio Garcia beat Justin Rose on the first playoff hole to win the 2017 Masters, his first major, on what would have been Seve Ballesteros's 60th birthday.","category":"championship","player_slug":"sergio-garcia"},
+      {"year":2023,"title":"Matt Fitzpatrick wins RBC Heritage","text":"Matt Fitzpatrick beat Jordan Spieth on the third playoff hole to win the 2023 RBC Heritage at Harbour Town for his second PGA Tour title.","category":"championship","player_slug":"matt-fitzpatrick"}
+    ],
+    "17": [
+      {"year":1949,"title":"Sam Snead wins first Masters","text":"Sam Snead won the 1949 Masters by three strokes, the first edition in which the champion received the now-iconic green jacket.","category":"championship","player_slug":"sam-snead"},
+      {"year":1988,"title":"Sandy Lyle wins the Masters","text":"Scotland's Sandy Lyle holed a long bunker shot at the 18th, then made the birdie putt to win the 1988 Masters by one, the first British winner at Augusta.","category":"championship","player_slug":"sandy-lyle"},
+      {"year":1994,"title":"Jose Maria Olazabal wins first Masters","text":"Jose Maria Olazabal, with an eagle at the 15th, won the 1994 Masters by two strokes over Tom Lehman for the first of his two green jackets.","category":"championship","player_slug":"jose-maria-olazabal"},
+      {"year":2005,"title":"Tiger Woods's chip-in for the ages","text":"Tiger Woods's iconic chip-in at the 16th, the ball pausing on the lip before dropping, helped seal his fourth Masters title in 2005 this week.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2011,"title":"Charl Schwartzel wins the Masters","text":"South African Charl Schwartzel birdied the final four holes to win the 2011 Masters by two strokes over Adam Scott and Jason Day.","category":"championship","player_slug":"charl-schwartzel"},
+      {"year":2022,"title":"Jordan Spieth wins RBC Heritage in playoff","text":"Jordan Spieth got up and down from a bunker to beat Patrick Cantlay on the first playoff hole and win the 2022 RBC Heritage at Harbour Town.","category":"championship","player_slug":"jordan-spieth"}
+    ],
+    "18": [
+      {"year":1948,"title":"Claude Harmon wins the Masters","text":"Club professional Claude Harmon won the 1948 Masters by five strokes over Cary Middlecoff, the last club pro to win a major championship.","category":"championship","player_slug":"claude-harmon"},
+      {"year":1965,"title":"Nicklaus's record stands","text":"Jack Nicklaus's record 271 at the 1965 Masters prompted Bobby Jones to say Nicklaus played 'a game with which I am not familiar,' a mark that stood for decades.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1999,"title":"Olazabal's emotional comeback win","text":"Jose Maria Olazabal completed his return from a foot ailment that had threatened his career to win the 1999 Masters this week at Augusta National.","category":"milestone","player_slug":"jose-maria-olazabal"},
+      {"year":2004,"title":"Mickelson's leap of joy","text":"Phil Mickelson's leap after his winning birdie putt at the 2004 Masters ended his long search for a first major and became an enduring image this week.","category":"milestone","player_slug":"phil-mickelson"},
+      {"year":2010,"title":"Mickelson's shot from the pine straw","text":"Phil Mickelson's daring 6-iron from the pine straw between two trees to the 13th green helped seal his third Masters title this week in 2010.","category":"milestone","player_slug":"phil-mickelson"},
+      {"year":2021,"title":"Stewart Cink wins RBC Heritage","text":"Stewart Cink, 47, completed a wire-to-wire victory to win the 2021 RBC Heritage at Harbour Town for his third title there and second win of the season.","category":"championship","player_slug":"stewart-cink"}
+    ],
+    "19": [
+      {"year":1952,"title":"Sam Snead wins second Masters","text":"Sam Snead won the 1952 Masters by four strokes over Jack Burke Jr. for the second of his three green jackets.","category":"championship","player_slug":"sam-snead"},
+      {"year":1959,"title":"Art Wall's birdie barrage","text":"Art Wall Jr.'s five birdies over the final six holes to win the 1959 Masters this week was one of the era's most stunning closing rushes.","category":"milestone","player_slug":"art-wall-jr"},
+      {"year":1981,"title":"Watson's second green jacket","text":"Tom Watson completed his second Masters victory in 1981 this week, holding off a charging Jack Nicklaus down the stretch.","category":"milestone","player_slug":"tom-watson"},
+      {"year":1987,"title":"Mize's miracle chip","text":"Larry Mize's 140-foot chip-in at the 11th to beat Greg Norman in the 1987 Masters playoff remains one of the most shocking shots in major history.","category":"milestone","player_slug":"larry-mize"},
+      {"year":1992,"title":"Couples's charmed Masters","text":"Fred Couples won the 1992 Masters this week after his tee shot at the par-3 12th miraculously stayed on the bank above Rae's Creek.","category":"milestone","player_slug":"fred-couples"},
+      {"year":2009,"title":"Cabrera's playoff Masters","text":"Angel Cabrera survived a three-man sudden-death playoff to win the 2009 Masters this week, the first South American Masters champion.","category":"milestone","player_slug":"angel-cabrera"}
+    ],
+    "20": [
+      {"year":1947,"title":"Jimmy Demaret's second Masters","text":"Jimmy Demaret completed his second Masters victory in 1947 this week, edging Byron Nelson and amateur Frank Stranahan by two strokes.","category":"milestone","player_slug":"jimmy-demaret"},
+      {"year":1958,"title":"Palmer's first green jacket","text":"Arnold Palmer won his first Masters in 1958 this week, a victory that helped launch the 'Arnie's Army' phenomenon and golf's television boom.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1980,"title":"Seve's youthful triumph","text":"Seve Ballesteros completed his four-stroke 1980 Masters win this week at age 23, becoming the first European and youngest champion at the time.","category":"milestone","player_slug":"seve-ballesteros"},
+      {"year":1986,"title":"Nicklaus's roar at Augusta","text":"The roars that followed Jack Nicklaus's 1986 back-nine charge to a sixth Masters at age 46 remain among the most famous sounds in golf.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1997,"title":"Tiger's era begins","text":"Tiger Woods's record-shattering 1997 Masters victory transformed golf's popularity, demographics and prize money over the following decades.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2014,"title":"Matt Kuchar wins RBC Heritage","text":"Matt Kuchar shot a final-round 64 to win the 2014 RBC Heritage at Harbour Town by two strokes for one of his nine PGA Tour titles.","category":"championship","player_slug":null}
+    ],
+    "21": [
+      {"year":1934,"title":"Horton Smith wins first Masters","text":"Horton Smith won the inaugural Masters Tournament, then called the Augusta National Invitation, by one stroke over Craig Wood in 1934.","category":"championship","player_slug":"horton-smith"},
+      {"year":1957,"title":"Doug Ford's bunker holeout","text":"Doug Ford's holeout from a greenside bunker on the 72nd hole to win the 1957 Masters this week remains one of the great closing shots at Augusta.","category":"milestone","player_slug":"doug-ford"},
+      {"year":1985,"title":"Langer breaks through","text":"Bernhard Langer completed his first Masters win in 1985 this week, the start of a German golf surge and a Hall of Fame career across multiple tours.","category":"milestone","player_slug":"bernhard-langer"},
+      {"year":1991,"title":"Ian Woosnam wins the Masters","text":"Welshman Ian Woosnam made a clutch par at the 18th to win the 1991 Masters by one stroke over Jose Maria Olazabal, reaching World No. 1.","category":"championship","player_slug":"ian-woosnam"},
+      {"year":1996,"title":"Faldo overtakes Norman","text":"Nick Faldo's 1996 Masters win, completed this week as Greg Norman squandered a six-shot lead, stands as one of the most dramatic final days in golf.","category":"milestone","player_slug":"nick-faldo"},
+      {"year":2013,"title":"Adam Scott wins the Masters","text":"Adam Scott beat Angel Cabrera on the second playoff hole in the rain to win the 2013 Masters, becoming the first Australian to claim a green jacket.","category":"championship","player_slug":"adam-scott"}
+    ],
+    "22": [
+      {"year":1935,"title":"Sarazen's Grand Slam complete","text":"Gene Sarazen's 1935 Masters playoff victory completed his career Grand Slam, making him the first golfer to win all four professional majors.","category":"milestone","player_slug":"gene-sarazen"},
+      {"year":1956,"title":"Burke's record comeback","text":"Jack Burke Jr.'s 1956 Masters win from eight back on the final day remains the largest final-round comeback in tournament history.","category":"milestone","player_slug":"jack-burke-jr"},
+      {"year":1973,"title":"Aaron's lone major","text":"Tommy Aaron completed his only major victory at the 1973 Masters this week, five years after his scorekeeping error helped decide the 1968 title.","category":"milestone","player_slug":"tommy-aaron"},
+      {"year":1990,"title":"Faldo's back-to-back","text":"Nick Faldo completed back-to-back Masters titles in 1990 this week, beating Ray Floyd in a playoff at the 11th hole in the fading light.","category":"milestone","player_slug":"nick-faldo"},
+      {"year":2001,"title":"The Tiger Slam","text":"Tiger Woods's 2001 Masters victory completed his hold on all four professional major titles simultaneously, a feat unmatched in the modern era.","category":"milestone","player_slug":"tiger-woods"},
+      {"year":2012,"title":"Bubba's first major","text":"Bubba Watson's 2012 Masters playoff win, sealed by his hooking wedge from the trees, gave the self-taught left-hander his first major title.","category":"milestone","player_slug":"bubba-watson"}
+    ],
+    "23": [
+      {"year":1950,"title":"Demaret's record third Masters","text":"Jimmy Demaret's 1950 Masters win made him the first three-time champion at Augusta National, a record later surpassed by Arnold Palmer and Jack Nicklaus.","category":"milestone","player_slug":"jimmy-demaret"},
+      {"year":1967,"title":"Brewer's redemption","text":"Gay Brewer won the 1967 Masters this week, a year after losing a playoff for the title, for his only major championship.","category":"milestone","player_slug":"gay-brewer"},
+      {"year":1989,"title":"Faldo's first Masters","text":"Nick Faldo won his first Masters in 1989 this week, beating Scott Hoch in a playoff at the 11th hole in near-darkness.","category":"milestone","player_slug":"nick-faldo"},
+      {"year":1995,"title":"Ben Crenshaw wins emotional Masters","text":"Ben Crenshaw, days after the death of his mentor Harvey Penick, won the 1995 Masters by one stroke over Davis Love III in a tearful triumph.","category":"championship","player_slug":"ben-crenshaw"},
+      {"year":2000,"title":"Singh's green jacket","text":"Vijay Singh's 2000 Masters victory this week added a green jacket to his major collection during his rise to World No. 1.","category":"milestone","player_slug":"vijay-singh"},
+      {"year":2006,"title":"Mickelson's second Masters","text":"Phil Mickelson won the 2006 Masters this week for his second green jacket, the peak of a stretch in which he won three majors in three years.","category":"milestone","player_slug":"phil-mickelson"}
+    ],
+    "24": [
+      {"year":1955,"title":"Middlecoff's record win","text":"Cary Middlecoff's seven-stroke 1955 Masters victory, aided by a famous 80-foot eagle putt, set a winning-margin record that stood until Tiger Woods in 1997.","category":"milestone","player_slug":"cary-middlecoff"},
+      {"year":1966,"title":"Nicklaus defends at Augusta","text":"Jack Nicklaus became the first player to successfully defend a Masters title in 1966 this week, winning an 18-hole playoff over Tommy Jacobs and Gay Brewer.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1977,"title":"Watson outduels Nicklaus","text":"Tom Watson's 1977 Masters victory over Jack Nicklaus this week was a prelude to their famous 'Duel in the Sun' at Turnberry that summer.","category":"milestone","player_slug":"tom-watson"},
+      {"year":1983,"title":"Seve's second Masters","text":"Seve Ballesteros's blistering start to the final round of the 1983 Masters, with birdies early, carried him to a four-stroke win this week.","category":"milestone","player_slug":"seve-ballesteros"},
+      {"year":1994,"title":"Olazabal's first green jacket","text":"Jose Maria Olazabal's eagle at the 15th propelled him to his first Masters title in 1994 this week, the second Spaniard after Seve to win at Augusta.","category":"milestone","player_slug":"jose-maria-olazabal"},
+      {"year":2011,"title":"Schwartzel's closing birdies","text":"Charl Schwartzel birdied the last four holes to win the 2011 Masters this week, a finish that capped a dramatic Sunday at Augusta National.","category":"milestone","player_slug":"charl-schwartzel"}
+    ],
+    "25": [
+      {"year":1937,"title":"Byron Nelson wins first Masters","text":"Byron Nelson made up six strokes in two holes on Ralph Guldahl to win the 1937 Masters, the first of his two green jackets.","category":"championship","player_slug":"byron-nelson"},
+      {"year":1948,"title":"Harmon's club-pro triumph","text":"Claude Harmon's five-stroke 1948 Masters win made him the last club professional to capture a major championship.","category":"milestone","player_slug":"claude-harmon"},
+      {"year":1954,"title":"Snead beats Hogan in playoff","text":"Sam Snead's one-stroke playoff win over Ben Hogan at the 1954 Masters this week was a clash of two of golf's greatest rivals.","category":"milestone","player_slug":"sam-snead"},
+      {"year":1971,"title":"Coody's lone major","text":"Charles Coody's late birdies to win the 1971 Masters this week gave him his only major championship after a near-miss the year before.","category":"milestone","player_slug":"charles-coody"},
+      {"year":1982,"title":"Stadler's playoff win","text":"Craig Stadler held off Dan Pohl in sudden death to win the 1982 Masters this week, the 'Walrus' claiming his only major.","category":"milestone","player_slug":"craig-stadler"},
+      {"year":2004,"title":"Mickelson's first major leap","text":"Phil Mickelson's leap of joy after his winning putt at the 2004 Masters ended his long search for a first major and became an enduring image.","category":"milestone","player_slug":"phil-mickelson"}
+    ],
+    "26": [
+      {"year":1953,"title":"Hogan's record Masters","text":"Ben Hogan's record 274 at the 1953 Masters launched a season in which he won the Masters, U.S. Open and Open Championship, the 'Hogan Slam.'","category":"milestone","player_slug":"ben-hogan"},
+      {"year":1959,"title":"Wall's birdie rush","text":"Art Wall Jr.'s five birdies over the final six holes to win the 1959 Masters was one of the era's most stunning closing rushes.","category":"milestone","player_slug":"art-wall-jr"},
+      {"year":1970,"title":"Casper's playoff Masters","text":"Billy Casper beat Gene Littler in an 18-hole playoff to win the 1970 Masters this week for his lone green jacket.","category":"milestone","player_slug":"billy-casper"},
+      {"year":1987,"title":"Mize stuns Norman","text":"Larry Mize's improbable chip-in to win the 1987 Masters this week denied Greg Norman in heartbreaking fashion at the second playoff hole.","category":"milestone","player_slug":"larry-mize"},
+      {"year":1992,"title":"Couples's charmed week","text":"Fred Couples won the 1992 Masters this week, his ball's refusal to roll into Rae's Creek at the 12th becoming a lasting symbol of his charmed run.","category":"milestone","player_slug":"fred-couples"},
+      {"year":1998,"title":"O'Meara's late birdies","text":"Mark O'Meara birdied the 17th and 18th to win the 1998 Masters this week, capturing his first major at age 41 in a breakout season.","category":"milestone","player_slug":"mark-omeara"}
+    ],
+    "27": [
+      {"year":1938,"title":"Henry Picard wins the Masters","text":"Henry Picard rallied over the closing holes to win the 1938 Masters by two strokes over Harry Cooper and Ralph Guldahl.","category":"championship","player_slug":"henry-picard"},
+      {"year":1949,"title":"Snead's green jacket era begins","text":"Sam Snead's 1949 Masters win was the first to feature the awarding of the green jacket to the champion, a tradition that continues today.","category":"milestone","player_slug":"sam-snead"},
+      {"year":1958,"title":"Palmer's disputed ruling","text":"Arnold Palmer's first Masters in 1958 hinged on a disputed embedded-ball ruling at the 12th, which the rules ultimately resolved in his favor.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1969,"title":"Archer's putting masterclass","text":"George Archer's superb putting carried him to the 1969 Masters title this week by a single stroke over a crowded leaderboard.","category":"milestone","player_slug":"george-archer"},
+      {"year":1975,"title":"The great 1975 duel","text":"Jack Nicklaus, Tom Weiskopf and Johnny Miller staged one of Augusta's greatest Sunday duels in 1975, with Nicklaus prevailing by one for his fifth Masters.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1986,"title":"Nicklaus's sixth green jacket","text":"Jack Nicklaus's 1986 Masters win at age 46, sealed by a back-nine 30, remains the most celebrated victory of his career and Augusta's history.","category":"milestone","player_slug":"jack-nicklaus"}
+    ],
+    "28": [
+      {"year":1940,"title":"Jimmy Demaret wins first Masters","text":"Jimmy Demaret won his first Masters in 1940, shooting a then-record 30 on the back nine en route to a four-stroke victory.","category":"championship","player_slug":"jimmy-demaret"},
+      {"year":1946,"title":"Herman Keiser wins the Masters","text":"Herman Keiser, the 'Missouri Mortician,' held off a charging Ben Hogan to win the 1946 Masters by one stroke, the first edition after World War II.","category":"championship","player_slug":"herman-keiser"},
+      {"year":1958,"title":"Hal Sutton born","text":"American Hal Sutton, the 1983 PGA Championship and 1983 and 2000 Players champion who famously beat Tiger Woods at TPC Sawgrass, was born on this day.","category":"birth","player_slug":"hal-sutton"},
+      {"year":1963,"title":"Nicklaus's youngest-champion mark","text":"Jack Nicklaus's 1963 Masters win at age 23 made him the youngest champion at the time, a mark later broken by Seve Ballesteros and Tiger Woods.","category":"milestone","player_slug":"jack-nicklaus"},
+      {"year":1968,"title":"The scorecard that decided a Masters","text":"Roberto De Vicenzo's signed scorecard error at the 1968 Masters, which handed the title to Bob Goalby, prompted his famous lament, 'What a stupid I am.'","category":"milestone","player_slug":"roberto-de-vicenzo"},
+      {"year":1996,"title":"Norman's Sunday collapse","text":"Greg Norman's six-stroke lead evaporating in a closing 78 at the 1996 Masters, as Nick Faldo shot 67, remains one of golf's most painful final-day stories.","category":"milestone","player_slug":"greg-norman"}
+    ],
+    "29": [
+      {"year":1934,"title":"Augusta's first champion","text":"Horton Smith's victory in the inaugural 1934 Masters launched what would become one of golf's four major championships and its most tradition-rich event.","category":"milestone","player_slug":"horton-smith"},
+      {"year":1951,"title":"Hogan's first green jacket","text":"Ben Hogan's 1951 Masters win was the first of his two green jackets, part of a remarkable comeback after his near-fatal 1949 car crash.","category":"milestone","player_slug":"ben-hogan"},
+      {"year":1962,"title":"Palmer's playoff charge","text":"Arnold Palmer's playoff win over Gary Player and Dow Finsterwald at the 1962 Masters was another chapter in the 'Palmer charge' lore at Augusta.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1979,"title":"Fuzzy Zoeller wins the Masters","text":"Fuzzy Zoeller beat Ed Sneed and Tom Watson in the first sudden-death playoff in Masters history to win the 1979 title as a rookie at Augusta.","category":"championship","player_slug":"fuzzy-zoeller"},
+      {"year":1988,"title":"Lyle's bunker shot for the ages","text":"Sandy Lyle's 7-iron from the fairway bunker at the 18th, then the birdie putt to win the 1988 Masters, ranks among the greatest pressure shots in major history.","category":"milestone","player_slug":"sandy-lyle"},
+      {"year":2007,"title":"Zach Johnson's lay-up strategy","text":"Zach Johnson's decision to lay up on every par-5 in the cold, windy 2007 Masters carried him to a one-over-par winning total and his first major.","category":"milestone","player_slug":"zach-johnson"}
+    ],
+    "30": [
+      {"year":1937,"title":"Nelson's Masters charge","text":"Byron Nelson's birdie-eagle on the 12th and 13th to overtake Ralph Guldahl at the 1937 Masters gave him the first of his two green jackets.","category":"milestone","player_slug":"byron-nelson"},
+      {"year":1942,"title":"Byron Nelson wins second Masters","text":"Byron Nelson beat Ben Hogan in an 18-hole playoff to win the 1942 Masters, the last edition before the tournament paused for World War II.","category":"championship","player_slug":"byron-nelson"},
+      {"year":1964,"title":"Palmer's final green jacket","text":"Arnold Palmer's six-stroke win at the 1964 Masters was his fourth and last green jacket, cementing his standing as Augusta's defining figure of the era.","category":"milestone","player_slug":"arnold-palmer"},
+      {"year":1995,"title":"Crenshaw's tearful triumph","text":"Ben Crenshaw's 1995 Masters win, days after burying his mentor Harvey Penick, ended with the champion bent over in tears on the 18th green.","category":"milestone","player_slug":"ben-crenshaw"},
+      {"year":2013,"title":"Adam Scott ends Australia's wait","text":"Adam Scott's playoff victory at the 2013 Masters made him the first Australian to win at Augusta, ending decades of close calls for his country.","category":"milestone","player_slug":"adam-scott"},
+      {"year":2017,"title":"Garcia's long-awaited major","text":"Sergio Garcia's 2017 Masters win, on what would have been Seve Ballesteros's 60th birthday, ended nearly two decades of major heartbreak for the Spaniard.","category":"milestone","player_slug":"sergio-garcia"}
+    ]
+  }
+}
