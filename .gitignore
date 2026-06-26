@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Generator scratch/artifact data
+this_day_*.json
