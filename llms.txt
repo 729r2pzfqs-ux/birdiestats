@@ -1,0 +1,63 @@
+# BirdieStats
+
+> The most comprehensive collection of golf major championship history, player statistics, course records, and PGA Tour data on the web.
+
+BirdieStats.com covers more than 160 years of professional golf history, including every major champion since 1860, career profiles for hundreds of players, historic course records, head-to-head rivalries, and a day-by-day calendar of golf's defining moments.
+
+## Key Facts
+
+- Complete history of all four major championships: the Masters (since 1934), the U.S. Open (since 1895), The Open Championship (since 1860), and the PGA Championship (since 1916)
+- 238 player profiles with career statistics and major wins
+- 30 historic course profiles with championship records
+- 14 head-to-head player rivalry comparisons
+- 366 "This Day in Golf" daily history pages (one per calendar day)
+- All-time records and leaderboards across wins, majors, scoring, earnings, and cuts made
+- Data compiled from official historical records and publicly available data
+
+## Sections
+
+- [Majors](https://birdiestats.com/majors/index.html): Complete history of golf's four major championships, with every winner, runner-up, score, and venue
+  - [Masters Tournament](https://birdiestats.com/majors/masters/index.html): Masters history since 1934
+  - [U.S. Open](https://birdiestats.com/majors/us-open/index.html): U.S. Open history since 1895
+  - [The Open Championship](https://birdiestats.com/majors/the-open/index.html): Open Championship history since 1860
+  - [PGA Championship](https://birdiestats.com/majors/pga-championship/index.html): PGA Championship history since 1916
+- [Players](https://birdiestats.com/players/index.html): Career profiles for every profiled golfer, including major wins, results, and records
+- [Courses](https://birdiestats.com/courses/index.html): Profiles of historic championship venues, including records and tournaments hosted
+- [Head-to-Head](https://birdiestats.com/head-to-head/index.html): Side-by-side comparisons of legendary golf rivalries
+- [Records & Leaderboards](https://birdiestats.com/records/index.html): All-time golf records and leaderboards
+  - [Most Career Wins](https://birdiestats.com/records/most-wins/index.html): Most career PGA Tour wins, all-time
+  - [Most Majors](https://birdiestats.com/records/most-majors/index.html): Most major championship wins, all-time
+  - [Scoring Records](https://birdiestats.com/records/scoring-records/index.html): Lowest totals and largest margins of victory
+  - [Lowest Rounds](https://birdiestats.com/records/lowest-rounds/index.html): Lowest rounds in major championship history
+  - [Consecutive Cuts](https://birdiestats.com/records/consecutive-cuts/index.html): Most consecutive cuts made, all-time record
+  - [Career Earnings](https://birdiestats.com/records/career-earnings/index.html): Career earnings milestones and the all-time money list
+  - [Notable Records](https://birdiestats.com/records/notable-records/index.html): Other notable all-time golf records
+- [This Day in Golf](https://birdiestats.com/this-day-in-golf/index.html): Day-by-day calendar of historic golf moments, with one page for each day of the year
+- [PGA Tour](https://birdiestats.com/pga-tour/index.html): PGA Tour data and statistics
+- [About](https://birdiestats.com/about/index.html): About BirdieStats and its data sources
+- [Sitemap](https://birdiestats.com/sitemap.xml): Full XML sitemap of all pages
+
+## URL Patterns
+
+- Player profile: `https://birdiestats.com/players/{player-slug}/index.html` (e.g. `/players/tiger-woods/index.html`)
+- Course profile: `https://birdiestats.com/courses/{course-slug}/index.html` (e.g. `/courses/augusta-national-golf-club/index.html`)
+- Head-to-head matchup: `https://birdiestats.com/head-to-head/{player-a}-vs-{player-b}/index.html` (e.g. `/head-to-head/tiger-woods-vs-phil-mickelson/index.html`)
+- Major championship: `https://birdiestats.com/majors/{major-slug}/index.html` (masters, us-open, the-open, pga-championship)
+- This Day in Golf: `https://birdiestats.com/this-day-in-golf/{month}-{day}/index.html` (e.g. `/this-day-in-golf/april-13/index.html`)
+- Records: `https://birdiestats.com/records/{record-slug}/index.html`
+
+## Data Sources
+
+- All statistics are compiled from official historical records and publicly available data
+- Records are reviewed for accuracy and updated as new championships are completed
+- Corrections and suggestions are welcome at info@birdiestats.com
+
+## Contact
+
+- Email: info@birdiestats.com
+
+## Notes
+
+- This is a static site
+- Not affiliated with the PGA Tour, the USGA, The R&A, Augusta National, or the PGA of America
+- Data is factual and statistical in nature
