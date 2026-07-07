@@ -163,6 +163,8 @@ def head_common(title, description, canonical, ld_blocks, prefix):
 <title>{title}</title>
 <meta name="description" content="{description}">
 <link rel="canonical" href="{canonical}">
+<link rel="alternate" hreflang="en" href="{canonical}">
+<link rel="alternate" hreflang="x-default" href="{canonical}">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{description}">
 <meta property="og:type" content="website">
@@ -181,10 +183,7 @@ def head_common(title, description, canonical, ld_blocks, prefix):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-<script src="https://cdn.tailwindcss.com"></script>
-<script>
-tailwind.config={{theme:{{extend:{{colors:{{'golf-green':'#1B5E20','golf-green-md':'#2E7D32','golf-green-lt':'#E8F5E9','golf-accent':'#4CAF50','golf-bg':'#FAFAFA','golf-card':'#FFFFFF','golf-border':'#E0E0E0','golf-dark':'#1A1A2E','golf-text':'#424242','golf-muted':'#757575','golf-gold':'#FFB300'}},fontFamily:{{'display':['Playfair Display','Georgia','serif'],'body':['Inter','system-ui','sans-serif']}}}}}}}}
-</script>
+<link rel="stylesheet" href="{prefix}assets/tailwind.css">
 <style>
 body {{ font-family: 'Inter', system-ui, sans-serif; background: #FAFAFA; color: #424242; }}
 h1, h2, h3, h4, h5 {{ font-family: 'Playfair Display', Georgia, serif; color: #1A1A2E; }}
@@ -336,16 +335,20 @@ def event_card(ev, prefix, timeline=True):
 # Day page rendering
 # ---------------------------------------------------------------------------
 def day_meta_description(label, events):
-    births = sum(1 for e in events if e["category"] == "birth")
     years = [e["year"] for e in events]
     span = f"{min(years)}" if min(years) == max(years) else f"{min(years)}–{max(years)}"
-    desc = (f"On {label} in golf history: {len(events)} notable "
-            f"{'event' if len(events) == 1 else 'events'}"
-            + (f", including {births} golfer {'birthday' if births == 1 else 'birthdays'}" if births else "")
-            + f", spanning {span}.")
+    # Lead with the most compelling event (championships first) for CTR.
+    lead = next((e for e in events if e["category"] == "championship"), events[0])
+    rest = len(events) - 1
+    lead_txt = f"{lead['year']}: {lead['title']}"
+    if rest:
+        desc = (f"On {label} in golf history — {lead_txt}, plus {rest} more "
+                f"{'moment' if rest == 1 else 'moments'} from {span}.")
+    else:
+        desc = f"On {label} in golf history — {lead_txt}."
     if len(desc) > 155:
         desc = (f"On {label} in golf history: {len(events)} notable golf moments "
-                f"spanning {span}.")
+                f"spanning {span}, from major championships to milestone wins.")
     return desc[:155]
 
 
@@ -438,8 +441,8 @@ def render_landing():
     prefix = "../"
     url = f"{SITE}/this-day-in-golf/"
     title = "This Day in Golf History — On This Day | BirdieStats.com"
-    desc = ("Discover what happened on this day in golf history: major championship moments, "
-            "record rounds, and the birthdays of the game's greatest players, every day of the year.")
+    desc = ("What happened on this day in golf history: major championship moments, "
+            "record rounds and birthdays of the game's greatest players.")
 
     ld_web = (
         '{"@context":"https://schema.org","@type":"WebPage",'
