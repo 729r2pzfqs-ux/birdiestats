@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://birdiestats.com/</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://birdiestats.com/courses/royal-birkdale/</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -308,7 +308,7 @@
   </url>
   <url>
     <loc>https://birdiestats.com/majors/the-open/</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1531,6 +1531,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://birdiestats.com/players/ryan-fox/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://birdiestats.com/players/sam-parks-jr/</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -1832,13 +1838,13 @@
   </url>
   <url>
     <loc>https://birdiestats.com/records/lowest-rounds/</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://birdiestats.com/records/scoring-records/</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3068,7 +3074,7 @@
   </url>
   <url>
     <loc>https://birdiestats.com/this-day-in-golf/july-19/</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
