@@ -279,7 +279,7 @@ def footer_html(prefix):
         <div class="space-y-2">
           <a href="{prefix}about/index.html" class="block text-green-200 hover:text-white no-underline text-sm">About</a>
           <a href="{prefix}privacy/index.html" class="block text-green-200 hover:text-white no-underline text-sm">Privacy Policy</a>
-          <a href="mailto:info@birdiestats.com" class="block text-green-200 hover:text-white no-underline text-sm">Contact</a>
+          <a href="mailto:info&#64;birdiestats&#46;com" class="block text-green-200 hover:text-white no-underline text-sm">Contact</a>
         </div>
       </div>
     </div>
