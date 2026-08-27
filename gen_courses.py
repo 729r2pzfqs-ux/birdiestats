@@ -132,7 +132,7 @@ FOOTER = """<footer class="bg-golf-green text-white mt-16">
         <div class="space-y-2">
           <a href="../../about/index.html" class="block text-green-200 hover:text-white no-underline text-sm">About</a>
           <a href="../../privacy/index.html" class="block text-green-200 hover:text-white no-underline text-sm">Privacy Policy</a>
-          <a href="mailto:info&#64;birdiestats&#46;com" class="block text-green-200 hover:text-white no-underline text-sm">Contact</a>
+          <!--email_off--><a href="mailto:info&#64;birdiestats&#46;com" class="block text-green-200 hover:text-white no-underline text-sm">Contact</a><!--/email_off-->
         </div>
       </div>
     </div>
