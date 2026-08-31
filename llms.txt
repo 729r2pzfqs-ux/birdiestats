@@ -7,7 +7,7 @@ BirdieStats.com covers more than 160 years of professional golf history, includi
 ## Key Facts
 
 - Complete history of all four major championships: the Masters (since 1934), the U.S. Open (since 1895), The Open Championship (since 1860), and the PGA Championship (since 1916)
-- 246 player profiles with career statistics and major wins
+- 251 player profiles with career statistics and major wins
 - 30 historic course profiles with championship records
 - 14 head-to-head player rivalry comparisons
 - 366 "This Day in Golf" daily history pages (one per calendar day)
