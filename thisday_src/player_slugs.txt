@@ -125,6 +125,7 @@ jimmy-demaret
 jimmy-walker
 jj-spaun
 jock-hutchison
+joe-dean
 joe-lloyd
 john-ball
 john-daly
@@ -203,6 +204,7 @@ steve-elkington
 steve-jones
 stewart-cink
 ted-ray
+thriston-lawrence
 tiger-woods
 todd-hamilton
 tom-creavy
